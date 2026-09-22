@@ -1,4 +1,4 @@
-import json, os, re, hashlib
+import json, re, hashlib
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urljoin
@@ -8,32 +8,35 @@ from bs4 import BeautifulSoup
 SOURCES=[
  ('AÇA Türkiye','https://aca.csb.gov.tr/','career'),
  ('EEA Careers','https://www.eea.europa.eu/en/about/careers/vacancies','career'),
- ('Copernicus Land','https://land.copernicus.eu/en/news','eo'),
- ('Copernicus Data Space','https://dataspace.copernicus.eu/news','eo'),
+ ('Copernicus Land News','https://land.copernicus.eu/en/news','eo'),
+ ('Copernicus Land Products','https://land.copernicus.eu/en/products','learn'),
+ ('Copernicus Data Space News','https://dataspace.copernicus.eu/news','eo'),
+ ('Copernicus Data Space APIs','https://documentation.dataspace.copernicus.eu/APIs.html','learn'),
  ('Eionet','https://www.eionet.europa.eu/','eionet'),
+ ('Eionet Dataflows','https://www.eionet.europa.eu/reportnet/dataflows','learn'),
 ]
-OUT=Path('docs/data/items.json'); HEAD={'User-Agent':'EuroScope/3.0 (+personal monitoring)'}
-KEYWORDS=['sne','seconded national expert','ulusal uzman','geçici görevli','vacanc','expert','copernicus','sentinel','openeo','api','dataset','product','eionet','reportnet','earth observation','land cover','urban atlas','ground motion','climate','water','vegetation','soil','stac','odata']
+OUT=Path('docs/data/items.json'); HEAD={'User-Agent':'EuroScope/3.1 (+personal learning radar)'}
+KEYWORDS=['sne','seconded national expert','ulusal uzman','geçici görevli','vacanc','expert','copernicus','sentinel','openeo','api','dataset','product','eionet','reportnet','earth observation','land cover','urban atlas','ground motion','climate','water','vegetation','soil','stac','odata','jupyter','algorithm','corine','insar','tropomi']
+
 LESSONS=[
- {'topic':'Sentinel-1','what':'C-band SAR uydusu; gece-gündüz ve buluttan büyük ölçüde bağımsız radar gözlemi sağlar.','use':'Deformasyon, taşkın, toprak nemi ve arazi değişimi.','you':'PS-InSAR ve afet/şehir izleme çalışmalarında.','idea':'Ankara veya İstanbul için Sentinel-1 zaman serisiyle yüzey hareketi taraması.','url':'https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-1'},
- {'topic':'Sentinel-2','what':'13 spektral bantlı optik kara gözlem görevi.','use':'Bitki, su, yangın, arazi örtüsü ve kentsel değişim.','you':'NDVI/NBR/NDCI ve CLMS doğrulama çalışmalarında.','idea':'CLMS arazi örtüsü ile Sentinel-2 değişim indekslerini karşılaştır.','url':'https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2'},
- {'topic':'Sentinel-3','what':'Kara ve okyanus yüzeyi için optik, termal ve altimetri gözlemleri sağlar.','use':'Deniz rengi, yüzey sıcaklığı, bitki ve su izleme.','you':'İzmir Körfezi gibi kıyı su kalitesi çalışmalarında Sentinel-2 ile birlikte.','idea':'Sentinel-2/3 klorofil göstergelerinin mekânsal-ölçek karşılaştırması.','url':'https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-3'},
- {'topic':'Sentinel-5P','what':'Atmosfer bileşenlerini ölçen TROPOMI sensörlü görev.','use':'NO₂, SO₂, CO, CH₄, ozon ve aerosol izleme.','you':'Şehirler, sanayi ve iklim/çevre kesişiminde yeni makale hattı açabilir.','idea':'Ankara’da NO₂ zaman serisini arazi kullanımı ve ulaşım göstergeleriyle ilişkilendir.','url':'https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-5p'},
- {'topic':'openEO API','what':'EO verisini indirmeden sunucu tarafında işlemek için açık bir API standardı.','use':'Python/R/JS ile veri küpü, zaman serisi ve toplu uydu analizi.','you':'GEE benzeri iş akışlarını doğrudan Copernicus Data Space üzerinde öğrenmek için.','idea':'Aynı Sentinel-2 analizini GEE ve openEO ile çalıştırıp yöntem/performans karşılaştırması yap.','url':'https://documentation.dataspace.copernicus.eu/APIs/openEO.html'},
- {'topic':'STAC','what':'Uydu ve coğrafi varlıkları standart JSON katalogları üzerinden aramayı sağlayan spesifikasyon.','use':'Tarih, konum ve koleksiyona göre programatik veri keşfi.','you':'Python/Colab veri toplama aşamasını otomatikleştirmek için.','idea':'Türkiye için tekrarlanabilir Sentinel veri keşif modülü geliştir.','url':'https://documentation.dataspace.copernicus.eu/APIs/STAC.html'},
- {'topic':'OData API','what':'Copernicus Data Space kataloğunda ürün arama ve indirme için kullanılan API.','use':'Filtreli ürün sorgusu ve otomatik veri indirme.','you':'Toplu Sentinel arşivi oluşturacağın projelerde.','idea':'Afet öncesi/sonrası görüntüleri otomatik bulan küçük bir Python aracı yap.','url':'https://documentation.dataspace.copernicus.eu/APIs/OData.html'},
- {'topic':'Eionet & Reportnet','what':'Eionet, EEA ve ülkeler arasındaki çevre bilgi ağıdır; Reportnet raporlama/veri akışı altyapısıdır.','use':'Ulusal çevre verilerinin ortak veri akışlarıyla raporlanması.','you':'SNE hedefinde yalnız EO değil Avrupa çevre veri yönetişimini de göstermek için.','idea':'Türkiye’de bir çevre veri temasının Eionet veri akışına uyumunu CBS perspektifiyle incele.','url':'https://www.eionet.europa.eu/reportnet'},
- {'topic':'Copernicus Land Monitoring Service','what':'Arazi örtüsü, arazi kullanımı ve biyofiziksel değişkenler için Avrupa ve küresel ürünler sunar.','use':'CORINE, Urban Atlas, imperviousness, vegetation ve benzeri hazır katmanlar.','you':'Türkiye analizlerinde Sentinel’den türettiğin sonuçları referans ürünlerle birleştirmek için.','idea':'Urban Atlas/CLMS ürünü ile Sentinel tabanlı kentsel büyüme analizini karşılaştır.','url':'https://land.copernicus.eu/'},
+ {'topic':'Sentinel-1: radar gözünden Dünya','category':'Sentinel / SAR','what':'Sentinel-1, C-band sentetik açıklıklı radar (SAR) kullanan Copernicus görevidir. Optik bir kamera gibi yansıyan güneş ışığını ölçmek yerine kendi mikrodalga sinyalini gönderip yüzeyden dönen sinyali kaydeder. Bu nedenle gece-gündüz çalışabilir ve bulutluluk optik sistemlere göre çok daha az sorun yaratır.','why':'Sentinel-1 yalnızca bir “radar görüntüsü” kaynağı değildir. GRD ürünleri taşkın, kıyı ve arazi değişimi gibi uygulamalarda; SLC ürünleri ise faz bilgisini koruduğu için interferometri ve yüzey deformasyonu çalışmalarında kritik rol oynar.','access':'Copernicus Data Space Browser ile görsel keşif yapabilir; STAC/OData ile ürün arayabilir; Python/openEO gibi araçlarla iş akışını otomatikleştirebilirsin. InSAR için ürün tipini ve yörünge geometrisini özellikle doğru seçmek gerekir.','you':'PS-InSAR deneyiminle doğrudan bağlantılı. Yeni bir bölgeyi sıfırdan işlemek yerine Copernicus EGMS sonuçlarıyla kendi InSAR sonuçlarını karşılaştırarak yöntem doğrulaması ve ölçek karşılaştırması yapabilirsin.','idea':'Bir maden/heyelan alanında kendi PS-InSAR hız alanın ile EGMS hızlarını; mekânsal kapsama, LOS hızları, anomali konumları ve veri yoğunluğu açısından karşılaştır.','concepts':'SAR · SLC/GRD · LOS · InSAR','url':'https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-1'},
+ {'topic':'Sentinel-2: 13 bant neden önemli?','category':'Sentinel / Optik','what':'Sentinel-2, kara ve kıyı alanlarını 13 spektral bantla gözleyen optik Copernicus görevidir. Bantların mekânsal çözünürlükleri 10, 20 ve 60 metredir. Görünür, yakın kızılötesi ve red-edge bantlarının birlikte bulunması bitki, su, yangın ve arazi örtüsü analizlerinde onu çok kullanışlı yapar.','why':'NDVI, NBR veya NDCI gibi indeksler yalnızca formül değildir; hangi bantların hangi fiziksel özelliğe duyarlı olduğunu anlamak gerekir. Level-2A yüzey yansıtımı atmosfer etkileri düzeltilmiş analizler için çoğu kara uygulamasında daha uygun başlangıç ürünüdür.','access':'CDSE Browser, STAC/OData ve Sentinel Hub servislerinden erişilebilir. GEE üzerinde de Sentinel-2 koleksiyonları bulunur; fakat EuroScope sana CDSE tarafındaki erişim ve işleme yollarını da öğretecek.','you':'Yangın sonrası NBR/NDVI ve kıyı su kalitesi çalışmalarınla doğrudan ilişkili. Aynı analizi CDSE/openEO tarafında tekrar etmek, tek bir platforma bağımlı olmayan bir EO iş akışı kurmanı sağlar.','idea':'Aynı Sentinel-2 zaman serisini GEE ve CDSE/openEO ile üret; veri seçimi, bulut maskeleme, tekrarlanabilirlik ve çıktı tutarlılığını karşılaştır.','concepts':'L1C · L2A · red-edge · surface reflectance','url':'https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2'},
+ {'topic':'Sentinel-3: kıyı ve çevre izlemede farklı ölçek','category':'Sentinel / Okyanus-Kara','what':'Sentinel-3; okyanus rengi, kara/deniz yüzey sıcaklığı ve yüzey özelliklerini izleyen çok sensörlü bir görevdir. Sentinel-2 kadar yüksek mekânsal çözünürlük hedeflemez; bunun yerine geniş alanı sık tekrarlarla gözlemek çevresel zaman serileri için avantaj sağlar.','why':'Bir sensörün “daha yüksek çözünürlüklü” olması her zaman daha iyi olduğu anlamına gelmez. Kıyı su kalitesi gibi konularda Sentinel-2 mekânsal ayrıntı sağlarken Sentinel-3 daha sık ve geniş ölçekli çevresel gözlem sağlayabilir.','access':'CDSE üzerinden Sentinel-3 koleksiyonları keşfedilebilir ve indirilebilir. Ürün seçerken sensör ve ürün tipini araştırma sorusuna göre ayırmak gerekir.','you':'İzmir Körfezi çalışmanda Sentinel-2 tabanlı göstergelerin yanına Sentinel-3 deniz rengi ürünlerini eklemek, tek sensörlü analizden çok-sensörlü bir çalışmaya geçiş sağlar.','idea':'İzmir Körfezi için Sentinel-2 ve Sentinel-3 tabanlı klorofil göstergelerinin mekânsal ve zamansal uyumunu istasyon verileriyle değerlendir.','concepts':'OLCI · SLSTR · ocean colour · temporal resolution','url':'https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-3'},
+ {'topic':'Sentinel-5P + TROPOMI: atmosferi haritalamak','category':'Atmosfer','what':'Sentinel-5P üzerindeki TROPOMI sensörü NO₂, SO₂, CO, CH₄, ozon, formaldehit ve aerosol gibi atmosfer bileşenlerini küresel ölçekte izler. Bu ürünler doğrudan yer seviyesi hava kalitesi istasyonu ölçümü değildir; atmosferik kolon bilgisini temsil eden ürünlerin fiziksel anlamı analizden önce anlaşılmalıdır.','why':'Uydu atmosfer ürünlerinde kalite bayrakları ve qa_value gibi değişkenler kritik önemdedir. Haritayı doğrudan ortalamak yerine düşük kaliteli gözlemleri elemek, bulut ve ölçüm geometrisi etkilerini dikkate almak gerekir.','access':'CDSE üzerinde Sentinel-5P koleksiyonlarına erişilebilir; bazı Level-2 koleksiyonları openEO ile sunucu tarafında işlenebilir. Böylece büyük zaman serilerini tek tek dosya indirmeden analiz etmek mümkündür.','you':'CBS + iklim/çevre profilin için yeni bir araştırma hattı açar. Arazi kullanımı, ulaşım veya sanayi katmanlarını atmosfer gözlemleriyle ilişkilendirerek EO ile politika/şehir çalışmalarını birleştirebilirsin.','idea':'Ankara’da 2019–2026 NO₂ mevsimselliğini CLMS arazi örtüsü ve ana ulaşım koridorlarıyla birlikte incele; uydu ürününün sınırlılıklarını ayrıca tartış.','concepts':'TROPOMI · L2 · qa_value · tropospheric column','url':'https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-5p'},
+ {'topic':'openEO: veriyi indirmeden analiz etmek','category':'API / Bulut İşleme','what':'openEO, Earth Observation verilerini standart bir API üzerinden sunucu tarafında işlemek için geliştirilmiş açık bir arayüzdür. Kullanıcı veri küpünü, mekânsal-zamansal filtreleri ve işlemleri tanımlar; hesaplama verinin bulunduğu altyapıda yapılır.','why':'STAC/OData ile openEO aynı iş değildir. STAC ve OData ağırlıklı olarak veri keşfi/katalog erişimi sağlarken openEO analiz sürecini de tanımlayabilir. Bu ayrımı bilmek CDSE ekosistemini gerçekten anlamanın temelidir.','access':'Python istemcisiyle bir backend’e bağlanıp koleksiyonları listeleyebilir, AOI/tarih seçebilir, bant işlemleri ve zamansal indirgeme yapabilir ve sonuç işi oluşturabilirsin.','you':'GEE deneyimini Copernicus’un kendi ekosistemine taşımanın en mantıklı yollarından biri. CV’de yalnız “Sentinel kullandım” yerine bulut tabanlı EO processing workflow gösterebilirsin.','idea':'Bir Sentinel-2 indeks zaman serisini hem GEE hem openEO ile üret; veri seçimi, kod yapısı, tekrarlanabilirlik ve işlem yaklaşımını teknik olarak karşılaştır.','concepts':'data cube · process graph · batch job · backend','url':'https://documentation.dataspace.copernicus.eu/APIs/openEO.html'},
+ {'topic':'STAC ve OData: katalog API’si ne demek?','category':'API / Veri Keşfi','what':'STAC, mekânsal-zamansal varlıkları standart JSON yapılarıyla tanımlayan açık bir katalog yaklaşımıdır. OData ise CDSE kataloğunda ürünleri özelliklerine göre sorgulamak ve erişmek için kullanılan başka bir API yoludur. İkisi de “uydu görüntüsünü analiz eden algoritma” değildir; öncelikle doğru veriyi bulma ve erişim problemini çözer.','why':'Manuel Browser kullanımı birkaç görüntü için yeterlidir. Yüzlerce tarih, farklı AOI veya tekrarlanan araştırma akışı olduğunda programatik katalog sorgusu araştırmanın tekrarlanabilirliğini ciddi biçimde artırır.','access':'Python/Colab içinde tarih, geometri, koleksiyon ve ürün özelliklerine göre sorgu kurup sonuç URL/kimliklerini sonraki indirme veya işleme adımına aktarabilirsin.','you':'Afet öncesi/sonrası veya uzun zaman serisi analizlerinde veri toplama aşamasını otomatikleştirmen için yararlı.','idea':'Türkiye’de seçilen herhangi bir afet AOI’si için olay tarihinden önce/sonra uygun Sentinel ürünlerini otomatik bulan küçük bir “EO Data Finder” geliştir.','concepts':'catalogue · collection · item · spatial/temporal query','url':'https://documentation.dataspace.copernicus.eu/APIs.html'},
+ {'topic':'CLMS: Copernicus sadece ham uydu görüntüsü değildir','category':'Copernicus Land','what':'Copernicus Land Monitoring Service (CLMS), ham uydu görüntülerinin ötesinde arazi örtüsü/arazi kullanımı, biyofiziksel değişkenler, referans veriler ve yer hareketi gibi temalarda hazır ürün ve servisler sağlar. CORINE Land Cover, Urban Atlas ve European Ground Motion Service bunun farklı tipte örnekleridir.','why':'Araştırmada her değişkeni Sentinel görüntüsünden kendin üretmek zorunda değilsin. Hazır CLMS katmanlarını bağımsız değişken, referans veri veya karşılaştırma ürünü olarak kullanmak hem analizi zenginleştirebilir hem de Avrupa veri ekosistemine hâkimiyetini gösterir.','access':'CLMS web sitesi ve Data Viewer üzerinden ürünler keşfedilebilir; ürüne göre indirme ve servis/API seçenekleri değişebilir. Bazı CLMS koleksiyonları CDSE ekosistemi üzerinden de erişilebilir.','you':'CBS geçmişin nedeniyle CLMS senin için Sentinel görevleri kadar önemli. Arazi/şehir katmanlarını çevresel ve atmosferik analizlerle birleştirmek AÇA odaklı çalışmalar için özellikle anlamlı.','idea':'Bir Ankara ilçesinde CLMS arazi örtüsü/imperviousness ürünleri ile Sentinel-2’den üretilen kentsel değişim göstergelerini karşılaştır ve uyumsuzluk alanlarını analiz et.','concepts':'CLC · Urban Atlas · HRL · EGMS','url':'https://land.copernicus.eu/en/products'},
+ {'topic':'Eionet ve Reportnet: verinin kurumsal yolculuğu','category':'EEA / Veri Yönetişimi','what':'Eionet, Avrupa Çevre Ajansı ile üye ve işbirliği ülkelerindeki kurumları birbirine bağlayan çevre bilgi ağıdır. Reportnet ise çevresel raporlama ve veri akışlarının yürütülmesinde kullanılan altyapıdır. Burada konu yalnız teknik veri formatı değil; veri sorumluluğu, raporlama takvimi, kalite ve kurumsal iş akışıdır.','why':'AÇA’da çalışmak isteyen bir CBS/EO uzmanı için yalnız uydu analizi bilmek yeterli değildir. Verinin ulusal kurumdan Avrupa düzeyindeki değerlendirmeye nasıl ulaştığını anlamak, Eionet ekosistemini kavramanın temelidir.','access':'Eionet/Reportnet sayfalarındaki dataflow ve raporlama kaynakları üzerinden hangi çevre temasının hangi veri akışıyla raporlandığını inceleyebilirsin.','you':'Bakanlık deneyimini teknik CBS becerisiyle birleştirebileceğin alan tam olarak burası. Ulusal veri üretimi ile Avrupa çevre veri yönetişimi arasındaki köprüyü öğrenmek SNE profiline doğrudan katkı sağlar.','idea':'Bir çevre temasını seçip Türkiye’deki veri üretim zinciri ile ilgili Eionet/Reportnet veri akışını süreç, veri modeli ve CBS birlikte çalışabilirliği açısından eşleştir.','concepts':'Eionet · dataflow · reporting obligation · data governance','url':'https://www.eionet.europa.eu/reportnet/dataflows'},
 ]
 
 def clean(s): return re.sub(r'\s+',' ',s or '').strip()
 def potential(title,kind):
  t=title.lower()
- if any(k in t for k in ['sne','seconded national','ulusal uzman','geçici görevli']): return 'YÜKSEK — AÇA/SNE hedefinle doğrudan ilgili; koşul ve son tarihi hemen kontrol et.'
- if kind=='career' and any(k in t for k in ['vacanc','expert','ilan']): return 'YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.'
- if any(k in t for k in ['sentinel','openeo','api','dataset','product','stac','odata','land cover']): return 'YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.'
- if kind=='eionet' or any(k in t for k in ['eionet','reportnet']): return 'ORTA-YÜKSEK — Avrupa çevre veri akışlarını öğrenmek SNE profiline doğrudan katkı sağlar.'
- return 'ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.'
+ if any(k in t for k in ['sne','seconded national','ulusal uzman','geçici görevli']): return 'YÜKSEK — AÇA/SNE hedefiyle doğrudan ilgili. Uygunluk koşulları, kurum içi başvuru yolu ve son tarihi kontrol et.'
+ if kind=='career' and any(k in t for k in ['vacanc','expert','ilan']): return 'YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.'
+ if any(k in t for k in ['sentinel','openeo','api','dataset','product','stac','odata','land cover']): return 'YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.'
+ if kind=='eionet' or any(k in t for k in ['eionet','reportnet']): return 'ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.'
+ return 'ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.'
 
 def scrape(name,url,kind):
  r=requests.get(url,headers=HEAD,timeout=35); r.raise_for_status(); soup=BeautifulSoup(r.text,'html.parser'); items=[]
@@ -42,34 +45,30 @@ def scrape(name,url,kind):
   if len(title)<12 or not any(k in low for k in KEYWORDS): continue
   href=urljoin(url,a['href'])
   if href.startswith(('mailto:','javascript:')): continue
-  context=clean(a.parent.get_text(' ',strip=True))[:360] if a.parent else title
+  parent=a.parent
+  context=clean(parent.get_text(' ',strip=True))[:650] if parent else title
   uid=hashlib.sha1((name+'|'+href+'|'+title).encode()).hexdigest()[:16]
   items.append({'id':uid,'source':name,'kind':kind,'title':title,'url':href,'summary':context,'potential':potential(title,kind)})
  seen=set(); out=[]
  for x in items:
   if x['url'] not in seen: seen.add(x['url']); out.append(x)
- return out[:50]
+ return out[:70]
 
 def main():
  old=[]
  if OUT.exists():
   try: old=json.loads(OUT.read_text(encoding='utf-8')).get('items',[])
   except: pass
- oldids={x['id'] for x in old}; oldmap={x['id']:x for x in old}; now=datetime.now(timezone.utc); allitems=[]; errors=[]
+ oldmap={x['id']:x for x in old}; now=datetime.now(timezone.utc); allitems=[]; errors=[]
  for n,u,k in SOURCES:
   try: allitems += scrape(n,u,k)
   except Exception as e: errors.append(f'{n}: {e}')
  uniq={x['id']:x for x in allitems}; items=list(uniq.values())
  for x in items: x['first_seen']=oldmap.get(x['id'],{}).get('first_seen',now.isoformat())
- lesson=LESSONS[now.toordinal()%len(LESSONS)]
- OUT.parent.mkdir(parents=True,exist_ok=True); OUT.write_text(json.dumps({'updated_at':now.isoformat(),'items':items,'lesson':lesson,'errors':errors},ensure_ascii=False,indent=2),encoding='utf-8')
- new=[x for x in items if x['id'] not in oldids]
- if old:
-  p=[x for x in new if 'YÜKSEK' in x['potential']][:4]
-  lines=[]
-  if p:
-   lines=['🌍 EuroScope — yeni gelişmeler']
-   for x in p: lines += [f"\n• {x['title']}",f"{x['source']} — {x['potential']}",x['url']]
-  lines += [f"\n🎓 Bugünün kartı: {lesson['topic']}",lesson['what'],f"Sen nerede kullanırsın? {lesson['you']}",f"💡 {lesson['idea']}",lesson['url']]
- print(f'{len(items)} item, {len(new)} new, errors={errors}')
+ # 3 daily runs rotate the curriculum naturally; device tracks completed lessons separately.
+ slot=(now.hour//8)
+ lesson=LESSONS[(now.toordinal()*3+slot)%len(LESSONS)]
+ OUT.parent.mkdir(parents=True,exist_ok=True)
+ OUT.write_text(json.dumps({'updated_at':now.isoformat(),'items':items,'lesson':lesson,'curriculum':LESSONS,'errors':errors},ensure_ascii=False,indent=2),encoding='utf-8')
+ print(f'{len(items)} items; lesson={lesson["topic"]}; errors={errors}')
 if __name__=='__main__': main()

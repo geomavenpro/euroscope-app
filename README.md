@@ -1,24 +1,16 @@
-# EuroScope v3
+# EuroScope v3.1 — Learning Radar
 
-Installable PWA for iPhone, Samsung/Android and desktop. Tracks AÇA/EEA, Copernicus Land, Copernicus Data Space and Eionet; provides a daily learning card; ranks content using interests stored locally on each device.
+EuroScope, AÇA/EEA + Copernicus + Eionet ekosistemini takip eden ve aynı zamanda sistematik mini dersler sunan kişisel PWA'dır.
 
-## Privacy
-- No Telegram token.
-- No account data is collected by the app.
-- Interests/name are stored only in that browser/device via localStorage.
-- Each phone has its own independent profile.
-- Source monitoring runs in GitHub Actions.
+## v3.1
+- Radar günde 3 kez çalışır: yaklaşık 09:00, 15:00, 21:00 Türkiye saati.
+- Yeni haber olmasa da öğrenme içeriği üretir/döndürür.
+- Öğrenme kartları artık 3–5 dakikalık anlamlı mini ders formatındadır: nedir, neden önemli, erişim/kullanım, kişisel bağlantı, çalışma fikri ve temel kavramlar.
+- Copernicus Land Products, CDSE API dokümantasyonu ve Eionet Dataflows kaynakları radar kapsamına eklendi.
+- Öğren sekmesinde müfredat görünür.
+- İlgi profili cihazda saklanmaya devam eder; iPhone ve Samsung ayrı profillere sahip olabilir.
 
-## GitHub
-Keep these at repository root: `.github`, `docs`, `scripts`, `requirements.txt`.
-Actions runs daily at 06:00 UTC (09:00 Türkiye time).
+## Kurulum / güncelleme
+Bu paketin içindeki `.github`, `docs`, `scripts`, `README.md`, `requirements.txt` öğelerini repository köküne kopyala. GitHub Desktop'ta commit + push yap. Ardından Actions > EuroScope Radar > Run workflow ile ilk v3.1 verisini üret.
 
-## Hosting
-A PWA needs an HTTPS web address. GitHub Pages from a private repository may depend on the GitHub plan/account settings and does not by itself make the published site private. If strict private access is required, deploy behind an authentication layer instead of relying on an obscure URL.
-
-## Install
-- iPhone: open the HTTPS app URL in Safari > Share > Add to Home Screen.
-- Samsung: open in Chrome/Samsung Internet > Install app / Add to Home screen.
-
-## Notifications
-This package intentionally does not pretend to provide background push notifications. Reliable iPhone/Android push requires a push backend/provider plus user permission. The dashboard itself updates from GitHub Actions. Push can be added as a separate secure deployment step.
+> Not: Gerçek iOS/Android push notification altyapısı bu pakette henüz yoktur. GitHub Actions günde üç kez radarı günceller; uygulama açıldığında güncel içerik görünür.

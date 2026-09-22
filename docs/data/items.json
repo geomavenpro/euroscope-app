@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T08:52:18.508667+00:00",
+  "updated_at": "2026-09-22T09:27:00.084126+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -8,7 +8,7 @@
       "title": "WISE freshwater - Freshwater information system for Europe",
       "url": "https://water.europa.eu/freshwater",
       "summary": "WISE freshwater - Freshwater information system for Europe",
-      "potential": "ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -18,7 +18,7 @@
       "title": "European Climate and health observatory",
       "url": "https://climate-adapt.eea.europa.eu/en/observatory",
       "summary": "European Climate and health observatory",
-      "potential": "ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -28,7 +28,7 @@
       "title": "ClimateADAPT",
       "url": "https://climate-adapt.eea.europa.eu/",
       "summary": "ClimateADAPT",
-      "potential": "ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -38,7 +38,7 @@
       "title": "Climate and energy in the EU",
       "url": "https://climate-energy.eea.europa.eu",
       "summary": "Climate and energy in the EU",
-      "potential": "ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -48,7 +48,7 @@
       "title": "Copernicus Land Monitoring Service",
       "url": "https://land.copernicus.eu/en",
       "summary": "Copernicus Land Monitoring Service",
-      "potential": "ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -58,7 +58,7 @@
       "title": "Copernicus InSitu",
       "url": "https://insitu.copernicus.eu",
       "summary": "Copernicus InSitu",
-      "potential": "ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -68,7 +68,7 @@
       "title": "Expert - Data Management - Contract Agent (FGIV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/vacancy-notice-eea-ca-2026-10.pdf/@@download/file",
       "summary": "Expert - Data Management - Contract Agent (FGIV)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -78,7 +78,7 @@
       "title": "Expert - Waste Data Reporting - Contract Agent (FGIV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/vacancy-notice-eea-ca-2026-9.pdf/@@download/file",
       "summary": "Expert - Waste Data Reporting - Contract Agent (FGIV)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -88,7 +88,7 @@
       "title": "Expert - Data Architect - Temporary Agent (AD7)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/vacancy-notice-eea-ad-2026-8.pdf/@@download/file",
       "summary": "Expert - Data Architect - Temporary Agent (AD7)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -98,7 +98,7 @@
       "title": "Expert - Legal, Procurement and Data Protection - Official (AD5-AD12)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/vacancy-notice-eea-ad-2026-7.pdf/@@download/file",
       "summary": "Expert - Legal, Procurement and Data Protection - Official (AD5-AD12) EEA/AD/2026/7 Closed: 7 July 2026 This vacancy is restricted to officials of the institutions of the European Union or Union bodies.",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -108,7 +108,7 @@
       "title": "Expert - Chemicals, environment and health - Contract Agent (FGIV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/vacancy-notice-eea-ca-2026-6.pdf/@@download/file",
       "summary": "Expert - Chemicals, environment and health - Contract Agent (FGIV) EEA/CA/2026/6 Closed: 3 June 2026",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -118,7 +118,7 @@
       "title": "Expert - Urban Sustainability - Contract Agent (FGIV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/vacancy-notice-eea-ca-2026-5.pdf/@@download/file",
       "summary": "Expert - Urban Sustainability - Contract Agent (FGIV)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -128,7 +128,7 @@
       "title": "Expert - Air Quality - Temporary Agent (AD5)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/vacancy-notice-eea-ad-2026-4.pdf/@@download/file",
       "summary": "Expert - Air Quality - Temporary Agent (AD5)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -138,7 +138,7 @@
       "title": "Expert - Climate and Agriculture - Temporary Agent (AD5)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/vacancy-notice-eea-ad-2026-3.pdf/@@download/file",
       "summary": "Expert - Climate and Agriculture - Temporary Agent (AD5)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -148,7 +148,7 @@
       "title": "Expert - Biodiversity and Nature - Temporary Agent (AD5)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ad-2026-1.pdf/@@download/file",
       "summary": "Expert - Biodiversity and Nature - Temporary Agent (AD5)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -158,7 +158,7 @@
       "title": "Expert - Procurement - Contract Agent (FGIV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ca-2025-14.pdf/@@download/file",
       "summary": "Expert - Procurement - Contract Agent (FGIV)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -168,7 +168,7 @@
       "title": "Expert - Project Management and Networking - Contract Agent (FGIV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ca-2025-13.pdf/@@download/file",
       "summary": "Expert - Project Management and Networking - Contract Agent (FGIV)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -178,7 +178,7 @@
       "title": "Expert - Water Resilience and Pollution - Temporary Agent (AD6)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ad-2025-12.pdf/@@download/file",
       "summary": "Expert - Water Resilience and Pollution - Temporary Agent (AD6)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -188,7 +188,7 @@
       "title": "Expert - Industrial Accident Assessment - Temporary Agent (AD6)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/vacancy-notice-eea-ad-2025-11/@@download/file",
       "summary": "Expert - Industrial Accident Assessment - Temporary Agent (AD6)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -198,7 +198,7 @@
       "title": "Expert - Environment and Climate Monitoring - Contract Agent (FGIV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/vacancy-notice-eea-ca-2025-10/@@download/file",
       "summary": "Expert - Environment and Climate Monitoring - Contract Agent (FGIV)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -208,7 +208,7 @@
       "title": "Expert - Climate Change Mitigation - Contract Agent (FGIV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/vacancy-notice-eea-ca-2025-8/@@download/file",
       "summary": "Expert - Climate Change Mitigation - Contract Agent (FGIV)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -218,7 +218,7 @@
       "title": "Expert - Data Governance - Contract Agent (FGIV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/vacancy-notice-eea-ca-2025-7/@@download/file",
       "summary": "Expert - Data Governance - Contract Agent (FGIV)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -228,7 +228,7 @@
       "title": "Head of Unit - Earth Observation and Digital Transformation - Temporary Agent (AD9)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/vacancy-notice-eea-ad-2025-5/@@download/file",
       "summary": "Head of Unit - Earth Observation and Digital Transformation - Temporary Agent (AD9)",
-      "potential": "ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -238,7 +238,7 @@
       "title": "Expert - Visual communication - Contract Agent (FGIV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ca-2025-4-vacancy-notice.pdf/@@download/file",
       "summary": "Expert - Visual communication - Contract Agent (FGIV)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -248,7 +248,7 @@
       "title": "Expert - Digital marketing and stakeholder engagement - Contract Agent (FGIV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/vacancy-notice-eea-ca-2025-3.pdf",
       "summary": "Expert - Digital marketing and stakeholder engagement - Contract Agent (FGIV)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -258,7 +258,7 @@
       "title": "Expert - Procurement - Contract Agent (FGIV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ca-2025-2",
       "summary": "Expert - Procurement - Contract Agent (FGIV)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -268,7 +268,7 @@
       "title": "Call for Seconded National Experts 2025",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/call-for-seconded-national-experts-2025",
       "summary": "Call for Seconded National Experts 2025",
-      "potential": "YÜKSEK — AÇA/SNE hedefinle doğrudan ilgili; koşul ve son tarihi hemen kontrol et.",
+      "potential": "YÜKSEK — AÇA/SNE hedefiyle doğrudan ilgili. Uygunluk koşulları, kurum içi başvuru yolu ve son tarihi kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -278,7 +278,7 @@
       "title": "Expert - Circular economy, sustainable finance and economy analysis - Temporary Agent (AD5)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ad-2024-18",
       "summary": "Expert - Circular economy, sustainable finance and economy analysis - Temporary Agent (AD5)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -288,7 +288,7 @@
       "title": "Expert - Climate change adaptation - Temporary Agent (AD6)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/vacancy-notice-eea-ad-2024-17.pdf",
       "summary": "Expert - Climate change adaptation - Temporary Agent (AD6)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -298,7 +298,7 @@
       "title": "Expert - Communication - Contract Agent (FGIV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ca-2024-15/@@download/file",
       "summary": "Expert - Communication - Contract Agent (FGIV)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -308,7 +308,7 @@
       "title": "Expert – Human Resources - Contract Agent (FGIV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ca-2024-13",
       "summary": "Expert – Human Resources - Contract Agent (FGIV)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -318,7 +318,7 @@
       "title": "Expert – Copernicus Land Monitoring - Contract Agent (FGIV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ca-2024-12",
       "summary": "Expert – Copernicus Land Monitoring - Contract Agent (FGIV)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -328,7 +328,7 @@
       "title": "Expert – Greenhouse gas emissions and carbon removals (AD6)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ad-2024-11",
       "summary": "Expert – Greenhouse gas emissions and carbon removals (AD6)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -338,7 +338,7 @@
       "title": "Expert - Digital transformation - Temporary Agent (AD7)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ad-2024-10",
       "summary": "Expert - Digital transformation - Temporary Agent (AD7)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -348,7 +348,7 @@
       "title": "Expert - Transport and Environment - Temporary Agent (AD6)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ad-2024-9",
       "summary": "Expert - Transport and Environment - Temporary Agent (AD6)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -358,7 +358,7 @@
       "title": "Expert - Cybersecurity Architect - Temporary Agent (AD7)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ad-2024-8/@@download/file",
       "summary": "Expert - Cybersecurity Architect - Temporary Agent (AD7)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -368,7 +368,7 @@
       "title": "Expert - Financial Controlling and Accounting - Contract Agent (FGIV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ca-2024-7",
       "summary": "Expert - Financial Controlling and Accounting - Contract Agent (FGIV)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -378,7 +378,7 @@
       "title": "Expert - Training and Career Development - Contract Agent (FGIV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ca-2024-6",
       "summary": "Expert - Training and Career Development - Contract Agent (FGIV)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -388,7 +388,7 @@
       "title": "Expert - Secretariat to the European Scientific Advisory Board on Climate Change - Temporary Agent (AD6)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ad-2024-4-1",
       "summary": "Expert - Secretariat to the European Scientific Advisory Board on Climate Change - Temporary Agent (AD6)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -398,7 +398,7 @@
       "title": "Expert - Accountant - Temporary Agent (AD8)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ad-2024-3",
       "summary": "Expert - Accountant - Temporary Agent (AD8)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -408,678 +408,1678 @@
       "title": "Expert - Data Management - Contract Agent (FG IV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/eea-ca-2024-2",
       "summary": "Expert - Data Management - Contract Agent (FG IV)",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir; CBS, veri ve Earth Observation rollerini kontrol et.",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
-      "id": "00d0ba032e4eec00",
-      "source": "Copernicus Land",
+      "id": "b9beac2b86ef569c",
+      "source": "Copernicus Land News",
       "kind": "eo",
       "title": "Ask Copernicus Observia",
       "url": "https://land.copernicus.eu/en/ask-observia-ai",
       "summary": "Ask Copernicus Observia",
-      "potential": "ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "dfde9691f26ef4c5",
-      "source": "Copernicus Land",
+      "id": "4adb17ff773b01f1",
+      "source": "Copernicus Land News",
       "kind": "eo",
       "title": "Production updates",
       "url": "https://land.copernicus.eu/en/production-updates",
       "summary": "Production updates",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "9edba21a8c245114",
-      "source": "Copernicus Land",
+      "id": "c0ac9b6be5b6b31d",
+      "source": "Copernicus Land News",
       "kind": "eo",
       "title": "Dataset catalogue",
       "url": "https://land.copernicus.eu/en/dataset-catalog",
       "summary": "Dataset catalogue",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "ed6db16d764a5817",
-      "source": "Copernicus Land",
+      "id": "ac3f335493561d93",
+      "source": "Copernicus Land News",
       "kind": "eo",
       "title": "Sentinel-3C: keeping watch over a changing planet",
       "url": "https://land.copernicus.eu/en/news/sentinel-3c-keeping-watch-over-a-changing-planet",
       "summary": "Sentinel-3C: keeping watch over a changing planet",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "bae154708e0b43ca",
-      "source": "Copernicus Land",
+      "id": "166b17c875f4e0e4",
+      "source": "Copernicus Land News",
       "kind": "eo",
       "title": "Tracking change where it matters most: High Resolution Hot Spot Monitoring II delivers new land cover change data up to 2024",
       "url": "https://land.copernicus.eu/en/news/tracking-change-where-it-matters-most-high-resolution-hot-spot-monitoring-ii-delivers-new-land-cover-change-data-up-to-2024",
       "summary": "Tracking change where it matters most: High Resolution Hot Spot Monitoring II delivers new land cover change data up to 2024",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "420bc59c1595c9e3",
-      "source": "Copernicus Land",
+      "id": "1344d3f56d049732",
+      "source": "Copernicus Land News",
       "kind": "eo",
       "title": "New contract signed for future production and consolidation of the Riparian and Coastal Zones products",
       "url": "https://land.copernicus.eu/en/news/new-contract-signed-for-future-production-and-consolidation-of-the-riparian-and-coastal-zones-products",
       "summary": "New contract signed for future production and consolidation of the Riparian and Coastal Zones products",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "b31bd588a3a764cb",
-      "source": "Copernicus Land",
+      "id": "7a33c3d2193bc550",
+      "source": "Copernicus Land News",
       "kind": "eo",
       "title": "JRC launches market consultation survey and announces upcoming procurement for the Copernicus Land Monitoring Service Global Component",
       "url": "https://land.copernicus.eu/en/news/jrc-launches-market-consultation-survey-and-announces-upcoming-procurement-for-the-copernicus-land-monitoring-service-global-component",
       "summary": "JRC launches market consultation survey and announces upcoming procurement for the Copernicus Land Monitoring Service Global Component",
-      "potential": "ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "5b4cafca5314576c",
-      "source": "Copernicus Land",
+      "id": "865b4bbac29a1e7e",
+      "source": "Copernicus Land News",
       "kind": "eo",
       "title": "Product update: High Resolution Vegetated Land Cover Characteristics 2024",
       "url": "https://land.copernicus.eu/en/news/product-update-high-resolution-vegetated-land-cover-characteristics-2024",
       "summary": "Product update: High Resolution Vegetated Land Cover Characteristics 2024",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "77e739723c115329",
-      "source": "Copernicus Land",
+      "id": "0a6aae35cdcaca2d",
+      "source": "Copernicus Land News",
       "kind": "eo",
       "title": "Product update: Medium Resolution Vegetation Phenology and Productivity Version 5.0",
       "url": "https://land.copernicus.eu/en/news/product-update-medium-resolution-vegetation-phenology-and-productivity-version-5.0",
       "summary": "Product update: Medium Resolution Vegetation Phenology and Productivity Version 5.0",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "ffbafd2dbdd33da0",
-      "source": "Copernicus Land",
+      "id": "2efe8a1398701e9b",
+      "source": "Copernicus Land News",
       "kind": "eo",
       "title": "Land Service signs new Inland Water Working Group contract",
       "url": "https://land.copernicus.eu/en/news/land-service-signs-new-inland-water-working-group-contract",
       "summary": "Land Service signs new Inland Water Working Group contract",
-      "potential": "ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "016acfdfb3b86eb7",
-      "source": "Copernicus Land",
+      "id": "5e885ac06f28aa4d",
+      "source": "Copernicus Land News",
       "kind": "eo",
       "title": "Product update: High Resolution Layer Imperviousness 2024",
       "url": "https://land.copernicus.eu/en/news/product-update-high-resolution-layer-imperviousness-2024",
       "summary": "Product update: High Resolution Layer Imperviousness 2024",
-      "potential": "YÜKSEK — AÇA/SNE hedefinle doğrudan ilgili; koşul ve son tarihi hemen kontrol et.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — AÇA/SNE hedefiyle doğrudan ilgili. Uygunluk koşulları, kurum içi başvuru yolu ve son tarihi kontrol et.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "6de8f6d0d82a229d",
-      "source": "Copernicus Land",
+      "id": "4edafc2c01b26742",
+      "source": "Copernicus Land News",
       "kind": "eo",
       "title": "Product Update: Urban Atlas 2021",
       "url": "https://land.copernicus.eu/en/news/urban-atlas-2021-product-update-is-now-available",
       "summary": "Product Update: Urban Atlas 2021",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "d1f0b324e579603f",
-      "source": "Copernicus Land",
+      "id": "41e2069e11640aa2",
+      "source": "Copernicus Land News",
       "kind": "eo",
       "title": "Product update: European Ground Motion Service 2024",
       "url": "https://land.copernicus.eu/en/news/egms-annual-update-brings-new-data-improvements-to-egms-explorer",
       "summary": "Product update: European Ground Motion Service 2024",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "6d1cc08a5866c515",
-      "source": "Copernicus Land",
+      "id": "c2606a1bbf37101b",
+      "source": "Copernicus Land News",
       "kind": "eo",
       "title": "New contract signed for validation of the European Ground Motion Service",
       "url": "https://land.copernicus.eu/en/news/new-contract-signed-for-validation-of-the-european-ground-motion-service",
       "summary": "New contract signed for validation of the European Ground Motion Service",
-      "potential": "ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "737392785d13c5da",
-      "source": "Copernicus Land",
+      "id": "9afc1d7702817f6c",
+      "source": "Copernicus Land News",
       "kind": "eo",
       "title": "CLMS European datasets moving to Copernicus Data Space Ecosystem",
       "url": "https://land.copernicus.eu/en/news/clms-european-datasets-moving-to-copernicus-data-space-ecosystem",
       "summary": "CLMS European datasets moving to Copernicus Data Space Ecosystem",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "3c99577355222f86",
-      "source": "Copernicus Land",
+      "id": "96d898f2107d8202",
+      "source": "Copernicus Land News",
       "kind": "eo",
       "title": "New validation report confirms high accuracy of CLMS Burnt Area products",
       "url": "https://land.copernicus.eu/en/news/new-validation-report-confirms-high-accuracy-of-clms-burnt-area-products",
       "summary": "New validation report confirms high accuracy of CLMS Burnt Area products",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "f646b36560d3f635",
-      "source": "Copernicus Land",
+      "id": "e8fd6f0c7ad7a936",
+      "source": "Copernicus Land News",
       "kind": "eo",
       "title": "New Soil Water Index datasets bring deeper insight into global soil moisture",
       "url": "https://land.copernicus.eu/en/news/new-soil-water-index-datasets-bring-deeper-insight-into-global-soil-moisture",
       "summary": "New Soil Water Index datasets bring deeper insight into global soil moisture",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "73b254fe6d60e421",
-      "source": "Copernicus Data Space",
+      "id": "031ff9d2d3ffdb7d",
+      "source": "Copernicus Land Products",
+      "kind": "learn",
+      "title": "Ask Copernicus Observia",
+      "url": "https://land.copernicus.eu/en/ask-observia-ai",
+      "summary": "Ask Copernicus Observia",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "ed8798bf8b4a5a25",
+      "source": "Copernicus Land Products",
+      "kind": "learn",
+      "title": "Production updates",
+      "url": "https://land.copernicus.eu/en/production-updates",
+      "summary": "Production updates",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "aebe4cccc600a211",
+      "source": "Copernicus Land Products",
+      "kind": "learn",
+      "title": "Dataset catalogue",
+      "url": "https://land.copernicus.eu/en/dataset-catalog",
+      "summary": "Dataset catalogue",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "d091f1cb5b76415c",
+      "source": "Copernicus Land Products",
+      "kind": "learn",
+      "title": "Full-coverage Land Cover & Use",
+      "url": "https://land.copernicus.eu/en/products?tab=full_coverage_land_cover__use",
+      "summary": "Full-coverage Land Cover & Use",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "869f7b25757bd61f",
+      "source": "Copernicus Land Products",
+      "kind": "learn",
+      "title": "Land Cover & Use in Priority Areas",
+      "url": "https://land.copernicus.eu/en/products?tab=land_cover__use_in_priority_areas",
+      "summary": "Land Cover & Use in Priority Areas",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "0b6d981489f36013",
+      "source": "Copernicus Land Products",
+      "kind": "learn",
+      "title": "Ground Motion Data",
+      "url": "https://land.copernicus.eu/en/products?tab=ground_motion_data",
+      "summary": "Ground Motion Data",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "3ed5dcc6d429c170",
+      "source": "Copernicus Land Products",
+      "kind": "learn",
+      "title": "Global Dynamic Land Cover",
+      "url": "https://land.copernicus.eu/en/products/global-dynamic-land-cover",
+      "summary": "Global Dynamic Land Cover",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "9fb8d41a04d80301",
+      "source": "Copernicus Land Products",
+      "kind": "learn",
+      "title": "CORINE Land Cover",
+      "url": "https://land.copernicus.eu/en/products/corine-land-cover",
+      "summary": "Pan-European land cover inventory CORINE Land Cover",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "c9a31a432b16e72b",
+      "source": "Copernicus Land Products",
+      "kind": "learn",
+      "title": "Water Bodies",
+      "url": "https://land.copernicus.eu/en/products/water-bodies",
+      "summary": "Water Bodies",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "e3ea0924ce8b70ca",
+      "source": "Copernicus Land Products",
+      "kind": "learn",
+      "title": "Soil Moisture",
+      "url": "https://land.copernicus.eu/en/products/soil-moisture",
+      "summary": "Global and European Soil Moisture product group:",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "db548058b8fb7d8c",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "Copernicus Sentinel Missions",
       "url": "https://dataspace.copernicus.eu/data-collections/copernicus-sentinel-missions",
       "summary": "Copernicus Sentinel Missions Copernicus Services Copernicus Contributing Missions Federated Data Sets Complementary Data STAC Browser",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "da17e119f60e3648",
-      "source": "Copernicus Data Space",
+      "id": "79f399204c403a33",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "Copernicus Services",
       "url": "https://dataspace.copernicus.eu/copernicus-services",
       "summary": "Copernicus Sentinel Missions Copernicus Services Copernicus Contributing Missions Federated Data Sets Complementary Data STAC Browser",
-      "potential": "ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "40dfb1129d86f100",
-      "source": "Copernicus Data Space",
+      "id": "59130c24a7c331ca",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "Copernicus Contributing Missions",
       "url": "https://dataspace.copernicus.eu/explore-data/data-collections/copernicus-contributing-missions",
       "summary": "Copernicus Sentinel Missions Copernicus Services Copernicus Contributing Missions Federated Data Sets Complementary Data STAC Browser",
-      "potential": "ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "43b878ff310f9136",
-      "source": "Copernicus Data Space",
+      "id": "82ecdef1eaaee115",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "STAC Browser",
       "url": "https://browser.stac.dataspace.copernicus.eu/?.language=en",
       "summary": "Copernicus Sentinel Missions Copernicus Services Copernicus Contributing Missions Federated Data Sets Complementary Data STAC Browser",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "9084a7863fc4fea5",
-      "source": "Copernicus Data Space",
+      "id": "ed4a55ef943df0b7",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "Sentinel Hub",
       "url": "https://shapps.dataspace.copernicus.eu/dashboard/#/",
       "summary": "APIs Data Workspace Traceability JupyterLab openEO Sentinel Hub",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "8bc953f65f1da9a8",
-      "source": "Copernicus Data Space",
+      "id": "55857175c096def7",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "openEO Algorithm Plaza",
       "url": "https://marketplace-portal.dataspace.copernicus.eu/dashboard",
       "summary": "Your profile openEO Algorithm Plaza Sentinel Hub",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "bbd24b69926117dd",
-      "source": "Copernicus Data Space",
+      "id": "233eb548c2b5df72",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "Federated Data Sets New datasets from European providers enrich the Copernicus Data Space Ecosystem.",
       "url": "https://dataspace.copernicus.eu/data-collections/federated-data-sets",
       "summary": "Federated Data Sets New datasets from European providers enrich the Copernicus Data Space Ecosystem.",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "fadbac0850333262",
-      "source": "Copernicus Data Space",
+      "id": "248417eae74dc05a",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "Complementary Data Access complementary data collections that enhance Earth observation workflows with high-resolution imagery and curated datasets.",
       "url": "https://dataspace.copernicus.eu/data-collections/complementary-data",
       "summary": "Complementary Data Access complementary data collections that enhance Earth observation workflows with high-resolution imagery and curated datasets.",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "e2ba98409095440e",
-      "source": "Copernicus Data Space",
+      "id": "18fadfe115dfb9ea",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "APIs Use APIs like openEO for advanced data interaction.",
       "url": "https://dataspace.copernicus.eu/analyse/apis",
       "summary": "APIs Use APIs like openEO for advanced data interaction.",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "b8b68b746e4205a3",
-      "source": "Copernicus Data Space",
+      "id": "1df68410bc6a82d7",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "Data Workspace Create EO products on demand with a user-friendly interface.",
       "url": "https://dataspace.copernicus.eu/analyse/data-workspace",
       "summary": "Data Workspace Create EO products on demand with a user-friendly interface.",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "c117d2d8b7fd7631",
-      "source": "Copernicus Data Space",
+      "id": "5c517b2fe2148e41",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "Traceability Track product integrity and availability from origin to download.",
       "url": "https://dataspace.copernicus.eu/analyse/traceability",
       "summary": "Traceability Track product integrity and availability from origin to download.",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "1942c8ad2e72501b",
-      "source": "Copernicus Data Space",
+      "id": "366902eab8260d0d",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "JupyterLab Work with CDSE data instantly—no download required.",
+      "url": "https://dataspace.copernicus.eu/analyse/jupyterlab",
+      "summary": "JupyterLab Work with CDSE data instantly—no download required.",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "04ae945632ed08bc",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "openEO Build, run, and monitor EO workflows through a visual dashboard.",
       "url": "https://dataspace.copernicus.eu/analyse/openeo",
       "summary": "openEO Build, run, and monitor EO workflows through a visual dashboard.",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "53d1ca236f10ee03",
-      "source": "Copernicus Data Space",
+      "id": "0cd964208ed80f79",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "About the Ecosystem The Copernicus Data Space Ecosystem offers flexible access, integration, and deployment options to help users turn Sentinel data into actionable applications.",
       "url": "https://dataspace.copernicus.eu/ecosystem/about",
       "summary": "About the Ecosystem The Copernicus Data Space Ecosystem offers flexible access, integration, and deployment options to help users turn Sentinel data into actionable applications.",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "f117ddec870f4b34",
-      "source": "Copernicus Data Space",
+      "id": "341afe8045caf0d8",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "September 18, 2026 Copernicus Sentinel-5P Unavailability on 16 September 2026 Operational ESA news Sentinel-5P Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-9-18-copernicus-sentinel-5p-unavailability-16-september-2026",
       "summary": "September 18, 2026 Copernicus Sentinel-5P Unavailability on 16 September 2026 Operational ESA news Sentinel-5P Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "7e8d9bce040debfc",
-      "source": "Copernicus Data Space",
+      "id": "f6c0c634eb573eba",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "September 17, 2026 New Sentinel-5P Level-2 collections available in openEO on CDSE General New data Sentinel-5P Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-9-17-new-sentinel-5p-level-2-collections-available-openeo-cdse",
       "summary": "September 17, 2026 New Sentinel-5P Level-2 collections available in openEO on CDSE General New data Sentinel-5P Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "d9ffcb9073f6e735",
-      "source": "Copernicus Data Space",
+      "id": "568b69b6c91065a8",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "September 16, 2026 openEO on CDSE expands access to land monitoring and Sentinel-5P data General New data Sentinel-5P Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-9-16-openeo-cdse-expands-access-land-monitoring-and-sentinel-5p-data",
       "summary": "September 16, 2026 openEO on CDSE expands access to land monitoring and Sentinel-5P data General New data Sentinel-5P Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "21c20aa8fd5d80cd",
-      "source": "Copernicus Data Space",
+      "id": "81feb0fa852890fa",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "September 15, 2026 Activation of Copernicus Sentinel-2 Processing Baseline 05.13 on 21 September 2026 Operational ESA news Sentinel-2 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-9-15-activation-copernicus-sentinel-2-processing-baseline-0513-21-september-2026",
       "summary": "September 15, 2026 Activation of Copernicus Sentinel-2 Processing Baseline 05.13 on 21 September 2026 Operational ESA news Sentinel-2 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "7944f49f899ace3e",
-      "source": "Copernicus Data Space",
+      "id": "314128023c7e07f9",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "September 11, 2026 Copernicus Sentinel-3A unavailability notice for the CAM Manoeuvre #162 planned on 11 September 2026 [DOY 254] Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-9-11-copernicus-sentinel-3a-unavailability-notice-cam-manoeuvre-162-planned-11-september",
       "summary": "September 11, 2026 Copernicus Sentinel-3A unavailability notice for the CAM Manoeuvre #162 planned on 11 September 2026 [DOY 254] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "09459722224de40d",
-      "source": "Copernicus Data Space",
+      "id": "31fa352f80927266",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "September 11, 2026 Copernicus Sentinel-3A unavailability notice for the CAM Manoeuvre #161 planned on 11 September 2026 [DOY 254] Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-9-11-copernicus-sentinel-3a-unavailability-notice-cam-manoeuvre-161-planned-11-september",
       "summary": "September 11, 2026 Copernicus Sentinel-3A unavailability notice for the CAM Manoeuvre #161 planned on 11 September 2026 [DOY 254] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "d867d478d44dae24",
-      "source": "Copernicus Data Space",
+      "id": "3095a2c3a3c4d822",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "September 11, 2026 Welcome YPSGlobe! A new member has joined the Copernicus Data Space Ecosystem General New ecosystem member Sentinel-2 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-9-11-welcome-ypsglobe-new-member-has-joined-copernicus-data-space-ecosystem",
       "summary": "September 11, 2026 Welcome YPSGlobe! A new member has joined the Copernicus Data Space Ecosystem General New ecosystem member Sentinel-2 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "6b58c5aa08ed3d1a",
-      "source": "Copernicus Data Space",
+      "id": "fc7abec64d718855",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "September 7, 2026 Sentinel-1 Temporary delay in ETAD production Operational ESA news Sentinel-1 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-9-7-sentinel-1-temporary-delay-etad-production",
       "summary": "September 7, 2026 Sentinel-1 Temporary delay in ETAD production Operational ESA news Sentinel-1 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "62896df2944a0548",
-      "source": "Copernicus Data Space",
+      "id": "f58ed2b1bafd5171",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "September 4, 2026 Deployment of Copernicus Sentinel-2 Processing Baseline 05.13 on 21 September 2026 Operational ESA news Sentinel-2 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-9-4-deployment-copernicus-sentinel-2-processing-baseline-0513-21-september-2026",
       "summary": "September 4, 2026 Deployment of Copernicus Sentinel-2 Processing Baseline 05.13 on 21 September 2026 Operational ESA news Sentinel-2 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "7ccc6e49650dc9d7",
-      "source": "Copernicus Data Space",
+      "id": "e60ec7202279149b",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "September 2, 2026 Copernicus Sentinel-2C Tandem Data Reprocessing Campaign Completed Operational ESA news Sentinel-2 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-9-2-copernicus-sentinel-2c-tandem-data-reprocessing-campaign-completed",
       "summary": "September 2, 2026 Copernicus Sentinel-2C Tandem Data Reprocessing Campaign Completed Operational ESA news Sentinel-2 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "099539a8e126e23d",
-      "source": "Copernicus Data Space",
+      "id": "bd220b2e6c264988",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "August 30, 2026 Copernicus Sentinel-3B unavailability notice for the Lunar Calibration planned on 28 August 2026 [DOY 240] Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-8-30-copernicus-sentinel-3b-unavailability-notice-lunar-calibration-planned-28-august",
       "summary": "August 30, 2026 Copernicus Sentinel-3B unavailability notice for the Lunar Calibration planned on 28 August 2026 [DOY 240] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "68d449cd96489574",
-      "source": "Copernicus Data Space",
+      "id": "7e1f0ea4bf4736e6",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "August 27, 2026 Copernicus Sentinel-3B unavailability notice for the Ground Segment Anomaly occurred on 18/08/2026 [DOY 230] Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-8-27-copernicus-sentinel-3b-unavailability-notice-ground-segment-anomaly-occurred",
       "summary": "August 27, 2026 Copernicus Sentinel-3B unavailability notice for the Ground Segment Anomaly occurred on 18/08/2026 [DOY 230] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "cd4bf3540c80693d",
-      "source": "Copernicus Data Space",
+      "id": "609fdd768764d1d2",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "August 26, 2026 Copernicus Sentinel-3A unavailability notice for the Ground Segment Anomaly occurred on 18/08/2026 [DOY 230] Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-8-26-copernicus-sentinel-3a-unavailability-notice-ground-segment-anomaly-occurred",
       "summary": "August 26, 2026 Copernicus Sentinel-3A unavailability notice for the Ground Segment Anomaly occurred on 18/08/2026 [DOY 230] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "b6df1c862dda2a48",
-      "source": "Copernicus Data Space",
+      "id": "528164010ae320ee",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "August 26, 2026 Copernicus Sentinel-3B unavailability notice for the OOP Manoeuvre #165 planned on 26 August 2026 [DOY 238] Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-8-26-copernicus-sentinel-3b-unavailability-notice-oop-manoeuvre-165-planned-26-august",
       "summary": "August 26, 2026 Copernicus Sentinel-3B unavailability notice for the OOP Manoeuvre #165 planned on 26 August 2026 [DOY 238] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "0bb675b105e8dba9",
-      "source": "Copernicus Data Space",
+      "id": "1938fd5423ec4f7c",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "August 26, 2026 Copernicus Sentinel-3A unavailability notice for the OOP Manoeuvre #160 planned on 26 August 2026 [DOY 238] Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-8-26-copernicus-sentinel-3a-unavailability-notice-oop-manoeuvre-160-planned-26-august",
       "summary": "August 26, 2026 Copernicus Sentinel-3A unavailability notice for the OOP Manoeuvre #160 planned on 26 August 2026 [DOY 238] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "0922c4b33fa1634e",
-      "source": "Copernicus Data Space",
+      "id": "ab4ab616f0889475",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "August 25, 2026 Copernicus DEM 30m View Service Update General Copernicus Digital Elevation Model Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-8-25-copernicus-dem-30m-view-service-update",
       "summary": "August 25, 2026 Copernicus DEM 30m View Service Update General Copernicus Digital Elevation Model Read article",
-      "potential": "ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "0c8b2e44ae491cd0",
-      "source": "Copernicus Data Space",
+      "id": "5b976ad4cab9ed8f",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "August 24, 2026 Copernicus Sentinel-2B Temporary Data Delay on 15–16 August 2026 Operational ESA news Sentinel-2 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-8-24-copernicus-sentinel-2b-temporary-data-delay-15-16-august-2026",
       "summary": "August 24, 2026 Copernicus Sentinel-2B Temporary Data Delay on 15–16 August 2026 Operational ESA news Sentinel-2 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "1c5805fe4e3b1b57",
-      "source": "Copernicus Data Space",
+      "id": "5e790d9021aafe71",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "August 19, 2026 New openEO Community Example: Understanding SCL Dilation Masks process in openEO General Sentinel-2 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-8-19-new-openeo-community-example-understanding-scl-dilation-masks-process-openeo",
       "summary": "August 19, 2026 New openEO Community Example: Understanding SCL Dilation Masks process in openEO General Sentinel-2 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "9dfabb4fe99f8494",
-      "source": "Copernicus Data Space",
+      "id": "643a66678cb699d2",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "August 12, 2026 Product update: High Resolution Vegetated Land Cover Characteristics 2024 New data Copernicus Land Monitoring Service Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-8-12-product-update-high-resolution-vegetated-land-cover-characteristics-2024",
       "summary": "August 12, 2026 Product update: High Resolution Vegetated Land Cover Characteristics 2024 New data Copernicus Land Monitoring Service Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "d5ae9edf0ff3e4c2",
-      "source": "Copernicus Data Space",
+      "id": "26b2645194195f7b",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "August 7, 2026 Copernicus Sentinel-3 OLCI and SLSTR L1: New Processing Baseline 3.37 Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-8-7-copernicus-sentinel-3-olci-and-slstr-l1-new-processing-baseline-337",
       "summary": "August 7, 2026 Copernicus Sentinel-3 OLCI and SLSTR L1: New Processing Baseline 3.37 Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "368dee6508859758",
-      "source": "Copernicus Data Space",
+      "id": "9e8461945cfb1a65",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "August 7, 2026 Introduction of Copernicus Sentinel-2 Processing Baseline 05.13 Operational ESA news Sentinel-2 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-8-7-introduction-copernicus-sentinel-2-processing-baseline-0513",
       "summary": "August 7, 2026 Introduction of Copernicus Sentinel-2 Processing Baseline 05.13 Operational ESA news Sentinel-2 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "9777a1aa7d504575",
-      "source": "Copernicus Data Space",
+      "id": "a891ddfc900bc1f9",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "August 6, 2026 Monitoring Drought using openEO API General Sentinel-2 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-8-6-monitoring-drought-using-openeo-api",
       "summary": "August 6, 2026 Monitoring Drought using openEO API General Sentinel-2 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "498f615682106a6f",
-      "source": "Copernicus Data Space",
+      "id": "20e7d3dd06cbdd22",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "August 5, 2026 Sentinel-5p planned maintenance activities on 18/08/2026 Operational ESA news Sentinel-5P Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-8-5-sentinel-5p-planned-maintenance-activities-18082026",
       "summary": "August 5, 2026 Sentinel-5p planned maintenance activities on 18/08/2026 Operational ESA news Sentinel-5P Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "552f022826af9740",
-      "source": "Copernicus Data Space",
+      "id": "bf52562492a2d071",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "August 5, 2026 Copernicus Sentinel-3B unavailability notice IP Manoeuvre IP #164 planned on 06 August 2026 [DOY 218] Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-8-5-copernicus-sentinel-3b-unavailability-notice-ip-manoeuvre-ip-164-planned-06-august",
       "summary": "August 5, 2026 Copernicus Sentinel-3B unavailability notice IP Manoeuvre IP #164 planned on 06 August 2026 [DOY 218] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "09b91012d077d477",
-      "source": "Copernicus Data Space",
+      "id": "ed6adffe35d8d6f1",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "August 5, 2026 Copernicus Sentinel-3A unavailability notice IP Manoeuvre IP #159 planned on 06 August 2026 [DOY 218] Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-8-5-copernicus-sentinel-3a-unavailability-notice-ip-manoeuvre-ip-159-planned-06-august",
       "summary": "August 5, 2026 Copernicus Sentinel-3A unavailability notice IP Manoeuvre IP #159 planned on 06 August 2026 [DOY 218] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "d24e53b6d4e3c729",
-      "source": "Copernicus Data Space",
+      "id": "816947c197333aa8",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "July 31, 2026 Copernicus Browser now also supports external WMS and WMTS layers New feature Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-7-31-copernicus-browser-now-also-supports-external-wms-and-wmts-layers",
       "summary": "July 31, 2026 Copernicus Browser now also supports external WMS and WMTS layers New feature Read article",
-      "potential": "ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "e6891cb6cdbb65f0",
-      "source": "Copernicus Data Space",
+      "id": "576ebf6b9c19f879",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "July 30, 2026 Copernicus Sentinel-3B unavailability notice for the OLCI S09 calibration planned on 05 August 2026 [DOY 217] Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-7-30-copernicus-sentinel-3b-unavailability-notice-olci-s09-calibration-planned-05-august",
       "summary": "July 30, 2026 Copernicus Sentinel-3B unavailability notice for the OLCI S09 calibration planned on 05 August 2026 [DOY 217] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "45863c8e040191a4",
-      "source": "Copernicus Data Space",
+      "id": "e5fce8d5df0b5d66",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "July 28, 2026 Copernicus Sentinel-3 Correction Notice: OLCI Level-2 Land Collection 003 Coverage and Baseline Collection Labelling Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-7-28-copernicus-sentinel-3-correction-notice-olci-level-2-land-collection-003-coverage",
       "summary": "July 28, 2026 Copernicus Sentinel-3 Correction Notice: OLCI Level-2 Land Collection 003 Coverage and Baseline Collection Labelling Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "fe9702ecd83d433c",
-      "source": "Copernicus Data Space",
+      "id": "b5f04a3054cfa9d0",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "July 25, 2026 Copernicus Sentinel-3A unavailability notice for the Lunar Calibration planned on 30 July 2026 [DOY 211] Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-7-25-copernicus-sentinel-3a-unavailability-notice-lunar-calibration-planned-30-july-2026",
       "summary": "July 25, 2026 Copernicus Sentinel-3A unavailability notice for the Lunar Calibration planned on 30 July 2026 [DOY 211] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "04cf18f7dd531ac3",
-      "source": "Copernicus Data Space",
+      "id": "0148c926b3154066",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "July 22, 2026 Copernicus Sentinel-3A unavailability notice for the IP manoeuvre #158 planned on 22 July 2026 [DOY 203] Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-7-22-copernicus-sentinel-3a-unavailability-notice-ip-manoeuvre-158-planned-22-july-2026",
       "summary": "July 22, 2026 Copernicus Sentinel-3A unavailability notice for the IP manoeuvre #158 planned on 22 July 2026 [DOY 203] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "e9a62d28914d60e4",
-      "source": "Copernicus Data Space",
+      "id": "0e003b2ac1d0fbf6",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "July 22, 2026 [UPDATE] Copernicus Sentinel-2B Temporary Data Availability Delay (19–20 July 2026) Data disruption Operational ESA news Sentinel-2 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-7-22-update-copernicus-sentinel-2b-temporary-data-availability-delay-19-20-july-2026",
       "summary": "July 22, 2026 [UPDATE] Copernicus Sentinel-2B Temporary Data Availability Delay (19–20 July 2026) Data disruption Operational ESA news Sentinel-2 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "9cc85f835dcab58a",
-      "source": "Copernicus Data Space",
+      "id": "1c846bd9e03afeb6",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "July 22, 2026 VHR IMAGE 2024 Mosaic Now Available in Copernicus Browser New data New feature Copernicus Contributing Missions Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-7-22-vhr-image-2024-mosaic-now-available-copernicus-browser",
       "summary": "July 22, 2026 VHR IMAGE 2024 Mosaic Now Available in Copernicus Browser New data New feature Copernicus Contributing Missions Read article",
-      "potential": "ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "6a9e3cc7097778ee",
-      "source": "Copernicus Data Space",
+      "id": "0c17cb15fe4f1b56",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "July 17, 2026 Copernicus Sentinel-3A unavailability notice for the OLCI S09 Calibration planned on 26 July 2026 [DOY 207] Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-7-17-copernicus-sentinel-3a-unavailability-notice-olci-s09-calibration-planned-26-july",
       "summary": "July 17, 2026 Copernicus Sentinel-3A unavailability notice for the OLCI S09 Calibration planned on 26 July 2026 [DOY 207] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "7f9cbde4576d699b",
-      "source": "Copernicus Data Space",
+      "id": "152ed08c3177b2e4",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "July 17, 2026 Copernicus DEM 30m View Service – License Acceptance General Copernicus Digital Elevation Model Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-7-17-copernicus-dem-30m-view-service-license-acceptance",
       "summary": "July 17, 2026 Copernicus DEM 30m View Service – License Acceptance General Copernicus Digital Elevation Model Read article",
-      "potential": "ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "70a7167adc243a10",
-      "source": "Copernicus Data Space",
+      "id": "7ad3dcac22b2fc55",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "July 14, 2026 Timestamp behavior alignment for ListObjects requests General System updates Sentinel-1 Sentinel-2 Sentinel-3 Sentinel-5P Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-7-14-timestamp-behavior-alignment-listobjects-requests",
       "summary": "July 14, 2026 Timestamp behavior alignment for ListObjects requests General System updates Sentinel-1 Sentinel-2 Sentinel-3 Sentinel-5P Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "886582acccea9350",
-      "source": "Copernicus Data Space",
+      "id": "f90d7cab19790584",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "July 8, 2026 Copernicus Sentinel-3B unavailability notice for the IP Manoeuvre #163 planned on 09 July 2026 [DOY 190] Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-7-8-copernicus-sentinel-3b-unavailability-notice-ip-manoeuvre-163-planned-09-july-2026",
       "summary": "July 8, 2026 Copernicus Sentinel-3B unavailability notice for the IP Manoeuvre #163 planned on 09 July 2026 [DOY 190] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
-      "id": "2eea1755340e063f",
-      "source": "Copernicus Data Space",
+      "id": "0dd0dfd8f1ee60ed",
+      "source": "Copernicus Data Space News",
       "kind": "eo",
       "title": "July 7, 2026 Landsat-8 Collection 2 Level-1 Now Available with Full Coverage from 2015 in Copernicus Data Space Ecosystem New data Landsat Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-7-7-landsat-8-collection-2-level-1-now-available-full-coverage-2015-copernicus-data-space",
       "summary": "July 7, 2026 Landsat-8 Collection 2 Level-1 Now Available with Full Coverage from 2015 in Copernicus Data Space Ecosystem New data Landsat Read article",
-      "potential": "ORTA — Somut veri/yöntem içeriyorsa kısa uygulama veya teknik nota çevrilebilir.",
-      "first_seen": "2026-09-22T08:52:18.508667+00:00"
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "1855c83a1895574d",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 30, 2026 Copernicus Sentinel-3A unavailability notice for Trickle Dump data gaps occurred on 29 June 2026 [DOY 180] Operational ESA news Sentinel-3 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-30-copernicus-sentinel-3a-unavailability-notice-trickle-dump-data-gaps-occurred-29-june",
+      "summary": "June 30, 2026 Copernicus Sentinel-3A unavailability notice for Trickle Dump data gaps occurred on 29 June 2026 [DOY 180] Operational ESA news Sentinel-3 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "6ebc172f94dffe33",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 30, 2026 Copernicus Sentinel‑1A Satellite End of Operations After 12 Years of Service General Operational ESA news Sentinel-1 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-30-copernicus-sentinel-1a-satellite-end-operations-after-12-years-service",
+      "summary": "June 30, 2026 Copernicus Sentinel‑1A Satellite End of Operations After 12 Years of Service General Operational ESA news Sentinel-1 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "31ca64547f7c03f7",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 30, 2026 Temporary issue with openEO batch jobs (29 June 2026) [Resolved] Service disruption Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-30-temporary-issue-openeo-batch-jobs-29-june-2026-resolved",
+      "summary": "June 30, 2026 Temporary issue with openEO batch jobs (29 June 2026) [Resolved] Service disruption Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "bb11cf7dc623bc1d",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 29, 2026 openEO unavailability on 29 June 2026 between 14h38-15h30 CEST [resolved] Service disruption Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-29-openeo-unavailability-29-june-2026-between-14h38-15h30-cest-resolved",
+      "summary": "June 29, 2026 openEO unavailability on 29 June 2026 between 14h38-15h30 CEST [resolved] Service disruption Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "9436eb87b64810a0",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 29, 2026 Copernicus Contributing Missions power the VHR2024 dataset Copernicus Contributing Missions Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-29-copernicus-contributing-missions-power-vhr2024-dataset",
+      "summary": "June 29, 2026 Copernicus Contributing Missions power the VHR2024 dataset Copernicus Contributing Missions Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "56543b00ac516d02",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 26, 2026 Copernicus Sentinel-3B unavailability notice for the Lunar Calibration planned on 30 June 2026 [DOY 181] Operational ESA news Sentinel-3 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-26-copernicus-sentinel-3b-unavailability-notice-lunar-calibration-planned-30-june-2026",
+      "summary": "June 26, 2026 Copernicus Sentinel-3B unavailability notice for the Lunar Calibration planned on 30 June 2026 [DOY 181] Operational ESA news Sentinel-3 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "419a3a1219e7c2ab",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 25, 2026 Welcome EOPF ZARR EXPLORER! A new member has joined the Copernicus Data Space Ecosystem General New ecosystem member Sentinel-1 Sentinel-2 Sentinel-3 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-25-welcome-eopf-zarr-explorer-new-member-has-joined-copernicus-data-space-ecosystem",
+      "summary": "June 25, 2026 Welcome EOPF ZARR EXPLORER! A new member has joined the Copernicus Data Space Ecosystem General New ecosystem member Sentinel-1 Sentinel-2 Sentinel-3 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "56d8909aa9459675",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 24, 2026 S1C/D Final Orbital Configuration Achieved Operational ESA news Sentinel-1 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-24-s1cd-final-orbital-configuration-achieved",
+      "summary": "June 24, 2026 S1C/D Final Orbital Configuration Achieved Operational ESA news Sentinel-1 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "2f78552a5b5eba10",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 24, 2026 Creating OGC Service layers for Copernicus Land Monitoring Service datasets in CDSE Blog General Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-24-creating-ogc-service-layers-copernicus-land-monitoring-service-datasets-cdse",
+      "summary": "June 24, 2026 Creating OGC Service layers for Copernicus Land Monitoring Service datasets in CDSE Blog General Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "c729b7132076094a",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 19, 2026 Planned upgrade of EOData repository 01/07/2026 from 07:00 to 09:00 CEST System updates Sentinel-1 Sentinel-2 Sentinel-3 Sentinel-5P Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-19-planned-upgrade-eodata-repository-01072026-0700-0900-cest",
+      "summary": "June 19, 2026 Planned upgrade of EOData repository 01/07/2026 from 07:00 to 09:00 CEST System updates Sentinel-1 Sentinel-2 Sentinel-3 Sentinel-5P Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "2b1c66484898d55e",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 19, 2026 Copernicus Sentinel-5P Unavailability on 18 June 2026 Data disruption Sentinel-5P Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-19-copernicus-sentinel-5p-unavailability-18-june-2026",
+      "summary": "June 19, 2026 Copernicus Sentinel-5P Unavailability on 18 June 2026 Data disruption Sentinel-5P Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "f6a9266fd063dc55",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 18, 2026 Copernicus Sentinel-3A unavailability notice for the IP manoeuvre #157 planned on 18 June 2026 [DOY 169] Operational ESA news Sentinel-3 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-18-copernicus-sentinel-3a-unavailability-notice-ip-manoeuvre-157-planned-18-june-2026",
+      "summary": "June 18, 2026 Copernicus Sentinel-3A unavailability notice for the IP manoeuvre #157 planned on 18 June 2026 [DOY 169] Operational ESA news Sentinel-3 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "e5ed4e5be3e3e1e2",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 16, 2026 Upcoming Sentinel Hub Database Upgrade Service disruption System updates Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-16-upcoming-sentinel-hub-database-upgrade",
+      "summary": "June 16, 2026 Upcoming Sentinel Hub Database Upgrade Service disruption System updates Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "e54f0ae19ed7ebc2",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 16, 2026 Sentinel-5p planned maintenance activities starting on 17/06/2026 Operational ESA news Sentinel-5P Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-16-sentinel-5p-planned-maintenance-activities-starting-17062026",
+      "summary": "June 16, 2026 Sentinel-5p planned maintenance activities starting on 17/06/2026 Operational ESA news Sentinel-5P Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "050ab9cd28569b70",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 10, 2026 Copernicus Sentinel-3B unavailability notice for the IP manoeuvre #162 planned on 11 June 2026 [DOY 162] Operational ESA news Sentinel-3 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-10-copernicus-sentinel-3b-unavailability-notice-ip-manoeuvre-162-planned-11-june-2026",
+      "summary": "June 10, 2026 Copernicus Sentinel-3B unavailability notice for the IP manoeuvre #162 planned on 11 June 2026 [DOY 162] Operational ESA news Sentinel-3 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "7c74f910dc84af07",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 10, 2026 openEO adds MODIS snow cover, 60+ CLMS collections, and load_stac fixes General New feature Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-10-openeo-adds-modis-snow-cover-60-clms-collections-and-loadstac-fixes",
+      "summary": "June 10, 2026 openEO adds MODIS snow cover, 60+ CLMS collections, and load_stac fixes General New feature Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "399914c2064bc8bd",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 9, 2026 More than 60 CLMS collections now available in openEO on CDSE General New feature Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-9-more-60-clms-collections-now-available-openeo-cdse",
+      "summary": "June 9, 2026 More than 60 CLMS collections now available in openEO on CDSE General New feature Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "3f182c69d07aec15",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 8, 2026 CLMS Global Land Surface Temperature new version: reading the Earth’s thermal pulse New data Copernicus Land Monitoring Service Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-8-clms-global-land-surface-temperature-new-version-reading-earths-thermal-pulse",
+      "summary": "June 8, 2026 CLMS Global Land Surface Temperature new version: reading the Earth’s thermal pulse New data Copernicus Land Monitoring Service Read article",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "9badaa4b501c1b5a",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "June 4, 2026 Copernicus Data Space Ecosystem User Feedback Survey 2026 General Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-6-4-copernicus-data-space-ecosystem-user-feedback-survey-2026",
+      "summary": "June 4, 2026 Copernicus Data Space Ecosystem User Feedback Survey 2026 General Read article",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "1010a46543bf87d1",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Copernicus Land Monitoring Service (CLMS)",
+      "url": "https://documentation.dataspace.copernicus.eu/Data/CopernicusServices/CLMS.html",
+      "summary": "Copernicus Land Monitoring Service (CLMS)",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "a64c3495f5293aae",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Copernicus Emergency Management Service (CEMS)",
+      "url": "https://documentation.dataspace.copernicus.eu/Data/CopernicusServices/CEMS.html",
+      "summary": "Copernicus Emergency Management Service (CEMS)",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "459da84bac1415df",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Copernicus Atmosphere Monitoring Service (CAMS)",
+      "url": "https://documentation.dataspace.copernicus.eu/Data/CopernicusServices/CAMS.html",
+      "summary": "Copernicus Atmosphere Monitoring Service (CAMS)",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "03b92e0daa395e6b",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Copernicus Contributing Missions",
+      "url": "https://documentation.dataspace.copernicus.eu/Data/Others/CCM.html",
+      "summary": "Copernicus Contributing Missions",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "efa67ab95f0fb8e0",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Soil Moisture and Ocean Salinity (SMOS)",
+      "url": "https://documentation.dataspace.copernicus.eu/Data/ComplementaryData/SMOS.html",
+      "summary": "Soil Moisture and Ocean Salinity (SMOS)",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "72a81d78cfbdbd44",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Global Embeddings Dataset",
+      "url": "https://documentation.dataspace.copernicus.eu/Data/ComplementaryData/Embeddings.html",
+      "summary": "Global Embeddings Dataset",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "93f6fd8813d17607",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-1 SLC Bursts",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/Sentinel-1 SLC Burst.html",
+      "summary": "Sentinel-1 SLC Bursts",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "df6657339f708653",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "STAC product catalogue",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/STAC.html",
+      "summary": "STAC product catalogue",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "ddcaa8bea1122640",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "TCP stack configuration",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/TCP.html",
+      "summary": "TCP stack configuration",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "4ec86a7815e71fa5",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Traceability API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/Traceability.html",
+      "summary": "Traceability API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "9322f1d471514887",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "openEO Processes",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/openEO/Processes.html",
+      "summary": "openEO Processes",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "2220874c6c6f8f6e",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "openEO federation",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/openEO/federation/openeo_federation.html",
+      "summary": "openEO federation",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "6abfb5cbf75defd1",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Federation API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/openEO/federation/backends/api.html",
+      "summary": "Federation API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "d8c1afaa19a6e160",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "REST API Reference",
+      "url": "https://api.openeo.org/",
+      "summary": "REST API Reference",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "ee0d30e2c58d18c0",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel Hub",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub.html",
+      "summary": "Sentinel Hub",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "b0b2bbb2b6d660a3",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-1 GRD",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/S1GRD.html",
+      "summary": "Sentinel-1 GRD",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "8a116459aff0b418",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-2 L1C",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/S2L1C.html",
+      "summary": "Sentinel-2 L1C",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "1129b11f533aaccf",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-2 L2A",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/S2L2A.html",
+      "summary": "Sentinel-2 L2A",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "1c72ee33761191d5",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-3 OLCI L1B",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/S3OLCI.html",
+      "summary": "Sentinel-3 OLCI L1B",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "a03fd80f2290e146",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-3 OLCI L2",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/S3OLCIL2.html",
+      "summary": "Sentinel-3 OLCI L2",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "d153673f49bd9553",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-3 SLSTR L1B",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/S3SLSTR.html",
+      "summary": "Sentinel-3 SLSTR L1B",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "6bce569cd85af60d",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-3 SLSTR L2",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/S3SLSTRL2.html",
+      "summary": "Sentinel-3 SLSTR L2",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "dc84daf2b3e47fc6",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-3 SYN L2",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/S3SYNL2.html",
+      "summary": "Sentinel-3 SYN L2",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "5a572278db536514",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-5P L2",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/S5PL2.html",
+      "summary": "Sentinel-5P L2",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "cc86b6e27728f3c7",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-2 CC Europe 20m Daily V1",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/auxiliary-data/cloud-mask/clms_wsi_cloud-classification_europe_utm_20m_daily_v1.html",
+      "summary": "Sentinel-2 CC Europe 20m Daily V1",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "005e3b4eac5f0fa9",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Snow Water Equivalent",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/snow/snow-water-equivalent.html",
+      "summary": "Snow Water Equivalent",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "e7d4be05fd4135d4",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Soil Moisture",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/soil-moisture.html",
+      "summary": "Soil Moisture",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "d3356fba70e48f1b",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Soil Water Index",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/soil-moisture/soil-water-index.html",
+      "summary": "Soil Water Index",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "a14bc664763040ad",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Surface Soil Moisture",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/soil-moisture/surface-soil-moisture.html",
+      "summary": "Surface Soil Moisture",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "1ad63b298b66c61c",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Lake Surface Water Temperature",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/temperature-and-reflectance/lake-surface-water-temperature.html",
+      "summary": "Lake Surface Water Temperature",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "582ba1510f6db849",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Lake Surface Water Temperature 2002-2012 (raster 1 km), global, 10-daily, Offline â version 1",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/temperature-and-reflectance/lake-surface-water-temperature/lswt-offline_global_1km_10daily_v1.html",
+      "summary": "Lake Surface Water Temperature 2002-2012 (raster 1 km), global, 10-daily, Offline â version 1",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "405566025b1b3063",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Lake Surface Water Temperature 2016-present (raster 1 km), global, 10-daily, Near Real Time â version 1",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/temperature-and-reflectance/lake-surface-water-temperature/lswt-nrt_global_1km_10daily_v1.html",
+      "summary": "Lake Surface Water Temperature 2016-present (raster 1 km), global, 10-daily, Near Real Time â version 1",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "0a993accfb59b0d2",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Dry/Gross Dry Matter Productivity",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/vegetation/dry-gross-dry-matter-productivity.html",
+      "summary": "Dry/Gross Dry Matter Productivity",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "e6d87d9767d55f50",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Net/Gross Primary Production",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/vegetation/net-gross-primary-production.html",
+      "summary": "Net/Gross Primary Production",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "153be5a2ad782c1b",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Vegetation Indices",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/vegetation/vegetation-indices.html",
+      "summary": "Vegetation Indices",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "14ae93bedee393ed",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Vegetation Phenology and Productivity Parameters",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/vegetation/vegetation-phenology-and-productivity-parameters.html",
+      "summary": "Vegetation Phenology and Productivity Parameters",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "9de18adc2ab21317",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Vegetation Properties",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/vegetation/vegetation-properties.html",
+      "summary": "Vegetation Properties",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "300d1864c39b33e8",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Fraction of Green Vegetation Cover 2014-present (raster 300 m), global, 10-daily â version 2",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/vegetation/vegetation-properties/fcover_global_300m_10daily_v2.html",
+      "summary": "Fraction of Green Vegetation Cover 2014-present (raster 300 m), global, 10-daily â version 2",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "91b1a2cfd934166f",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Water Bodies",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies.html",
+      "summary": "Water Bodies",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "96ffea7e0e47a790",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Lake Water Quality",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies/lake-water-quality.html",
+      "summary": "Lake Water Quality",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "e8506b1b3b68158a",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Water and Ice Cover",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies/water-and-ice-cover.html",
+      "summary": "Water and Ice Cover",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "0415d53f86958471",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Water Bodies",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies/water-bodies.html",
+      "summary": "Water Bodies",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "2ac466e5bb2c6462",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Water Bodies (raster 1km), global, 10-daily â version 2",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies/water-bodies/wb_global_1km_10daily_v2.html",
+      "summary": "Water Bodies (raster 1km), global, 10-daily â version 2",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "6b1ba3f70121ea16",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Water Bodies 2014-2020 (raster 300 m), global, 10-daily â version 1",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies/water-bodies/wb_global_300m_10daily_v1.html",
+      "summary": "Water Bodies 2014-2020 (raster 300 m), global, 10-daily â version 1",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "8a2617b782ea9ad1",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Water Bodies 2020-present (raster 100 m), global, monthly â version 1",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies/water-bodies/wb_global_100m_monthly_v1.html",
+      "summary": "Water Bodies 2020-present (raster 100 m), global, monthly â version 1",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "fb8e3dd8653cb2ba",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Water Bodies 2020-present (raster 300 m), global, monthly â version 2",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies/water-bodies/wb_global_300m_monthly_v2.html",
+      "summary": "Water Bodies 2020-present (raster 300 m), global, monthly â version 2",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "2f5ec1fd8d526002",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Water Extent",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies/water-extent.html",
+      "summary": "Water Extent",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "f82999972b653a4f",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Land Cover and Land Use Mapping",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/land-cover-and-land-use-mapping.html",
+      "summary": "Land Cover and Land Use Mapping",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "25020076acb9e3ce",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Bare Soil After",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/land-cover-and-land-use-mapping/croplands/cropping-patterns/bare-soil-after.html",
+      "summary": "Bare Soil After",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "8f2bb6fc01f4418f",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Bare Soil Before",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/land-cover-and-land-use-mapping/croplands/cropping-patterns/bare-soil-before.html",
+      "summary": "Bare Soil Before",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "49027fddc974d1b1",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Global Dynamic Land Cover",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/land-cover-and-land-use-mapping/global-dynamic-land-cover.html",
+      "summary": "Global Dynamic Land Cover",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "c60f409d1fdaaac5",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Land Cover (raster 100 m), global, yearly â version 3",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/land-cover-and-land-use-mapping/global-dynamic-land-cover/lc_global_100m_yearly_v3.html",
+      "summary": "Land Cover (raster 100 m), global, yearly â version 3",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "8da7dc62ff5c472d",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Land Cover Map at 10m - Annual V1",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/land-cover-and-land-use-mapping/global-dynamic-land-cover/lcm_global_10m_yearly_v1.html",
+      "summary": "Land Cover Map at 10m - Annual V1",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "fe451b7c74905a91",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Land Cover and Use in Priority Areas",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/land-cover-and-use-in-priority-areas.html",
+      "summary": "Land Cover and Use in Priority Areas",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "fd1749ddf3a3a12b",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "API Overview",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Overview.html",
+      "summary": "API Overview",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "830e6b759d85dc60",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Asynchronous Processing API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/AsyncProcess.html",
+      "summary": "Asynchronous Processing API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "d35178694021353b",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Examples for Asynchronous Processing API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/AsyncProcess/Examples.html",
+      "summary": "Examples for Asynchronous Processing API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "841c9b216bd6cadc",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Examples for Catalog API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Catalog/Examples.html",
+      "summary": "Examples for Catalog API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "21a0a0cfed68f422",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Batch Processing API V2",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/BatchV2.html",
+      "summary": "Batch Processing API V2",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "a0b8e21537e03545",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Statistical API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Statistical.html",
+      "summary": "Statistical API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "be4ad8a51ae768c0",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Examples for Statistical API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Statistical/Examples.html",
+      "summary": "Examples for Statistical API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "a591ff7782bafcf3",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Batch Statistical API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/BatchStatistical.html",
+      "summary": "Batch Statistical API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "578083b0c46c0115",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Bring Your Own COG API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Byoc.html",
+      "summary": "Bring Your Own COG API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "87a0720bbb0f875c",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "BYOC API examples",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Byoc/Examples.html",
+      "summary": "BYOC API examples",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "55be0d422409e6ef",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Zarr Import API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Zarr.html",
+      "summary": "Zarr Import API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "9a87a326de01179a",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Zarr Import API examples",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Zarr/Examples.html",
+      "summary": "Zarr Import API examples",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "86bf933a659cb311",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Synchronous OpenEO API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/OpenEO.html",
+      "summary": "Synchronous OpenEO API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "eeb36fce65c77020",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "API Reference",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/ApiReference.html",
+      "summary": "API Reference",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "ce0415c2a1e02453",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "On-Demand Production API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/On-Demand Production API.html",
+      "summary": "On-Demand Production API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "75b3673124cd0efb",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "openEO Web Editor",
+      "url": "https://documentation.dataspace.copernicus.eu/Applications/WebEditor.html",
+      "summary": "openEO Web Editor",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     },
     {
       "id": "db6d86ff5fc9bb2a",
@@ -1088,7 +2088,7 @@
       "title": "Eionet Portal",
       "url": "https://www.eionet.europa.eu/",
       "summary": "Eionet Portal",
-      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını öğrenmek SNE profiline doğrudan katkı sağlar.",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -1098,7 +2098,7 @@
       "title": "About Reportnet",
       "url": "https://www.eionet.europa.eu/reportnet/about-reportnet-1",
       "summary": "About Reportnet",
-      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını öğrenmek SNE profiline doğrudan katkı sağlar.",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -1108,7 +2108,7 @@
       "title": "ETC Climate change adaptation and LULUCF (ETC CA)",
       "url": "https://www.eionet.europa.eu/etcs/etc-ca",
       "summary": "ETC Climate change adaptation and LULUCF (ETC CA)",
-      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını öğrenmek SNE profiline doğrudan katkı sağlar.",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -1118,7 +2118,7 @@
       "title": "ETC Climate change mitigation (ETC CM)",
       "url": "https://www.eionet.europa.eu/etcs/etc-cm",
       "summary": "ETC Climate change mitigation (ETC CM)",
-      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını öğrenmek SNE profiline doğrudan katkı sağlar.",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -1128,7 +2128,7 @@
       "title": "About the Eionet",
       "url": "https://www.eionet.europa.eu/Eionet/resolveuid/0bbd680d63544022ac9557d73fe4d480",
       "summary": "About the Eionet",
-      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını öğrenmek SNE profiline doğrudan katkı sağlar.",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -1138,7 +2138,7 @@
       "title": "Privacy statement for the Eionet website and Eionet accounts",
       "url": "https://www.eionet.europa.eu/about/privacy-statement-eionet-accounts",
       "summary": "Privacy statement for the Eionet website and Eionet accounts",
-      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını öğrenmek SNE profiline doğrudan katkı sağlar.",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -1148,7 +2148,7 @@
       "title": "Specific privacy statement for Eionet online events",
       "url": "https://www.eionet.europa.eu/about/privacy-statement-eionet-events",
       "summary": "Specific privacy statement for Eionet online events",
-      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını öğrenmek SNE profiline doğrudan katkı sağlar.",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -1158,7 +2158,7 @@
       "title": "EEA-Eionet Strategy for 2021-2030",
       "url": "https://www.eea.europa.eu/en/about/who-we-are/eea-eionet-strategy",
       "summary": "The EEA-Eionet Strategy for 2021-2030 gives the direction for EEA and Eionet in this decade. The joint task of EEA and Eionet is to give EU policy makers and the public the best available knowledge to reach the targets on environment and sustainability.",
-      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını öğrenmek SNE profiline doğrudan katkı sağlar.",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -1168,7 +2168,7 @@
       "title": "Holiday Closing Announcement for Eionet Helpdesk",
       "url": "https://www.eionet.europa.eu/holiday-closing-announcement-for-eionet-helpdesk",
       "summary": "Holiday Closing Announcement for Eionet Helpdesk",
-      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını öğrenmek SNE profiline doğrudan katkı sağlar.",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -1178,7 +2178,7 @@
       "title": "Multi Factor Authentication for applications with Eionet login",
       "url": "https://www.eionet.europa.eu/multi-factor-authentication-for-applications-with-eionet-login",
       "summary": "Multi Factor Authentication for applications with Eionet login",
-      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını öğrenmek SNE profiline doğrudan katkı sağlar.",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -1188,7 +2188,7 @@
       "title": "Reportnet 3 scheduled maintenance (26 - 31 May)",
       "url": "https://www.eionet.europa.eu/reportnet-3-scheduled-maintenance-26-27-may",
       "summary": "Reportnet 3 scheduled maintenance (26 - 31 May)",
-      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını öğrenmek SNE profiline doğrudan katkı sağlar.",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -1198,7 +2198,7 @@
       "title": "ETC DI Report 2026/06 Summary report on potential methodological approach and resource needs for a regular EU ecosystem extent data product",
       "url": "https://www.eionet.europa.eu/etcs/etc-di/products/etc-di-products/etc-di-report-2026-06",
       "summary": "ETC DI Report 2026/06 Summary report on potential methodological approach and resource needs for a regular EU ecosystem extent data product",
-      "potential": "YÜKSEK — Öğrenme + Türkiye uygulaması + CV/makale çıktısına dönüşme potansiyeli var.",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
     },
     {
@@ -1208,19 +2208,202 @@
       "title": "ETC BE Report 2026/4: The Status of Persistent Organic Pollutants in European Soils and Soil Biodiversity. Findings from a survey",
       "url": "https://www.eionet.europa.eu/etcs/etc-be/products/etc-be-products/etc-be-report-2026-4-title",
       "summary": "ETC BE Report 2026/4: The Status of Persistent Organic Pollutants in European Soils and Soil Biodiversity. Findings from a survey",
-      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını öğrenmek SNE profiline doğrudan katkı sağlar.",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
       "first_seen": "2026-09-22T08:52:18.508667+00:00"
+    },
+    {
+      "id": "382d361271043486",
+      "source": "Eionet Dataflows",
+      "kind": "learn",
+      "title": "Eionet Portal",
+      "url": "https://www.eionet.europa.eu/",
+      "summary": "Eionet Portal",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "ec0405406d0dd663",
+      "source": "Eionet Dataflows",
+      "kind": "learn",
+      "title": "About Reportnet",
+      "url": "https://www.eionet.europa.eu/reportnet/about-reportnet-1",
+      "summary": "About Reportnet",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "d0cf4e6afa18c89e",
+      "source": "Eionet Dataflows",
+      "kind": "learn",
+      "title": "ETC Climate change adaptation and LULUCF (ETC CA)",
+      "url": "https://www.eionet.europa.eu/etcs/etc-ca",
+      "summary": "ETC Climate change adaptation and LULUCF (ETC CA)",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "d16b76a4eb48ed57",
+      "source": "Eionet Dataflows",
+      "kind": "learn",
+      "title": "ETC Climate change mitigation (ETC CM)",
+      "url": "https://www.eionet.europa.eu/etcs/etc-cm",
+      "summary": "ETC Climate change mitigation (ETC CM)",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "5c04321eb0d83e90",
+      "source": "Eionet Dataflows",
+      "kind": "learn",
+      "title": "About the Eionet",
+      "url": "https://www.eionet.europa.eu/Eionet/resolveuid/0bbd680d63544022ac9557d73fe4d480",
+      "summary": "About the Eionet",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "8e33f536c9892960",
+      "source": "Eionet Dataflows",
+      "kind": "learn",
+      "title": "Privacy statement for the Eionet website and Eionet accounts",
+      "url": "https://www.eionet.europa.eu/about/privacy-statement-eionet-accounts",
+      "summary": "Privacy statement for the Eionet website and Eionet accounts",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "eeacbd15230d9608",
+      "source": "Eionet Dataflows",
+      "kind": "learn",
+      "title": "Specific privacy statement for Eionet online events",
+      "url": "https://www.eionet.europa.eu/about/privacy-statement-eionet-events",
+      "summary": "Specific privacy statement for Eionet online events",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "a9d48a8ad8ee7b77",
+      "source": "Eionet Dataflows",
+      "kind": "learn",
+      "title": "Eionet core dataflows",
+      "url": "https://www.eionet.europa.eu/reportnet/dataflows/core",
+      "summary": "Eionet core dataflows",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
+    },
+    {
+      "id": "9713d675190df4a9",
+      "source": "Eionet Dataflows",
+      "kind": "learn",
+      "title": "Eionet national dataflow coordinator (NDFC) function",
+      "url": "https://www.eionet.europa.eu/reportnet/dataflows/ndfc",
+      "summary": "Eionet national dataflow coordinator (NDFC) function",
+      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
+      "first_seen": "2026-09-22T09:27:00.084126+00:00"
     }
   ],
   "lesson": {
-    "topic": "Sentinel-1",
-    "what": "C-band SAR uydusu; gece-gündüz ve buluttan büyük ölçüde bağımsız radar gözlemi sağlar.",
-    "use": "Deformasyon, taşkın, toprak nemi ve arazi değişimi.",
-    "you": "PS-InSAR ve afet/şehir izleme çalışmalarında.",
-    "idea": "Ankara veya İstanbul için Sentinel-1 zaman serisiyle yüzey hareketi taraması.",
-    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-1"
+    "topic": "openEO: veriyi indirmeden analiz etmek",
+    "category": "API / Bulut İşleme",
+    "what": "openEO, Earth Observation verilerini standart bir API üzerinden sunucu tarafında işlemek için geliştirilmiş açık bir arayüzdür. Kullanıcı veri küpünü, mekânsal-zamansal filtreleri ve işlemleri tanımlar; hesaplama verinin bulunduğu altyapıda yapılır.",
+    "why": "STAC/OData ile openEO aynı iş değildir. STAC ve OData ağırlıklı olarak veri keşfi/katalog erişimi sağlarken openEO analiz sürecini de tanımlayabilir. Bu ayrımı bilmek CDSE ekosistemini gerçekten anlamanın temelidir.",
+    "access": "Python istemcisiyle bir backend’e bağlanıp koleksiyonları listeleyebilir, AOI/tarih seçebilir, bant işlemleri ve zamansal indirgeme yapabilir ve sonuç işi oluşturabilirsin.",
+    "you": "GEE deneyimini Copernicus’un kendi ekosistemine taşımanın en mantıklı yollarından biri. CV’de yalnız “Sentinel kullandım” yerine bulut tabanlı EO processing workflow gösterebilirsin.",
+    "idea": "Bir Sentinel-2 indeks zaman serisini hem GEE hem openEO ile üret; veri seçimi, kod yapısı, tekrarlanabilirlik ve işlem yaklaşımını teknik olarak karşılaştır.",
+    "concepts": "data cube · process graph · batch job · backend",
+    "url": "https://documentation.dataspace.copernicus.eu/APIs/openEO.html"
   },
+  "curriculum": [
+    {
+      "topic": "Sentinel-1: radar gözünden Dünya",
+      "category": "Sentinel / SAR",
+      "what": "Sentinel-1, C-band sentetik açıklıklı radar (SAR) kullanan Copernicus görevidir. Optik bir kamera gibi yansıyan güneş ışığını ölçmek yerine kendi mikrodalga sinyalini gönderip yüzeyden dönen sinyali kaydeder. Bu nedenle gece-gündüz çalışabilir ve bulutluluk optik sistemlere göre çok daha az sorun yaratır.",
+      "why": "Sentinel-1 yalnızca bir “radar görüntüsü” kaynağı değildir. GRD ürünleri taşkın, kıyı ve arazi değişimi gibi uygulamalarda; SLC ürünleri ise faz bilgisini koruduğu için interferometri ve yüzey deformasyonu çalışmalarında kritik rol oynar.",
+      "access": "Copernicus Data Space Browser ile görsel keşif yapabilir; STAC/OData ile ürün arayabilir; Python/openEO gibi araçlarla iş akışını otomatikleştirebilirsin. InSAR için ürün tipini ve yörünge geometrisini özellikle doğru seçmek gerekir.",
+      "you": "PS-InSAR deneyiminle doğrudan bağlantılı. Yeni bir bölgeyi sıfırdan işlemek yerine Copernicus EGMS sonuçlarıyla kendi InSAR sonuçlarını karşılaştırarak yöntem doğrulaması ve ölçek karşılaştırması yapabilirsin.",
+      "idea": "Bir maden/heyelan alanında kendi PS-InSAR hız alanın ile EGMS hızlarını; mekânsal kapsama, LOS hızları, anomali konumları ve veri yoğunluğu açısından karşılaştır.",
+      "concepts": "SAR · SLC/GRD · LOS · InSAR",
+      "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-1"
+    },
+    {
+      "topic": "Sentinel-2: 13 bant neden önemli?",
+      "category": "Sentinel / Optik",
+      "what": "Sentinel-2, kara ve kıyı alanlarını 13 spektral bantla gözleyen optik Copernicus görevidir. Bantların mekânsal çözünürlükleri 10, 20 ve 60 metredir. Görünür, yakın kızılötesi ve red-edge bantlarının birlikte bulunması bitki, su, yangın ve arazi örtüsü analizlerinde onu çok kullanışlı yapar.",
+      "why": "NDVI, NBR veya NDCI gibi indeksler yalnızca formül değildir; hangi bantların hangi fiziksel özelliğe duyarlı olduğunu anlamak gerekir. Level-2A yüzey yansıtımı atmosfer etkileri düzeltilmiş analizler için çoğu kara uygulamasında daha uygun başlangıç ürünüdür.",
+      "access": "CDSE Browser, STAC/OData ve Sentinel Hub servislerinden erişilebilir. GEE üzerinde de Sentinel-2 koleksiyonları bulunur; fakat EuroScope sana CDSE tarafındaki erişim ve işleme yollarını da öğretecek.",
+      "you": "Yangın sonrası NBR/NDVI ve kıyı su kalitesi çalışmalarınla doğrudan ilişkili. Aynı analizi CDSE/openEO tarafında tekrar etmek, tek bir platforma bağımlı olmayan bir EO iş akışı kurmanı sağlar.",
+      "idea": "Aynı Sentinel-2 zaman serisini GEE ve CDSE/openEO ile üret; veri seçimi, bulut maskeleme, tekrarlanabilirlik ve çıktı tutarlılığını karşılaştır.",
+      "concepts": "L1C · L2A · red-edge · surface reflectance",
+      "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2"
+    },
+    {
+      "topic": "Sentinel-3: kıyı ve çevre izlemede farklı ölçek",
+      "category": "Sentinel / Okyanus-Kara",
+      "what": "Sentinel-3; okyanus rengi, kara/deniz yüzey sıcaklığı ve yüzey özelliklerini izleyen çok sensörlü bir görevdir. Sentinel-2 kadar yüksek mekânsal çözünürlük hedeflemez; bunun yerine geniş alanı sık tekrarlarla gözlemek çevresel zaman serileri için avantaj sağlar.",
+      "why": "Bir sensörün “daha yüksek çözünürlüklü” olması her zaman daha iyi olduğu anlamına gelmez. Kıyı su kalitesi gibi konularda Sentinel-2 mekânsal ayrıntı sağlarken Sentinel-3 daha sık ve geniş ölçekli çevresel gözlem sağlayabilir.",
+      "access": "CDSE üzerinden Sentinel-3 koleksiyonları keşfedilebilir ve indirilebilir. Ürün seçerken sensör ve ürün tipini araştırma sorusuna göre ayırmak gerekir.",
+      "you": "İzmir Körfezi çalışmanda Sentinel-2 tabanlı göstergelerin yanına Sentinel-3 deniz rengi ürünlerini eklemek, tek sensörlü analizden çok-sensörlü bir çalışmaya geçiş sağlar.",
+      "idea": "İzmir Körfezi için Sentinel-2 ve Sentinel-3 tabanlı klorofil göstergelerinin mekânsal ve zamansal uyumunu istasyon verileriyle değerlendir.",
+      "concepts": "OLCI · SLSTR · ocean colour · temporal resolution",
+      "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-3"
+    },
+    {
+      "topic": "Sentinel-5P + TROPOMI: atmosferi haritalamak",
+      "category": "Atmosfer",
+      "what": "Sentinel-5P üzerindeki TROPOMI sensörü NO₂, SO₂, CO, CH₄, ozon, formaldehit ve aerosol gibi atmosfer bileşenlerini küresel ölçekte izler. Bu ürünler doğrudan yer seviyesi hava kalitesi istasyonu ölçümü değildir; atmosferik kolon bilgisini temsil eden ürünlerin fiziksel anlamı analizden önce anlaşılmalıdır.",
+      "why": "Uydu atmosfer ürünlerinde kalite bayrakları ve qa_value gibi değişkenler kritik önemdedir. Haritayı doğrudan ortalamak yerine düşük kaliteli gözlemleri elemek, bulut ve ölçüm geometrisi etkilerini dikkate almak gerekir.",
+      "access": "CDSE üzerinde Sentinel-5P koleksiyonlarına erişilebilir; bazı Level-2 koleksiyonları openEO ile sunucu tarafında işlenebilir. Böylece büyük zaman serilerini tek tek dosya indirmeden analiz etmek mümkündür.",
+      "you": "CBS + iklim/çevre profilin için yeni bir araştırma hattı açar. Arazi kullanımı, ulaşım veya sanayi katmanlarını atmosfer gözlemleriyle ilişkilendirerek EO ile politika/şehir çalışmalarını birleştirebilirsin.",
+      "idea": "Ankara’da 2019–2026 NO₂ mevsimselliğini CLMS arazi örtüsü ve ana ulaşım koridorlarıyla birlikte incele; uydu ürününün sınırlılıklarını ayrıca tartış.",
+      "concepts": "TROPOMI · L2 · qa_value · tropospheric column",
+      "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-5p"
+    },
+    {
+      "topic": "openEO: veriyi indirmeden analiz etmek",
+      "category": "API / Bulut İşleme",
+      "what": "openEO, Earth Observation verilerini standart bir API üzerinden sunucu tarafında işlemek için geliştirilmiş açık bir arayüzdür. Kullanıcı veri küpünü, mekânsal-zamansal filtreleri ve işlemleri tanımlar; hesaplama verinin bulunduğu altyapıda yapılır.",
+      "why": "STAC/OData ile openEO aynı iş değildir. STAC ve OData ağırlıklı olarak veri keşfi/katalog erişimi sağlarken openEO analiz sürecini de tanımlayabilir. Bu ayrımı bilmek CDSE ekosistemini gerçekten anlamanın temelidir.",
+      "access": "Python istemcisiyle bir backend’e bağlanıp koleksiyonları listeleyebilir, AOI/tarih seçebilir, bant işlemleri ve zamansal indirgeme yapabilir ve sonuç işi oluşturabilirsin.",
+      "you": "GEE deneyimini Copernicus’un kendi ekosistemine taşımanın en mantıklı yollarından biri. CV’de yalnız “Sentinel kullandım” yerine bulut tabanlı EO processing workflow gösterebilirsin.",
+      "idea": "Bir Sentinel-2 indeks zaman serisini hem GEE hem openEO ile üret; veri seçimi, kod yapısı, tekrarlanabilirlik ve işlem yaklaşımını teknik olarak karşılaştır.",
+      "concepts": "data cube · process graph · batch job · backend",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/openEO.html"
+    },
+    {
+      "topic": "STAC ve OData: katalog API’si ne demek?",
+      "category": "API / Veri Keşfi",
+      "what": "STAC, mekânsal-zamansal varlıkları standart JSON yapılarıyla tanımlayan açık bir katalog yaklaşımıdır. OData ise CDSE kataloğunda ürünleri özelliklerine göre sorgulamak ve erişmek için kullanılan başka bir API yoludur. İkisi de “uydu görüntüsünü analiz eden algoritma” değildir; öncelikle doğru veriyi bulma ve erişim problemini çözer.",
+      "why": "Manuel Browser kullanımı birkaç görüntü için yeterlidir. Yüzlerce tarih, farklı AOI veya tekrarlanan araştırma akışı olduğunda programatik katalog sorgusu araştırmanın tekrarlanabilirliğini ciddi biçimde artırır.",
+      "access": "Python/Colab içinde tarih, geometri, koleksiyon ve ürün özelliklerine göre sorgu kurup sonuç URL/kimliklerini sonraki indirme veya işleme adımına aktarabilirsin.",
+      "you": "Afet öncesi/sonrası veya uzun zaman serisi analizlerinde veri toplama aşamasını otomatikleştirmen için yararlı.",
+      "idea": "Türkiye’de seçilen herhangi bir afet AOI’si için olay tarihinden önce/sonra uygun Sentinel ürünlerini otomatik bulan küçük bir “EO Data Finder” geliştir.",
+      "concepts": "catalogue · collection · item · spatial/temporal query",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs.html"
+    },
+    {
+      "topic": "CLMS: Copernicus sadece ham uydu görüntüsü değildir",
+      "category": "Copernicus Land",
+      "what": "Copernicus Land Monitoring Service (CLMS), ham uydu görüntülerinin ötesinde arazi örtüsü/arazi kullanımı, biyofiziksel değişkenler, referans veriler ve yer hareketi gibi temalarda hazır ürün ve servisler sağlar. CORINE Land Cover, Urban Atlas ve European Ground Motion Service bunun farklı tipte örnekleridir.",
+      "why": "Araştırmada her değişkeni Sentinel görüntüsünden kendin üretmek zorunda değilsin. Hazır CLMS katmanlarını bağımsız değişken, referans veri veya karşılaştırma ürünü olarak kullanmak hem analizi zenginleştirebilir hem de Avrupa veri ekosistemine hâkimiyetini gösterir.",
+      "access": "CLMS web sitesi ve Data Viewer üzerinden ürünler keşfedilebilir; ürüne göre indirme ve servis/API seçenekleri değişebilir. Bazı CLMS koleksiyonları CDSE ekosistemi üzerinden de erişilebilir.",
+      "you": "CBS geçmişin nedeniyle CLMS senin için Sentinel görevleri kadar önemli. Arazi/şehir katmanlarını çevresel ve atmosferik analizlerle birleştirmek AÇA odaklı çalışmalar için özellikle anlamlı.",
+      "idea": "Bir Ankara ilçesinde CLMS arazi örtüsü/imperviousness ürünleri ile Sentinel-2’den üretilen kentsel değişim göstergelerini karşılaştır ve uyumsuzluk alanlarını analiz et.",
+      "concepts": "CLC · Urban Atlas · HRL · EGMS",
+      "url": "https://land.copernicus.eu/en/products"
+    },
+    {
+      "topic": "Eionet ve Reportnet: verinin kurumsal yolculuğu",
+      "category": "EEA / Veri Yönetişimi",
+      "what": "Eionet, Avrupa Çevre Ajansı ile üye ve işbirliği ülkelerindeki kurumları birbirine bağlayan çevre bilgi ağıdır. Reportnet ise çevresel raporlama ve veri akışlarının yürütülmesinde kullanılan altyapıdır. Burada konu yalnız teknik veri formatı değil; veri sorumluluğu, raporlama takvimi, kalite ve kurumsal iş akışıdır.",
+      "why": "AÇA’da çalışmak isteyen bir CBS/EO uzmanı için yalnız uydu analizi bilmek yeterli değildir. Verinin ulusal kurumdan Avrupa düzeyindeki değerlendirmeye nasıl ulaştığını anlamak, Eionet ekosistemini kavramanın temelidir.",
+      "access": "Eionet/Reportnet sayfalarındaki dataflow ve raporlama kaynakları üzerinden hangi çevre temasının hangi veri akışıyla raporlandığını inceleyebilirsin.",
+      "you": "Bakanlık deneyimini teknik CBS becerisiyle birleştirebileceğin alan tam olarak burası. Ulusal veri üretimi ile Avrupa çevre veri yönetişimi arasındaki köprüyü öğrenmek SNE profiline doğrudan katkı sağlar.",
+      "idea": "Bir çevre temasını seçip Türkiye’deki veri üretim zinciri ile ilgili Eionet/Reportnet veri akışını süreç, veri modeli ve CBS birlikte çalışabilirliği açısından eşleştir.",
+      "concepts": "Eionet · dataflow · reporting obligation · data governance",
+      "url": "https://www.eionet.europa.eu/reportnet/dataflows"
+    }
+  ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7fcef1761ca0>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7f719a195e50>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

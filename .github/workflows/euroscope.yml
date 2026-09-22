@@ -1,0 +1,24 @@
+name: EuroScope Radar
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+permissions:
+  contents: write
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python scripts/radar.py
+      - name: Save updates
+        run: |
+          git config user.name "EuroScope Radar"
+          git config user.email "actions@github.com"
+          git add docs/data/items.json
+          git diff --cached --quiet || git commit -m "EuroScope automatic update"
+          git push

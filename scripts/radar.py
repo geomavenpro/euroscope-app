@@ -15,7 +15,7 @@ SOURCES=[
  ('Eionet','https://www.eionet.europa.eu/','eionet'),
  ('Eionet Dataflows','https://www.eionet.europa.eu/reportnet/dataflows','learn'),
 ]
-OUT=Path('docs/data/items.json'); HEAD={'User-Agent':'EuroScope/3.1 (+personal learning radar)'}
+OUT=Path('docs/data/items.json'); HEAD={'User-Agent':'EuroScope/4.0 (+educational radar)'}
 KEYWORDS=['sne','seconded national expert','ulusal uzman','geçici görevli','vacanc','expert','copernicus','sentinel','openeo','api','dataset','product','eionet','reportnet','earth observation','land cover','urban atlas','ground motion','climate','water','vegetation','soil','stac','odata','jupyter','algorithm','corine','insar','tropomi']
 
 LESSONS=[
@@ -54,6 +54,24 @@ def scrape(name,url,kind):
   if x['url'] not in seen: seen.add(x['url']); out.append(x)
  return out[:70]
 
+def enrich(x):
+ # Never invent a full article when extraction fails; preserve existing summary.
+ if not x['url'].startswith('https://') or x['url'].lower().endswith('.pdf'): return x
+ try:
+  r=requests.get(x['url'],headers=HEAD,timeout=12); r.raise_for_status()
+  soup=BeautifulSoup(r.text,'html.parser')
+  for tag in soup(['script','style','nav','footer','header']): tag.decompose()
+  article=soup.find('article') or soup.find('main')
+  if not article:return x
+  paras=[clean(t.get_text(' ',strip=True)) for t in article.find_all(['p','li'])]
+  paras=[v for v in paras if len(v)>55]
+  full='\n\n'.join(paras[:18])
+  if len(full)>len(x.get('summary',''))+150:
+   x['summary']=full[:4500].rsplit(' ',1)[0] if len(full)>4500 else full
+   x['summary_status']='Kaynak sayfadan alınan metin; tam makale değil.' if len(full)>4500 else 'Kaynak sayfadan alınan metin.'
+ except Exception:pass
+ return x
+
 def main():
  old=[]
  if OUT.exists():
@@ -64,6 +82,11 @@ def main():
   try: allitems += scrape(n,u,k)
   except Exception as e: errors.append(f'{n}: {e}')
  uniq={x['id']:x for x in allitems}; items=list(uniq.values())
+ if not items and old: items=old
+ for x in items[:12]:
+  prev=oldmap.get(x['id'],{})
+  if len(prev.get('summary',''))>len(x.get('summary','')): x['summary']=prev['summary']
+  if len(x.get('summary',''))<350: enrich(x)
  for x in items: x['first_seen']=oldmap.get(x['id'],{}).get('first_seen',now.isoformat())
  # 3 daily runs rotate the curriculum naturally; device tracks completed lessons separately.
  slot=(now.hour//8)

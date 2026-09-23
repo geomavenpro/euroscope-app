@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T12:08:28.030205+00:00",
+  "updated_at": "2026-09-23T18:08:42.515073+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -2303,15 +2303,18 @@
     }
   ],
   "lesson": {
-    "topic": "Eionet ve Reportnet: verinin kurumsal yolculuğu",
-    "category": "EEA / Veri Yönetişimi",
-    "what": "Eionet, Avrupa Çevre Ajansı ile üye ve işbirliği ülkelerindeki kurumları birbirine bağlayan çevre bilgi ağıdır. Reportnet ise çevresel raporlama ve veri akışlarının yürütülmesinde kullanılan altyapıdır. Burada konu yalnız teknik veri formatı değil; veri sorumluluğu, raporlama takvimi, kalite ve kurumsal iş akışıdır.",
-    "why": "AÇA’da çalışmak isteyen bir CBS/EO uzmanı için yalnız uydu analizi bilmek yeterli değildir. Verinin ulusal kurumdan Avrupa düzeyindeki değerlendirmeye nasıl ulaştığını anlamak, Eionet ekosistemini kavramanın temelidir.",
-    "access": "Eionet/Reportnet sayfalarındaki dataflow ve raporlama kaynakları üzerinden hangi çevre temasının hangi veri akışıyla raporlandığını inceleyebilirsin.",
-    "you": "Bakanlık deneyimini teknik CBS becerisiyle birleştirebileceğin alan tam olarak burası. Ulusal veri üretimi ile Avrupa çevre veri yönetişimi arasındaki köprüyü öğrenmek SNE profiline doğrudan katkı sağlar.",
-    "idea": "Bir çevre temasını seçip Türkiye’deki veri üretim zinciri ile ilgili Eionet/Reportnet veri akışını süreç, veri modeli ve CBS birlikte çalışabilirliği açısından eşleştir.",
-    "concepts": "Eionet · dataflow · reporting obligation · data governance",
-    "url": "https://www.eionet.europa.eu/reportnet/dataflows"
+    "topic": "Sentinel-1: radar gözünden Dünya",
+    "category": "Sentinel / SAR",
+    "what": "Sentinel-1, C-band sentetik açıklıklı radar (SAR) kullanan Copernicus görevidir. Optik bir kamera gibi yansıyan güneş ışığını ölçmek yerine kendi mikrodalga sinyalini gönderip yüzeyden dönen sinyali kaydeder. Bu nedenle gece-gündüz çalışabilir ve bulutluluk optik sistemlere göre çok daha az sorun yaratır.",
+    "why": "Sentinel-1 yalnızca bir “radar görüntüsü” kaynağı değildir. GRD ürünleri taşkın, kıyı ve arazi değişimi gibi uygulamalarda; SLC ürünleri ise faz bilgisini koruduğu için interferometri ve yüzey deformasyonu çalışmalarında kritik rol oynar.",
+    "access": "Copernicus Data Space Browser ile görsel keşif yapabilir; STAC/OData ile ürün arayabilir; Python/openEO gibi araçlarla iş akışını otomatikleştirebilirsin. InSAR için ürün tipini ve yörünge geometrisini özellikle doğru seçmek gerekir.",
+    "you": "PS-InSAR deneyiminle doğrudan bağlantılı. Yeni bir bölgeyi sıfırdan işlemek yerine Copernicus EGMS sonuçlarıyla kendi InSAR sonuçlarını karşılaştırarak yöntem doğrulaması ve ölçek karşılaştırması yapabilirsin.",
+    "idea": "Bir maden/heyelan alanında kendi PS-InSAR hız alanın ile EGMS hızlarını; mekânsal kapsama, LOS hızları, anomali konumları ve veri yoğunluğu açısından karşılaştır.",
+    "details": "Sentinel-1 verisini okurken dört şeyi birlikte düşün: ürün seviyesi, çekim modu, polarizasyon ve yörünge. GRD genlik bilgisini pratik biçimde sunar; SLC ise kompleks veri ve faz bilgisini korur. IW modu kara uygulamalarında en sık karşılaşacağın moddur. VV/VH gibi polarizasyonlar yüzey pürüzlülüğü, yapı ve nem koşullarına farklı duyarlılık gösterir. InSAR tarafında iki görüntünün faz farkından doğrudan dikey hareket ölçülmez; ölçüm sensörün bakış doğrultusundaki LOS bileşenidir. Bu nedenle ascending/descending geometri ve referans noktası yorumda önemlidir.",
+    "workflow": "1) Araştırma sorusunu belirle. 2) Uygun SLC/GRD ürününü seç. 3) Aynı yörünge/geometriyi koru. 4) Kalite ve ön işlem adımlarını uygula. 5) Sonucu EGMS gibi bağımsız ürünlerle karşılaştır.",
+    "limits": "Radarın buluttan etkilenmemesi her yüzeyde kusursuz sonuç verdiği anlamına gelmez. Bitki örtüsü, kar, hızlı yüzey değişimi ve zamansal dekorrelasyon interferometrik tutarlılığı düşürebilir.",
+    "concepts": "SAR · SLC/GRD · LOS · InSAR",
+    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-1"
   },
   "curriculum": [
     {
@@ -2410,6 +2413,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7f969815b1a0>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7f5ca77d1fa0>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T06:08:24.019909+00:00",
+  "updated_at": "2026-09-23T12:08:28.030205+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -822,6 +822,26 @@
       "first_seen": "2026-09-22T10:33:48.930482+00:00"
     },
     {
+      "id": "4de30020d83da5b8",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "September 23, 2026 Copernicus Sentinel-3A unavailability notice for the Lunar Calibration planned on 27 September 2026 [DOY 270] Operational ESA news Sentinel-3 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-9-23-copernicus-sentinel-3a-unavailability-notice-lunar-calibration-planned-27-0",
+      "summary": "September 23, 2026 Copernicus Sentinel-3A unavailability notice for the Lunar Calibration planned on 27 September 2026 [DOY 270] Operational ESA news Sentinel-3 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-23T12:08:28.030205+00:00"
+    },
+    {
+      "id": "3e5d15fd79ec8db9",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "September 23, 2026 Copernicus Sentinel-3A unavailability notice for the Lunar Calibration planned on 27 September 2026 [DOY 270] Operational ESA news Sentinel-3 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-9-23-copernicus-sentinel-3a-unavailability-notice-lunar-calibration-planned-27-september",
+      "summary": "September 23, 2026 Copernicus Sentinel-3A unavailability notice for the Lunar Calibration planned on 27 September 2026 [DOY 270] Operational ESA news Sentinel-3 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-09-23T12:08:28.030205+00:00"
+    },
+    {
       "id": "341afe8045caf0d8",
       "source": "Copernicus Data Space News",
       "kind": "eo",
@@ -1359,26 +1379,6 @@
       "url": "https://dataspace.copernicus.eu/news/2026-6-9-more-60-clms-collections-now-available-openeo-cdse",
       "summary": "June 9, 2026 More than 60 CLMS collections now available in openEO on CDSE General New feature Read article",
       "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "3f182c69d07aec15",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "June 8, 2026 CLMS Global Land Surface Temperature new version: reading the Earth’s thermal pulse New data Copernicus Land Monitoring Service Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-6-8-clms-global-land-surface-temperature-new-version-reading-earths-thermal-pulse",
-      "summary": "June 8, 2026 CLMS Global Land Surface Temperature new version: reading the Earth’s thermal pulse New data Copernicus Land Monitoring Service Read article",
-      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "9badaa4b501c1b5a",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "June 4, 2026 Copernicus Data Space Ecosystem User Feedback Survey 2026 General Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-6-4-copernicus-data-space-ecosystem-user-feedback-survey-2026",
-      "summary": "June 4, 2026 Copernicus Data Space Ecosystem User Feedback Survey 2026 General Read article",
-      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
       "first_seen": "2026-09-22T10:33:48.930482+00:00"
     },
     {
@@ -2303,15 +2303,15 @@
     }
   ],
   "lesson": {
-    "topic": "CLMS: Copernicus sadece ham uydu görüntüsü değildir",
-    "category": "Copernicus Land",
-    "what": "Copernicus Land Monitoring Service (CLMS), ham uydu görüntülerinin ötesinde arazi örtüsü/arazi kullanımı, biyofiziksel değişkenler, referans veriler ve yer hareketi gibi temalarda hazır ürün ve servisler sağlar. CORINE Land Cover, Urban Atlas ve European Ground Motion Service bunun farklı tipte örnekleridir.",
-    "why": "Araştırmada her değişkeni Sentinel görüntüsünden kendin üretmek zorunda değilsin. Hazır CLMS katmanlarını bağımsız değişken, referans veri veya karşılaştırma ürünü olarak kullanmak hem analizi zenginleştirebilir hem de Avrupa veri ekosistemine hâkimiyetini gösterir.",
-    "access": "CLMS web sitesi ve Data Viewer üzerinden ürünler keşfedilebilir; ürüne göre indirme ve servis/API seçenekleri değişebilir. Bazı CLMS koleksiyonları CDSE ekosistemi üzerinden de erişilebilir.",
-    "you": "CBS geçmişin nedeniyle CLMS senin için Sentinel görevleri kadar önemli. Arazi/şehir katmanlarını çevresel ve atmosferik analizlerle birleştirmek AÇA odaklı çalışmalar için özellikle anlamlı.",
-    "idea": "Bir Ankara ilçesinde CLMS arazi örtüsü/imperviousness ürünleri ile Sentinel-2’den üretilen kentsel değişim göstergelerini karşılaştır ve uyumsuzluk alanlarını analiz et.",
-    "concepts": "CLC · Urban Atlas · HRL · EGMS",
-    "url": "https://land.copernicus.eu/en/products"
+    "topic": "Eionet ve Reportnet: verinin kurumsal yolculuğu",
+    "category": "EEA / Veri Yönetişimi",
+    "what": "Eionet, Avrupa Çevre Ajansı ile üye ve işbirliği ülkelerindeki kurumları birbirine bağlayan çevre bilgi ağıdır. Reportnet ise çevresel raporlama ve veri akışlarının yürütülmesinde kullanılan altyapıdır. Burada konu yalnız teknik veri formatı değil; veri sorumluluğu, raporlama takvimi, kalite ve kurumsal iş akışıdır.",
+    "why": "AÇA’da çalışmak isteyen bir CBS/EO uzmanı için yalnız uydu analizi bilmek yeterli değildir. Verinin ulusal kurumdan Avrupa düzeyindeki değerlendirmeye nasıl ulaştığını anlamak, Eionet ekosistemini kavramanın temelidir.",
+    "access": "Eionet/Reportnet sayfalarındaki dataflow ve raporlama kaynakları üzerinden hangi çevre temasının hangi veri akışıyla raporlandığını inceleyebilirsin.",
+    "you": "Bakanlık deneyimini teknik CBS becerisiyle birleştirebileceğin alan tam olarak burası. Ulusal veri üretimi ile Avrupa çevre veri yönetişimi arasındaki köprüyü öğrenmek SNE profiline doğrudan katkı sağlar.",
+    "idea": "Bir çevre temasını seçip Türkiye’deki veri üretim zinciri ile ilgili Eionet/Reportnet veri akışını süreç, veri modeli ve CBS birlikte çalışabilirliği açısından eşleştir.",
+    "concepts": "Eionet · dataflow · reporting obligation · data governance",
+    "url": "https://www.eionet.europa.eu/reportnet/dataflows"
   },
   "curriculum": [
     {
@@ -2410,6 +2410,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7f58b59bb020>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7f969815b1a0>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

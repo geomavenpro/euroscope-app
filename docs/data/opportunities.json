@@ -1,0 +1,152 @@
+{
+  "verified_on": "2026-09-24",
+  "update_policy": "Bu katalog başlangıç verisidir; otomatik canlı ilan doğrulaması değildir. Tarih ve ücretler resmî bağlantıdan teyit edilmelidir.",
+  "opportunities": [
+    {
+      "category": "call",
+      "title": "Multimodal Remote Sensing Image Registration — özel sayı",
+      "date": "2026-09-30",
+      "duration": "Dergi özel sayısı",
+      "cost": "Derginin yayın koşullarını kontrol et",
+      "travel": "Yol/konaklama gerekmiyor",
+      "certificate": "Yayın kabulüne bağlı",
+      "summary": "Çok modlu uydu görüntülerinin eşleştirilmesi; SAR-optik ve farklı sensör geometrileriyle çalışan yöntemler için uygun.",
+      "fit": "Sentinel-1 ve Sentinel-2 ortak kayıt doğruluğu; süper çözünürlük öncesi/sonrası hizalama etkisi.",
+      "url": "https://www.grss-ieee.org/publications/author-resources/call-for-papers/",
+      "status": "Son tarih yakın"
+    },
+    {
+      "category": "call",
+      "title": "AI-Driven Multimodal Remote Sensing for Forestry — özel sayı",
+      "date": "2026-09-30",
+      "duration": "Dergi özel sayısı",
+      "cost": "Derginin yayın koşullarını kontrol et",
+      "travel": "Yol/konaklama gerekmiyor",
+      "certificate": "Yayın kabulüne bağlı",
+      "summary": "Ormancılıkta çok modlu uzaktan algılama ve yapay zekâ çalışmaları.",
+      "fit": "Sentinel-1/2 ile yangın sonrası iyileşme; SAR ve optik verinin birlikte kullanımı.",
+      "url": "https://www.grss-ieee.org/publications/author-resources/call-for-papers/",
+      "status": "Son tarih yakın"
+    },
+    {
+      "category": "call",
+      "title": "Resource-Constrained Multimodal Foundation Models — özel sayı",
+      "date": "2027-02-28",
+      "duration": "Dergi özel sayısı",
+      "cost": "Derginin yayın koşullarını kontrol et",
+      "travel": "Yol/konaklama gerekmiyor",
+      "certificate": "Yayın kabulüne bağlı",
+      "summary": "Kısıtlı hesaplama ve veri koşullarında çok modlu uzaktan algılama temel modelleri.",
+      "fit": "SAR süper çözünürlük ve hafif GeoAI modelleri için araştırma hattı.",
+      "url": "https://www.grss-ieee.org/publications/author-resources/call-for-papers/"
+    },
+    {
+      "category": "call",
+      "title": "Foundation Models and Multi-Source Remote Sensing for Water Resources — özel sayı",
+      "date": "2027-04-30",
+      "duration": "Dergi özel sayısı",
+      "cost": "Derginin yayın koşullarını kontrol et",
+      "travel": "Yol/konaklama gerekmiyor",
+      "certificate": "Yayın kabulüne bağlı",
+      "summary": "Su kaynaklarında temel modeller ve çok kaynaklı uzaktan algılama.",
+      "fit": "İzmir Körfezi, kuraklık veya havza ölçeğinde Sentinel + in-situ birleşimi.",
+      "url": "https://www.grss-ieee.org/publications/author-resources/call-for-papers/"
+    },
+    {
+      "category": "event",
+      "title": "IGARSS 2027 — Reykjavík",
+      "date": "2027-07-11",
+      "duration": "11–16 Temmuz 2027 · 6 gün",
+      "cost": "Kayıt ve bildiri ücretleri: açıklanacak / kontrol et",
+      "travel": "Uçak ve konaklama desteği: doğrulanmadı",
+      "certificate": "Katılım belgesi: organizatöre sor",
+      "summary": "IEEE GRSS uluslararası yer bilimleri ve uzaktan algılama sempozyumu.",
+      "fit": "SAR, GeoAI, iklim ve çevre izleme araştırmaları için takip edilecek etkinlik. Bildiri son tarihi ayrıca duyurulmalı.",
+      "url": "https://www.grss-ieee.org/conferences/"
+    },
+    {
+      "category": "training",
+      "title": "IEEE GRSS Microwave Radiometry School",
+      "date": "2026-09-29",
+      "duration": "29 Eylül–2 Ekim 2026 · 4 gün · ABD",
+      "cost": "Kayıt ücreti: resmî etkinlik sayfasından kontrol et",
+      "travel": "Uçak/konaklama desteği doğrulanmadı",
+      "certificate": "Sertifika bilgisi doğrulanmadı",
+      "summary": "Mikrodalga radyometri; temel ilkeler, kalibrasyon, sistem tasarımı ve uygulamalı dersler.",
+      "fit": "SAR’dan farklı pasif mikrodalga algılamayı öğrenmek için.",
+      "url": "https://www.grss-ieee.org/events-calendar/"
+    },
+    {
+      "category": "training",
+      "title": "IEEE GRSS Earth Observation & GeoAI School — Linz",
+      "date": "2026-10-14",
+      "duration": "14–16 Ekim 2026 · 3 gün · Avusturya",
+      "cost": "Ücret: resmî başvuru sayfasından kontrol et",
+      "travel": "Uçak/konaklama desteği doğrulanmadı",
+      "certificate": "Sertifika bilgisi doğrulanmadı",
+      "summary": "İklime dirençli kentler için Sentinel verileri ve GeoAI ile ileri seviye okul.",
+      "fit": "Kentsel iklim, CBS ve GeoAI kesişimi; başvuru kapanışını etkinlik sayfasından teyit et.",
+      "url": "https://www.grss-ieee.org/events-calendar/"
+    },
+    {
+      "category": "training",
+      "title": "ESA Advanced Land Training: Water Cycle — geçmiş örnek",
+      "date": "2026-06-30",
+      "duration": "7–11 Eylül 2026 · 5 gün · İtalya",
+      "cost": "Katılım ücretsizdi",
+      "travel": "Uçak ve konaklama katılımcıya aitti",
+      "certificate": "Katılım sertifikası vardı",
+      "summary": "SAR, optik, termal ve altimetriyle su döngüsü; başvuru kapandı. Gelecek edisyon için kaynak olarak izle.",
+      "fit": "Ücretsiz ancak yol-konaklama karşılanmayan programların nasıl etiketleneceğine örnek.",
+      "url": "https://landtraining2026.esa.int/",
+      "status": "Kapandı"
+    },
+    {
+      "category": "career",
+      "title": "AÇA / EEA SNE — resmî ilan takibi",
+      "date": null,
+      "duration": "İlana göre değişir",
+      "cost": "İlana ve görevlendirme koşullarına göre",
+      "travel": "Harcırah ve ödemeler ilanın ve kurumun koşullarına göre",
+      "certificate": "İstihdam/görevlendirme; eğitim sertifikası değil",
+      "summary": "Yeni çağrı açıldığında profil, ülke uygunluğu, aday gösterme kanalı, belge ve son tarih ayrı doğrulanmalı. Bu kart açık ilan değildir.",
+      "fit": "CV, İngilizce teknik portföy, motivasyon mektubu ve kurumsal adaylık hazırlığı.",
+      "url": "https://www.eea.europa.eu/en/about/careers/vacancies",
+      "status": "Takip bağlantısı"
+    }
+  ],
+  "research": [
+    {
+      "title": "NISAR: L-band ve S-band SAR ile yüzey değişimi",
+      "kind": "Uydu görevi",
+      "what": "NASA–ISRO NISAR, farklı dalga boylarıyla deformasyon, ekosistem ve buz örtüsü değişimlerini izlemek için tasarlanmıştır.",
+      "method": "L-band ve S-band verilerini aynı AOI üzerinde karşılaştır; polarizasyon, geometrik düzeltme ve zamansal eşleştirmeyi açıkça raporla.",
+      "idea": "Konya’da tarım arazilerinde Sentinel-1 C-band ile NISAR L-band duyarlılığını karşılaştıran tekrarlanabilir bir Python iş akışı.",
+      "link": "https://nisar.jpl.nasa.gov/"
+    },
+    {
+      "title": "SAR süper çözünürlük: yapay ayrıntı riskini ölç",
+      "kind": "GeoAI · Süper çözünürlük",
+      "what": "Öğrenen modeller düşük çözünürlüklü SAR görüntülerinden daha ayrıntılı görüntü üretmeye çalışır; görsel iyileşme fiziksel doğruluk anlamına gelmez.",
+      "method": "Bicubic, ESRGAN-benzeri ve difüzyon tabanlı yaklaşımları karşılaştır; speckle, kenar korunumu ve sahte yapı riskini ayrı değerlendir.",
+      "idea": "Sentinel-1 üzerinde süper çözünürlüğün bina ve yol değişim tespitine etkisi; PSNR/SSIM yanında görev-temelli doğruluk.",
+      "link": "https://eo4society.esa.int/phi-lab/"
+    },
+    {
+      "title": "ESA Earth Observation: yeni algoritma ve gerçek uygulamalar",
+      "kind": "ESA · Uygulama",
+      "what": "ESA uygulama haberlerinde yeni sensörler, işleme yöntemleri ve operasyonel örnekler birlikte yayımlanır.",
+      "method": "Haberdeki görev, ürün seviyesi, algoritma, doğrulama ve kod/veri erişimini ayır; iddiaları makale veya teknik belgeyle doğrula.",
+      "idea": "Bir ESA uygulamasını Türkiye verisiyle yeniden üretip veri erişimi ve hata kaynaklarını belgeleyen Colab not defteri.",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth"
+    },
+    {
+      "title": "CLMS + Sentinel-2: arazi değişimi ve model genellemesi",
+      "kind": "CLMS · Makine öğrenmesi",
+      "what": "CLMS arazi örtüsü ve biyofiziksel ürünleri, Sentinel zaman serileriyle değişim analizine bağlanabilir.",
+      "method": "Ürün sınıf şemalarını ve çözünürlükleri eşleştir; eğitim-test ayrımını coğrafi bloklarla yap.",
+      "idea": "Türkiye’de CLMS ürünlerini yerel Sentinel-2 sınıflandırmasıyla karşılaştır; farklı iklim bölgelerinde aktarılabilirliği ölç.",
+      "link": "https://land.copernicus.eu/en/products"
+    }
+  ]
+}

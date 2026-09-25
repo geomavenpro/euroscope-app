@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T06:08:15.630282+00:00",
+  "updated_at": "2026-09-25T12:08:19.459768+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -60,6 +60,16 @@
       "summary": "Copernicus relies on the availability of a wide variety of in-situ data, collected on land, at sea and in the air. Th ese data are used for production and validation of Copernicus products and are also offered directly to users as independent observations.\n\nCopernicus is the European Union’s revolutionary Earth Observation component of the EU Space Programme . It transforms information from multiple sources, including the Sentinel satellites and in-situ observations, into operational services for keeping watch over the planet – from the land to the ocean , atmosphere and climate .\n\nFor its operations, Copernicus relies on ground-based , air and sea borne monitoring systems , geospatial and ancillary data from a range of providers. These data constitute the \"Copernicus In-Situ Component\" and complement and calibrate satellite information to increase product accuracy, reduce delivery time and support validation.\n\nThe Cross-Cutting Coordination of the Copernicus In-Situ Component, led by the European Environment Agency (EEA), maps the availability of data and identifies gaps or bottlenecks in access. It also supports the provision of cross-cutting data and information, and manages partnerships with data providers to improve access and use.\n\nWatch our video to explore how the Copernicus In-Situ Component connects networks, data providers, and environmental expertise across Europe and beyond, helping to support and enhance Copernicus Earth observation services and products.\n\nIn-situ data in Copernicus covers two main categories: Observations and Geospatial data . It also encompasses Fiducial Reference Measurements , which are very precise ground measurements used to validate satellite data.\n\nThe Copernicus In-Situ Component is based on a very wide and complex landscape of data providers and networks, of national, regional and global nature. While the Copernicus Entrusted Entities are in charge of accessing in-situ data directly to meet their day-to-day operational needs, the European Environment Agency (EEA) is in charge of the cross-cutting coordination of Copernicus’ access to in-situ data. By maintaining an overview of in-situ data requirements by the Entrusted Entites, solutions can be proposed and implemented to make more essential in-situ data available to Copernicus as a whole.\n\nImage by: ICOS RI/Rocco Canella (Lampedusa station, Italy). ICOS (Integrated Carbon Observation System) is a European research infrastructure with a network of 170 stations measuring greenhouse gas concentrations in 16 countries, aiming to improve the accuracy of climate models.\n\nBackground image by: ICOS RI/Pekka Pelkonen (Gebesee station, Germany). ICOS (Integrated Carbon Observation System) is a European research infrastructure with a network of 180 stations measuring greenhouse gas concentrations in 16 countries, aiming to improve the accuracy of climate models.",
       "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
       "first_seen": "2026-09-22T10:33:48.930482+00:00"
+    },
+    {
+      "id": "0938ce1588f35b5a",
+      "source": "EEA Careers",
+      "kind": "career",
+      "title": "Expert - Cloud Solutions (FGIV)",
+      "url": "https://jobs.eea.europa.eu/jobs/expert-cloud-solutions-141",
+      "summary": "Expert - Cloud Solutions (FGIV)",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
+      "first_seen": "2026-09-25T12:08:19.459768+00:00"
     },
     {
       "id": "084e06b5f5593f6c",
@@ -2313,15 +2323,15 @@
     }
   ],
   "lesson": {
-    "topic": "openEO: veriyi indirmeden analiz etmek",
-    "category": "API / Bulut İşleme",
-    "what": "openEO, Earth Observation verilerini standart bir API üzerinden sunucu tarafında işlemek için geliştirilmiş açık bir arayüzdür. Kullanıcı veri küpünü, mekânsal-zamansal filtreleri ve işlemleri tanımlar; hesaplama verinin bulunduğu altyapıda yapılır.",
-    "why": "STAC/OData ile openEO aynı iş değildir. STAC ve OData ağırlıklı olarak veri keşfi/katalog erişimi sağlarken openEO analiz sürecini de tanımlayabilir. Bu ayrımı bilmek CDSE ekosistemini gerçekten anlamanın temelidir.",
-    "access": "Python istemcisiyle bir backend’e bağlanıp koleksiyonları listeleyebilir, AOI/tarih seçebilir, bant işlemleri ve zamansal indirgeme yapabilir ve sonuç işi oluşturabilirsin.",
-    "you": "GEE deneyimini Copernicus’un kendi ekosistemine taşımanın en mantıklı yollarından biri. CV’de yalnız “Sentinel kullandım” yerine bulut tabanlı EO processing workflow gösterebilirsin.",
-    "idea": "Bir Sentinel-2 indeks zaman serisini hem GEE hem openEO ile üret; veri seçimi, kod yapısı, tekrarlanabilirlik ve işlem yaklaşımını teknik olarak karşılaştır.",
-    "concepts": "data cube · process graph · batch job · backend",
-    "url": "https://documentation.dataspace.copernicus.eu/APIs/openEO.html"
+    "topic": "STAC ve OData: katalog API’si ne demek?",
+    "category": "API / Veri Keşfi",
+    "what": "STAC, mekânsal-zamansal varlıkları standart JSON yapılarıyla tanımlayan açık bir katalog yaklaşımıdır. OData ise CDSE kataloğunda ürünleri özelliklerine göre sorgulamak ve erişmek için kullanılan başka bir API yoludur. İkisi de “uydu görüntüsünü analiz eden algoritma” değildir; öncelikle doğru veriyi bulma ve erişim problemini çözer.",
+    "why": "Manuel Browser kullanımı birkaç görüntü için yeterlidir. Yüzlerce tarih, farklı AOI veya tekrarlanan araştırma akışı olduğunda programatik katalog sorgusu araştırmanın tekrarlanabilirliğini ciddi biçimde artırır.",
+    "access": "Python/Colab içinde tarih, geometri, koleksiyon ve ürün özelliklerine göre sorgu kurup sonuç URL/kimliklerini sonraki indirme veya işleme adımına aktarabilirsin.",
+    "you": "Afet öncesi/sonrası veya uzun zaman serisi analizlerinde veri toplama aşamasını otomatikleştirmen için yararlı.",
+    "idea": "Türkiye’de seçilen herhangi bir afet AOI’si için olay tarihinden önce/sonra uygun Sentinel ürünlerini otomatik bulan küçük bir “EO Data Finder” geliştir.",
+    "concepts": "catalogue · collection · item · spatial/temporal query",
+    "url": "https://documentation.dataspace.copernicus.eu/APIs.html"
   },
   "curriculum": [
     {
@@ -2420,6 +2430,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7fe67c55a450>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7f4430f56390>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

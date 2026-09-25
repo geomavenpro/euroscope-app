@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T18:07:57.076717+00:00",
+  "updated_at": "2026-09-25T06:08:15.630282+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -2313,15 +2313,15 @@
     }
   ],
   "lesson": {
-    "topic": "Sentinel-5P + TROPOMI: atmosferi haritalamak",
-    "category": "Atmosfer",
-    "what": "Sentinel-5P üzerindeki TROPOMI sensörü NO₂, SO₂, CO, CH₄, ozon, formaldehit ve aerosol gibi atmosfer bileşenlerini küresel ölçekte izler. Bu ürünler doğrudan yer seviyesi hava kalitesi istasyonu ölçümü değildir; atmosferik kolon bilgisini temsil eden ürünlerin fiziksel anlamı analizden önce anlaşılmalıdır.",
-    "why": "Uydu atmosfer ürünlerinde kalite bayrakları ve qa_value gibi değişkenler kritik önemdedir. Haritayı doğrudan ortalamak yerine düşük kaliteli gözlemleri elemek, bulut ve ölçüm geometrisi etkilerini dikkate almak gerekir.",
-    "access": "CDSE üzerinde Sentinel-5P koleksiyonlarına erişilebilir; bazı Level-2 koleksiyonları openEO ile sunucu tarafında işlenebilir. Böylece büyük zaman serilerini tek tek dosya indirmeden analiz etmek mümkündür.",
-    "you": "CBS + iklim/çevre profilin için yeni bir araştırma hattı açar. Arazi kullanımı, ulaşım veya sanayi katmanlarını atmosfer gözlemleriyle ilişkilendirerek EO ile politika/şehir çalışmalarını birleştirebilirsin.",
-    "idea": "Ankara’da 2019–2026 NO₂ mevsimselliğini CLMS arazi örtüsü ve ana ulaşım koridorlarıyla birlikte incele; uydu ürününün sınırlılıklarını ayrıca tartış.",
-    "concepts": "TROPOMI · L2 · qa_value · tropospheric column",
-    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-5p"
+    "topic": "openEO: veriyi indirmeden analiz etmek",
+    "category": "API / Bulut İşleme",
+    "what": "openEO, Earth Observation verilerini standart bir API üzerinden sunucu tarafında işlemek için geliştirilmiş açık bir arayüzdür. Kullanıcı veri küpünü, mekânsal-zamansal filtreleri ve işlemleri tanımlar; hesaplama verinin bulunduğu altyapıda yapılır.",
+    "why": "STAC/OData ile openEO aynı iş değildir. STAC ve OData ağırlıklı olarak veri keşfi/katalog erişimi sağlarken openEO analiz sürecini de tanımlayabilir. Bu ayrımı bilmek CDSE ekosistemini gerçekten anlamanın temelidir.",
+    "access": "Python istemcisiyle bir backend’e bağlanıp koleksiyonları listeleyebilir, AOI/tarih seçebilir, bant işlemleri ve zamansal indirgeme yapabilir ve sonuç işi oluşturabilirsin.",
+    "you": "GEE deneyimini Copernicus’un kendi ekosistemine taşımanın en mantıklı yollarından biri. CV’de yalnız “Sentinel kullandım” yerine bulut tabanlı EO processing workflow gösterebilirsin.",
+    "idea": "Bir Sentinel-2 indeks zaman serisini hem GEE hem openEO ile üret; veri seçimi, kod yapısı, tekrarlanabilirlik ve işlem yaklaşımını teknik olarak karşılaştır.",
+    "concepts": "data cube · process graph · batch job · backend",
+    "url": "https://documentation.dataspace.copernicus.eu/APIs/openEO.html"
   },
   "curriculum": [
     {
@@ -2420,6 +2420,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7f92bdfdee10>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7fe67c55a450>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

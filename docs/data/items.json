@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T06:10:46.021246+00:00",
+  "updated_at": "2026-10-01T12:10:57.360067+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -440,256 +440,6 @@
       "summary": "Production updates",
       "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
       "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "c0ac9b6be5b6b31d",
-      "source": "Copernicus Land News",
-      "kind": "eo",
-      "title": "Dataset catalogue",
-      "url": "https://land.copernicus.eu/en/dataset-catalog",
-      "summary": "Dataset catalogue",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "ac3f335493561d93",
-      "source": "Copernicus Land News",
-      "kind": "eo",
-      "title": "Sentinel-3C: keeping watch over a changing planet",
-      "url": "https://land.copernicus.eu/en/news/sentinel-3c-keeping-watch-over-a-changing-planet",
-      "summary": "Sentinel-3C: keeping watch over a changing planet",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "166b17c875f4e0e4",
-      "source": "Copernicus Land News",
-      "kind": "eo",
-      "title": "Tracking change where it matters most: High Resolution Hot Spot Monitoring II delivers new land cover change data up to 2024",
-      "url": "https://land.copernicus.eu/en/news/tracking-change-where-it-matters-most-high-resolution-hot-spot-monitoring-ii-delivers-new-land-cover-change-data-up-to-2024",
-      "summary": "Tracking change where it matters most: High Resolution Hot Spot Monitoring II delivers new land cover change data up to 2024",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "1344d3f56d049732",
-      "source": "Copernicus Land News",
-      "kind": "eo",
-      "title": "New contract signed for future production and consolidation of the Riparian and Coastal Zones products",
-      "url": "https://land.copernicus.eu/en/news/new-contract-signed-for-future-production-and-consolidation-of-the-riparian-and-coastal-zones-products",
-      "summary": "New contract signed for future production and consolidation of the Riparian and Coastal Zones products",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "7a33c3d2193bc550",
-      "source": "Copernicus Land News",
-      "kind": "eo",
-      "title": "JRC launches market consultation survey and announces upcoming procurement for the Copernicus Land Monitoring Service Global Component",
-      "url": "https://land.copernicus.eu/en/news/jrc-launches-market-consultation-survey-and-announces-upcoming-procurement-for-the-copernicus-land-monitoring-service-global-component",
-      "summary": "JRC launches market consultation survey and announces upcoming procurement for the Copernicus Land Monitoring Service Global Component",
-      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "865b4bbac29a1e7e",
-      "source": "Copernicus Land News",
-      "kind": "eo",
-      "title": "Product update: High Resolution Vegetated Land Cover Characteristics 2024",
-      "url": "https://land.copernicus.eu/en/news/product-update-high-resolution-vegetated-land-cover-characteristics-2024",
-      "summary": "Product update: High Resolution Vegetated Land Cover Characteristics 2024",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "0a6aae35cdcaca2d",
-      "source": "Copernicus Land News",
-      "kind": "eo",
-      "title": "Product update: Medium Resolution Vegetation Phenology and Productivity Version 5.0",
-      "url": "https://land.copernicus.eu/en/news/product-update-medium-resolution-vegetation-phenology-and-productivity-version-5.0",
-      "summary": "Product update: Medium Resolution Vegetation Phenology and Productivity Version 5.0",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "2efe8a1398701e9b",
-      "source": "Copernicus Land News",
-      "kind": "eo",
-      "title": "Land Service signs new Inland Water Working Group contract",
-      "url": "https://land.copernicus.eu/en/news/land-service-signs-new-inland-water-working-group-contract",
-      "summary": "Land Service signs new Inland Water Working Group contract",
-      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "5e885ac06f28aa4d",
-      "source": "Copernicus Land News",
-      "kind": "eo",
-      "title": "Product update: High Resolution Layer Imperviousness 2024",
-      "url": "https://land.copernicus.eu/en/news/product-update-high-resolution-layer-imperviousness-2024",
-      "summary": "Product update: High Resolution Layer Imperviousness 2024",
-      "potential": "YÜKSEK — AÇA/SNE hedefiyle doğrudan ilgili. Uygunluk koşulları, kurum içi başvuru yolu ve son tarihi kontrol et.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "4edafc2c01b26742",
-      "source": "Copernicus Land News",
-      "kind": "eo",
-      "title": "Product Update: Urban Atlas 2021",
-      "url": "https://land.copernicus.eu/en/news/urban-atlas-2021-product-update-is-now-available",
-      "summary": "Product Update: Urban Atlas 2021",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "41e2069e11640aa2",
-      "source": "Copernicus Land News",
-      "kind": "eo",
-      "title": "Product update: European Ground Motion Service 2024",
-      "url": "https://land.copernicus.eu/en/news/egms-annual-update-brings-new-data-improvements-to-egms-explorer",
-      "summary": "Product update: European Ground Motion Service 2024",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "c2606a1bbf37101b",
-      "source": "Copernicus Land News",
-      "kind": "eo",
-      "title": "New contract signed for validation of the European Ground Motion Service",
-      "url": "https://land.copernicus.eu/en/news/new-contract-signed-for-validation-of-the-european-ground-motion-service",
-      "summary": "New contract signed for validation of the European Ground Motion Service",
-      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "9afc1d7702817f6c",
-      "source": "Copernicus Land News",
-      "kind": "eo",
-      "title": "CLMS European datasets moving to Copernicus Data Space Ecosystem",
-      "url": "https://land.copernicus.eu/en/news/clms-european-datasets-moving-to-copernicus-data-space-ecosystem",
-      "summary": "CLMS European datasets moving to Copernicus Data Space Ecosystem",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "96d898f2107d8202",
-      "source": "Copernicus Land News",
-      "kind": "eo",
-      "title": "New validation report confirms high accuracy of CLMS Burnt Area products",
-      "url": "https://land.copernicus.eu/en/news/new-validation-report-confirms-high-accuracy-of-clms-burnt-area-products",
-      "summary": "New validation report confirms high accuracy of CLMS Burnt Area products",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "e8fd6f0c7ad7a936",
-      "source": "Copernicus Land News",
-      "kind": "eo",
-      "title": "New Soil Water Index datasets bring deeper insight into global soil moisture",
-      "url": "https://land.copernicus.eu/en/news/new-soil-water-index-datasets-bring-deeper-insight-into-global-soil-moisture",
-      "summary": "New Soil Water Index datasets bring deeper insight into global soil moisture",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "031ff9d2d3ffdb7d",
-      "source": "Copernicus Land Products",
-      "kind": "learn",
-      "title": "Ask Copernicus Observia",
-      "url": "https://land.copernicus.eu/en/ask-observia-ai",
-      "summary": "Ask Copernicus Observia",
-      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
-      "first_seen": "2026-09-27T06:08:25.950575+00:00"
-    },
-    {
-      "id": "ed8798bf8b4a5a25",
-      "source": "Copernicus Land Products",
-      "kind": "learn",
-      "title": "Production updates",
-      "url": "https://land.copernicus.eu/en/production-updates",
-      "summary": "Production updates",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-27T06:08:25.950575+00:00"
-    },
-    {
-      "id": "aebe4cccc600a211",
-      "source": "Copernicus Land Products",
-      "kind": "learn",
-      "title": "Dataset catalogue",
-      "url": "https://land.copernicus.eu/en/dataset-catalog",
-      "summary": "Dataset catalogue",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-27T06:08:25.950575+00:00"
-    },
-    {
-      "id": "d091f1cb5b76415c",
-      "source": "Copernicus Land Products",
-      "kind": "learn",
-      "title": "Full-coverage Land Cover & Use",
-      "url": "https://land.copernicus.eu/en/products?tab=full_coverage_land_cover__use",
-      "summary": "Full-coverage Land Cover & Use",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-27T06:08:25.950575+00:00"
-    },
-    {
-      "id": "869f7b25757bd61f",
-      "source": "Copernicus Land Products",
-      "kind": "learn",
-      "title": "Land Cover & Use in Priority Areas",
-      "url": "https://land.copernicus.eu/en/products?tab=land_cover__use_in_priority_areas",
-      "summary": "Land Cover & Use in Priority Areas",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-27T06:08:25.950575+00:00"
-    },
-    {
-      "id": "0b6d981489f36013",
-      "source": "Copernicus Land Products",
-      "kind": "learn",
-      "title": "Ground Motion Data",
-      "url": "https://land.copernicus.eu/en/products?tab=ground_motion_data",
-      "summary": "Ground Motion Data",
-      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
-      "first_seen": "2026-09-27T06:08:25.950575+00:00"
-    },
-    {
-      "id": "3ed5dcc6d429c170",
-      "source": "Copernicus Land Products",
-      "kind": "learn",
-      "title": "Global Dynamic Land Cover",
-      "url": "https://land.copernicus.eu/en/products/global-dynamic-land-cover",
-      "summary": "Global Dynamic Land Cover",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-27T06:08:25.950575+00:00"
-    },
-    {
-      "id": "9fb8d41a04d80301",
-      "source": "Copernicus Land Products",
-      "kind": "learn",
-      "title": "CORINE Land Cover",
-      "url": "https://land.copernicus.eu/en/products/corine-land-cover",
-      "summary": "Pan-European land cover inventory CORINE Land Cover",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-27T06:08:25.950575+00:00"
-    },
-    {
-      "id": "c9a31a432b16e72b",
-      "source": "Copernicus Land Products",
-      "kind": "learn",
-      "title": "Water Bodies",
-      "url": "https://land.copernicus.eu/en/products/water-bodies",
-      "summary": "Water Bodies",
-      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
-      "first_seen": "2026-09-27T06:08:25.950575+00:00"
-    },
-    {
-      "id": "e3ea0924ce8b70ca",
-      "source": "Copernicus Land Products",
-      "kind": "learn",
-      "title": "Soil Moisture",
-      "url": "https://land.copernicus.eu/en/products/soil-moisture",
-      "summary": "Global and European Soil Moisture product group:",
-      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
-      "first_seen": "2026-09-27T06:08:25.950575+00:00"
     },
     {
       "id": "db548058b8fb7d8c",
@@ -2323,15 +2073,15 @@
     }
   ],
   "lesson": {
-    "topic": "CLMS: Copernicus sadece ham uydu görüntüsü değildir",
-    "category": "Copernicus Land",
-    "what": "Copernicus Land Monitoring Service (CLMS), ham uydu görüntülerinin ötesinde arazi örtüsü/arazi kullanımı, biyofiziksel değişkenler, referans veriler ve yer hareketi gibi temalarda hazır ürün ve servisler sağlar. CORINE Land Cover, Urban Atlas ve European Ground Motion Service bunun farklı tipte örnekleridir.",
-    "why": "Araştırmada her değişkeni Sentinel görüntüsünden kendin üretmek zorunda değilsin. Hazır CLMS katmanlarını bağımsız değişken, referans veri veya karşılaştırma ürünü olarak kullanmak hem analizi zenginleştirebilir hem de Avrupa veri ekosistemine hâkimiyetini gösterir.",
-    "access": "CLMS web sitesi ve Data Viewer üzerinden ürünler keşfedilebilir; ürüne göre indirme ve servis/API seçenekleri değişebilir. Bazı CLMS koleksiyonları CDSE ekosistemi üzerinden de erişilebilir.",
-    "you": "CBS geçmişin nedeniyle CLMS senin için Sentinel görevleri kadar önemli. Arazi/şehir katmanlarını çevresel ve atmosferik analizlerle birleştirmek AÇA odaklı çalışmalar için özellikle anlamlı.",
-    "idea": "Bir Ankara ilçesinde CLMS arazi örtüsü/imperviousness ürünleri ile Sentinel-2’den üretilen kentsel değişim göstergelerini karşılaştır ve uyumsuzluk alanlarını analiz et.",
-    "concepts": "CLC · Urban Atlas · HRL · EGMS",
-    "url": "https://land.copernicus.eu/en/products"
+    "topic": "Eionet ve Reportnet: verinin kurumsal yolculuğu",
+    "category": "EEA / Veri Yönetişimi",
+    "what": "Eionet, Avrupa Çevre Ajansı ile üye ve işbirliği ülkelerindeki kurumları birbirine bağlayan çevre bilgi ağıdır. Reportnet ise çevresel raporlama ve veri akışlarının yürütülmesinde kullanılan altyapıdır. Burada konu yalnız teknik veri formatı değil; veri sorumluluğu, raporlama takvimi, kalite ve kurumsal iş akışıdır.",
+    "why": "AÇA’da çalışmak isteyen bir CBS/EO uzmanı için yalnız uydu analizi bilmek yeterli değildir. Verinin ulusal kurumdan Avrupa düzeyindeki değerlendirmeye nasıl ulaştığını anlamak, Eionet ekosistemini kavramanın temelidir.",
+    "access": "Eionet/Reportnet sayfalarındaki dataflow ve raporlama kaynakları üzerinden hangi çevre temasının hangi veri akışıyla raporlandığını inceleyebilirsin.",
+    "you": "Bakanlık deneyimini teknik CBS becerisiyle birleştirebileceğin alan tam olarak burası. Ulusal veri üretimi ile Avrupa çevre veri yönetişimi arasındaki köprüyü öğrenmek SNE profiline doğrudan katkı sağlar.",
+    "idea": "Bir çevre temasını seçip Türkiye’deki veri üretim zinciri ile ilgili Eionet/Reportnet veri akışını süreç, veri modeli ve CBS birlikte çalışabilirliği açısından eşleştir.",
+    "concepts": "Eionet · dataflow · reporting obligation · data governance",
+    "url": "https://www.eionet.europa.eu/reportnet/dataflows"
   },
   "curriculum": [
     {
@@ -2430,6 +2180,7 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7f0b837c3140>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7f9acb507bf0>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))",
+    "Copernicus Land Products: HTTPSConnectionPool(host='land.copernicus.eu', port=443): Read timed out. (read timeout=35)"
   ]
 }

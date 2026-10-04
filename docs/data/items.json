@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T21:56:33.318127+00:00",
+  "updated_at": "2026-10-04T11:18:14.061076+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -2323,15 +2323,18 @@
     }
   ],
   "lesson": {
-    "topic": "CLMS: Copernicus sadece ham uydu görüntüsü değildir",
-    "category": "Copernicus Land",
-    "what": "Copernicus Land Monitoring Service (CLMS), ham uydu görüntülerinin ötesinde arazi örtüsü/arazi kullanımı, biyofiziksel değişkenler, referans veriler ve yer hareketi gibi temalarda hazır ürün ve servisler sağlar. CORINE Land Cover, Urban Atlas ve European Ground Motion Service bunun farklı tipte örnekleridir.",
-    "why": "Araştırmada her değişkeni Sentinel görüntüsünden kendin üretmek zorunda değilsin. Hazır CLMS katmanlarını bağımsız değişken, referans veri veya karşılaştırma ürünü olarak kullanmak hem analizi zenginleştirebilir hem de Avrupa veri ekosistemine hâkimiyetini gösterir.",
-    "access": "CLMS web sitesi ve Data Viewer üzerinden ürünler keşfedilebilir; ürüne göre indirme ve servis/API seçenekleri değişebilir. Bazı CLMS koleksiyonları CDSE ekosistemi üzerinden de erişilebilir.",
-    "you": "CBS geçmişin nedeniyle CLMS senin için Sentinel görevleri kadar önemli. Arazi/şehir katmanlarını çevresel ve atmosferik analizlerle birleştirmek AÇA odaklı çalışmalar için özellikle anlamlı.",
-    "idea": "Bir Ankara ilçesinde CLMS arazi örtüsü/imperviousness ürünleri ile Sentinel-2’den üretilen kentsel değişim göstergelerini karşılaştır ve uyumsuzluk alanlarını analiz et.",
-    "concepts": "CLC · Urban Atlas · HRL · EGMS",
-    "url": "https://land.copernicus.eu/en/products"
+    "topic": "Sentinel-1: radar gözünden Dünya",
+    "category": "Sentinel / SAR",
+    "what": "Sentinel-1, C-band sentetik açıklıklı radar (SAR) kullanan Copernicus görevidir. Optik bir kamera gibi yansıyan güneş ışığını ölçmek yerine kendi mikrodalga sinyalini gönderip yüzeyden dönen sinyali kaydeder. Bu nedenle gece-gündüz çalışabilir ve bulutluluk optik sistemlere göre çok daha az sorun yaratır.",
+    "why": "Sentinel-1 yalnızca bir “radar görüntüsü” kaynağı değildir. GRD ürünleri taşkın, kıyı ve arazi değişimi gibi uygulamalarda; SLC ürünleri ise faz bilgisini koruduğu için interferometri ve yüzey deformasyonu çalışmalarında kritik rol oynar.",
+    "access": "Copernicus Data Space Browser ile görsel keşif yapabilir; STAC/OData ile ürün arayabilir; Python/openEO gibi araçlarla iş akışını otomatikleştirebilirsin. InSAR için ürün tipini ve yörünge geometrisini özellikle doğru seçmek gerekir.",
+    "you": "PS-InSAR deneyiminle doğrudan bağlantılı. Yeni bir bölgeyi sıfırdan işlemek yerine Copernicus EGMS sonuçlarıyla kendi InSAR sonuçlarını karşılaştırarak yöntem doğrulaması ve ölçek karşılaştırması yapabilirsin.",
+    "idea": "Bir maden/heyelan alanında kendi PS-InSAR hız alanın ile EGMS hızlarını; mekânsal kapsama, LOS hızları, anomali konumları ve veri yoğunluğu açısından karşılaştır.",
+    "details": "Sentinel-1 verisini okurken dört şeyi birlikte düşün: ürün seviyesi, çekim modu, polarizasyon ve yörünge. GRD genlik bilgisini pratik biçimde sunar; SLC ise kompleks veri ve faz bilgisini korur. IW modu kara uygulamalarında en sık karşılaşacağın moddur. VV/VH gibi polarizasyonlar yüzey pürüzlülüğü, yapı ve nem koşullarına farklı duyarlılık gösterir. InSAR tarafında iki görüntünün faz farkından doğrudan dikey hareket ölçülmez; ölçüm sensörün bakış doğrultusundaki LOS bileşenidir. Bu nedenle ascending/descending geometri ve referans noktası yorumda önemlidir.",
+    "workflow": "1) Araştırma sorusunu belirle. 2) Uygun SLC/GRD ürününü seç. 3) Aynı yörünge/geometriyi koru. 4) Kalite ve ön işlem adımlarını uygula. 5) Sonucu EGMS gibi bağımsız ürünlerle karşılaştır.",
+    "limits": "Radarın buluttan etkilenmemesi her yüzeyde kusursuz sonuç verdiği anlamına gelmez. Bitki örtüsü, kar, hızlı yüzey değişimi ve zamansal dekorrelasyon interferometrik tutarlılığı düşürebilir.",
+    "concepts": "SAR · SLC/GRD · LOS · InSAR",
+    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-1"
   },
   "curriculum": [
     {
@@ -2430,6 +2433,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7fca34107bf0>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7f804d75a450>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

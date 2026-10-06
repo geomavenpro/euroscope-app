@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T06:09:04.616299+00:00",
+  "updated_at": "2026-10-06T12:09:28.960384+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -842,6 +842,16 @@
       "first_seen": "2026-09-24T18:07:57.076717+00:00"
     },
     {
+      "id": "6dc0ac76e0bab00f",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "October 6, 2026 Sentinel-3 Level-2 Land Surface Temperature now available in Copernicus Browser New data Sentinel-3 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-10-6-sentinel-3-level-2-land-surface-temperature-now-available-copernicus-browser",
+      "summary": "October 6, 2026 Sentinel-3 Level-2 Land Surface Temperature now available in Copernicus Browser New data Sentinel-3 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-06T12:09:28.960384+00:00"
+    },
+    {
       "id": "d29876d56c0f8a52",
       "source": "Copernicus Data Space News",
       "kind": "eo",
@@ -1378,16 +1388,6 @@
       "title": "June 24, 2026 S1C/D Final Orbital Configuration Achieved Operational ESA news Sentinel-1 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-6-24-s1cd-final-orbital-configuration-achieved",
       "summary": "June 24, 2026 S1C/D Final Orbital Configuration Achieved Operational ESA news Sentinel-1 Read article",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "2f78552a5b5eba10",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "June 24, 2026 Creating OGC Service layers for Copernicus Land Monitoring Service datasets in CDSE Blog General Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-6-24-creating-ogc-service-layers-copernicus-land-monitoring-service-datasets-cdse",
-      "summary": "June 24, 2026 Creating OGC Service layers for Copernicus Land Monitoring Service datasets in CDSE Blog General Read article",
       "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
       "first_seen": "2026-09-22T10:33:48.930482+00:00"
     },
@@ -2323,15 +2323,15 @@
     }
   ],
   "lesson": {
-    "topic": "STAC ve OData: katalog API’si ne demek?",
-    "category": "API / Veri Keşfi",
-    "what": "STAC, mekânsal-zamansal varlıkları standart JSON yapılarıyla tanımlayan açık bir katalog yaklaşımıdır. OData ise CDSE kataloğunda ürünleri özelliklerine göre sorgulamak ve erişmek için kullanılan başka bir API yoludur. İkisi de “uydu görüntüsünü analiz eden algoritma” değildir; öncelikle doğru veriyi bulma ve erişim problemini çözer.",
-    "why": "Manuel Browser kullanımı birkaç görüntü için yeterlidir. Yüzlerce tarih, farklı AOI veya tekrarlanan araştırma akışı olduğunda programatik katalog sorgusu araştırmanın tekrarlanabilirliğini ciddi biçimde artırır.",
-    "access": "Python/Colab içinde tarih, geometri, koleksiyon ve ürün özelliklerine göre sorgu kurup sonuç URL/kimliklerini sonraki indirme veya işleme adımına aktarabilirsin.",
-    "you": "Afet öncesi/sonrası veya uzun zaman serisi analizlerinde veri toplama aşamasını otomatikleştirmen için yararlı.",
-    "idea": "Türkiye’de seçilen herhangi bir afet AOI’si için olay tarihinden önce/sonra uygun Sentinel ürünlerini otomatik bulan küçük bir “EO Data Finder” geliştir.",
-    "concepts": "catalogue · collection · item · spatial/temporal query",
-    "url": "https://documentation.dataspace.copernicus.eu/APIs.html"
+    "topic": "CLMS: Copernicus sadece ham uydu görüntüsü değildir",
+    "category": "Copernicus Land",
+    "what": "Copernicus Land Monitoring Service (CLMS), ham uydu görüntülerinin ötesinde arazi örtüsü/arazi kullanımı, biyofiziksel değişkenler, referans veriler ve yer hareketi gibi temalarda hazır ürün ve servisler sağlar. CORINE Land Cover, Urban Atlas ve European Ground Motion Service bunun farklı tipte örnekleridir.",
+    "why": "Araştırmada her değişkeni Sentinel görüntüsünden kendin üretmek zorunda değilsin. Hazır CLMS katmanlarını bağımsız değişken, referans veri veya karşılaştırma ürünü olarak kullanmak hem analizi zenginleştirebilir hem de Avrupa veri ekosistemine hâkimiyetini gösterir.",
+    "access": "CLMS web sitesi ve Data Viewer üzerinden ürünler keşfedilebilir; ürüne göre indirme ve servis/API seçenekleri değişebilir. Bazı CLMS koleksiyonları CDSE ekosistemi üzerinden de erişilebilir.",
+    "you": "CBS geçmişin nedeniyle CLMS senin için Sentinel görevleri kadar önemli. Arazi/şehir katmanlarını çevresel ve atmosferik analizlerle birleştirmek AÇA odaklı çalışmalar için özellikle anlamlı.",
+    "idea": "Bir Ankara ilçesinde CLMS arazi örtüsü/imperviousness ürünleri ile Sentinel-2’den üretilen kentsel değişim göstergelerini karşılaştır ve uyumsuzluk alanlarını analiz et.",
+    "concepts": "CLC · Urban Atlas · HRL · EGMS",
+    "url": "https://land.copernicus.eu/en/products"
   },
   "curriculum": [
     {
@@ -2430,6 +2430,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7fea00d56390>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7fbef8356390>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

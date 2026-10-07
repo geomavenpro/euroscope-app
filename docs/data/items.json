@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T06:08:22.783827+00:00",
+  "updated_at": "2026-10-07T12:10:43.967794+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -60,6 +60,16 @@
       "summary": "Copernicus relies on the availability of a wide variety of in-situ data, collected on land, at sea and in the air. Th ese data are used for production and validation of Copernicus products and are also offered directly to users as independent observations.\n\nCopernicus is the European Union’s revolutionary Earth Observation component of the EU Space Programme . It transforms information from multiple sources, including the Sentinel satellites and in-situ observations, into operational services for keeping watch over the planet – from the land to the ocean , atmosphere and climate .\n\nFor its operations, Copernicus relies on ground-based , air and sea borne monitoring systems , geospatial and ancillary data from a range of providers. These data constitute the \"Copernicus In-Situ Component\" and complement and calibrate satellite information to increase product accuracy, reduce delivery time and support validation.\n\nThe Cross-Cutting Coordination of the Copernicus In-Situ Component, led by the European Environment Agency (EEA), maps the availability of data and identifies gaps or bottlenecks in access. It also supports the provision of cross-cutting data and information, and manages partnerships with data providers to improve access and use.\n\nWatch our video to explore how the Copernicus In-Situ Component connects networks, data providers, and environmental expertise across Europe and beyond, helping to support and enhance Copernicus Earth observation services and products.\n\nIn-situ data in Copernicus covers two main categories: Observations and Geospatial data . It also encompasses Fiducial Reference Measurements , which are very precise ground measurements used to validate satellite data.\n\nThe Copernicus In-Situ Component is based on a very wide and complex landscape of data providers and networks, of national, regional and global nature. While the Copernicus Entrusted Entities are in charge of accessing in-situ data directly to meet their day-to-day operational needs, the European Environment Agency (EEA) is in charge of the cross-cutting coordination of Copernicus’ access to in-situ data. By maintaining an overview of in-situ data requirements by the Entrusted Entites, solutions can be proposed and implemented to make more essential in-situ data available to Copernicus as a whole.\n\nImage by: ICOS RI/Rocco Canella (Lampedusa station, Italy). ICOS (Integrated Carbon Observation System) is a European research infrastructure with a network of 170 stations measuring greenhouse gas concentrations in 16 countries, aiming to improve the accuracy of climate models.\n\nBackground image by: ICOS RI/Pekka Pelkonen (Gebesee station, Germany). ICOS (Integrated Carbon Observation System) is a European research infrastructure with a network of 180 stations measuring greenhouse gas concentrations in 16 countries, aiming to improve the accuracy of climate models.",
       "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
       "first_seen": "2026-09-22T10:33:48.930482+00:00"
+    },
+    {
+      "id": "80ccc8d87f2984f3",
+      "source": "EEA Careers",
+      "kind": "career",
+      "title": "Expert - IT Project Management (FGIV)",
+      "url": "https://jobs.eea.europa.eu/jobs/expert-it-project-management-142",
+      "summary": "Expert - IT Project Management (FGIV)",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
+      "first_seen": "2026-10-07T12:10:43.967794+00:00"
     },
     {
       "id": "0938ce1588f35b5a",
@@ -842,6 +852,16 @@
       "first_seen": "2026-09-24T18:07:57.076717+00:00"
     },
     {
+      "id": "166c92f6d83751bb",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "October 7, 2026 Copernicus Sentinel-5P Data Unavailability on 07 October 2026 Operational ESA news Sentinel-5P Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-10-7-copernicus-sentinel-5p-data-unavailability-07-october-2026",
+      "summary": "October 7, 2026 Copernicus Sentinel-5P Data Unavailability on 07 October 2026 Operational ESA news Sentinel-5P Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-07T12:10:43.967794+00:00"
+    },
+    {
       "id": "6dc0ac76e0bab00f",
       "source": "Copernicus Data Space News",
       "kind": "eo",
@@ -850,6 +870,16 @@
       "summary": "October 6, 2026 Sentinel-3 Level-2 Land Surface Temperature now available in Copernicus Browser New data Sentinel-3 Read article",
       "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
       "first_seen": "2026-10-06T12:09:28.960384+00:00"
+    },
+    {
+      "id": "2d6cabe307816c3f",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "October 5, 2026 The openEO Agent: Questions turn to Earth Observation Workflow General New feature Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-10-5-openeo-agent-questions-turn-earth-observation-workflow",
+      "summary": "October 5, 2026 The openEO Agent: Questions turn to Earth Observation Workflow General New feature Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-07T12:10:43.967794+00:00"
     },
     {
       "id": "d29876d56c0f8a52",
@@ -1368,26 +1398,6 @@
       "title": "June 26, 2026 Copernicus Sentinel-3B unavailability notice for the Lunar Calibration planned on 30 June 2026 [DOY 181] Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-6-26-copernicus-sentinel-3b-unavailability-notice-lunar-calibration-planned-30-june-2026",
       "summary": "June 26, 2026 Copernicus Sentinel-3B unavailability notice for the Lunar Calibration planned on 30 June 2026 [DOY 181] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "419a3a1219e7c2ab",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "June 25, 2026 Welcome EOPF ZARR EXPLORER! A new member has joined the Copernicus Data Space Ecosystem General New ecosystem member Sentinel-1 Sentinel-2 Sentinel-3 Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-6-25-welcome-eopf-zarr-explorer-new-member-has-joined-copernicus-data-space-ecosystem",
-      "summary": "June 25, 2026 Welcome EOPF ZARR EXPLORER! A new member has joined the Copernicus Data Space Ecosystem General New ecosystem member Sentinel-1 Sentinel-2 Sentinel-3 Read article",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "56d8909aa9459675",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "June 24, 2026 S1C/D Final Orbital Configuration Achieved Operational ESA news Sentinel-1 Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-6-24-s1cd-final-orbital-configuration-achieved",
-      "summary": "June 24, 2026 S1C/D Final Orbital Configuration Achieved Operational ESA news Sentinel-1 Read article",
       "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
       "first_seen": "2026-09-22T10:33:48.930482+00:00"
     },
@@ -2323,18 +2333,18 @@
     }
   ],
   "lesson": {
-    "topic": "Sentinel-1: radar gözünden Dünya",
-    "category": "Sentinel / SAR",
-    "what": "Sentinel-1, C-band sentetik açıklıklı radar (SAR) kullanan Copernicus görevidir. Optik bir kamera gibi yansıyan güneş ışığını ölçmek yerine kendi mikrodalga sinyalini gönderip yüzeyden dönen sinyali kaydeder. Bu nedenle gece-gündüz çalışabilir ve bulutluluk optik sistemlere göre çok daha az sorun yaratır.",
-    "why": "Sentinel-1 yalnızca bir “radar görüntüsü” kaynağı değildir. GRD ürünleri taşkın, kıyı ve arazi değişimi gibi uygulamalarda; SLC ürünleri ise faz bilgisini koruduğu için interferometri ve yüzey deformasyonu çalışmalarında kritik rol oynar.",
-    "access": "Copernicus Data Space Browser ile görsel keşif yapabilir; STAC/OData ile ürün arayabilir; Python/openEO gibi araçlarla iş akışını otomatikleştirebilirsin. InSAR için ürün tipini ve yörünge geometrisini özellikle doğru seçmek gerekir.",
-    "you": "PS-InSAR deneyiminle doğrudan bağlantılı. Yeni bir bölgeyi sıfırdan işlemek yerine Copernicus EGMS sonuçlarıyla kendi InSAR sonuçlarını karşılaştırarak yöntem doğrulaması ve ölçek karşılaştırması yapabilirsin.",
-    "idea": "Bir maden/heyelan alanında kendi PS-InSAR hız alanın ile EGMS hızlarını; mekânsal kapsama, LOS hızları, anomali konumları ve veri yoğunluğu açısından karşılaştır.",
-    "details": "Sentinel-1 verisini okurken dört şeyi birlikte düşün: ürün seviyesi, çekim modu, polarizasyon ve yörünge. GRD genlik bilgisini pratik biçimde sunar; SLC ise kompleks veri ve faz bilgisini korur. IW modu kara uygulamalarında en sık karşılaşacağın moddur. VV/VH gibi polarizasyonlar yüzey pürüzlülüğü, yapı ve nem koşullarına farklı duyarlılık gösterir. InSAR tarafında iki görüntünün faz farkından doğrudan dikey hareket ölçülmez; ölçüm sensörün bakış doğrultusundaki LOS bileşenidir. Bu nedenle ascending/descending geometri ve referans noktası yorumda önemlidir.",
-    "workflow": "1) Araştırma sorusunu belirle. 2) Uygun SLC/GRD ürününü seç. 3) Aynı yörünge/geometriyi koru. 4) Kalite ve ön işlem adımlarını uygula. 5) Sonucu EGMS gibi bağımsız ürünlerle karşılaştır.",
-    "limits": "Radarın buluttan etkilenmemesi her yüzeyde kusursuz sonuç verdiği anlamına gelmez. Bitki örtüsü, kar, hızlı yüzey değişimi ve zamansal dekorrelasyon interferometrik tutarlılığı düşürebilir.",
-    "concepts": "SAR · SLC/GRD · LOS · InSAR",
-    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-1"
+    "topic": "Sentinel-2: 13 bant neden önemli?",
+    "category": "Sentinel / Optik",
+    "what": "Sentinel-2, kara ve kıyı alanlarını 13 spektral bantla gözleyen optik Copernicus görevidir. Bantların mekânsal çözünürlükleri 10, 20 ve 60 metredir. Görünür, yakın kızılötesi ve red-edge bantlarının birlikte bulunması bitki, su, yangın ve arazi örtüsü analizlerinde onu çok kullanışlı yapar.",
+    "why": "NDVI, NBR veya NDCI gibi indeksler yalnızca formül değildir; hangi bantların hangi fiziksel özelliğe duyarlı olduğunu anlamak gerekir. Level-2A yüzey yansıtımı atmosfer etkileri düzeltilmiş analizler için çoğu kara uygulamasında daha uygun başlangıç ürünüdür.",
+    "access": "CDSE Browser, STAC/OData ve Sentinel Hub servislerinden erişilebilir. GEE üzerinde de Sentinel-2 koleksiyonları bulunur; fakat EuroScope sana CDSE tarafındaki erişim ve işleme yollarını da öğretecek.",
+    "you": "Yangın sonrası NBR/NDVI ve kıyı su kalitesi çalışmalarınla doğrudan ilişkili. Aynı analizi CDSE/openEO tarafında tekrar etmek, tek bir platforma bağımlı olmayan bir EO iş akışı kurmanı sağlar.",
+    "idea": "Aynı Sentinel-2 zaman serisini GEE ve CDSE/openEO ile üret; veri seçimi, bulut maskeleme, tekrarlanabilirlik ve çıktı tutarlılığını karşılaştır.",
+    "details": "Sentinel-2 MSI sensörü 13 bant taşır. 10 m bantlar görünür ve NIR ayrıntısını; 20 m bantlar red-edge ve SWIR bilgisini; 60 m bantlar ise özellikle atmosferik düzeltmeye yardımcı olan daha kaba çözünürlüklü kanalları içerir. L1C ürün TOA yansıtımıdır; L2A ise atmosferik düzeltme sonrası BOA yüzey yansıtımını hedefler. NDVI bitki canlılığına, NBR yangın etkisine, NDWI türevleri su/nem özelliklerine duyarlıdır; fakat indeks değeri tek başına fiziksel gerçeğin tamamı değildir.",
+    "workflow": "1) L2A koleksiyonunu seç. 2) Bulut/gölge kalite bilgisini kullan. 3) AOI ve tarihi filtrele. 4) İndeksi hesapla. 5) Mevsimsellik ve arazi sınıfını dikkate al. 6) Mümkünse saha/kurumsal veriyle doğrula.",
+    "limits": "Bulut, gölge, kıyı pikselleri, sığ su tabanı ve atmosferik etkiler indeksleri yanıltabilir. Farklı tarihler karşılaştırılırken mevsim ve görüntü geometrisi göz ardı edilmemeli.",
+    "concepts": "L1C · L2A · red-edge · surface reflectance",
+    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2"
   },
   "curriculum": [
     {
@@ -2433,6 +2443,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7f7aa3b56390>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7f368908ad50>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

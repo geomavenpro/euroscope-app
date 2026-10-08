@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T12:10:21.633955+00:00",
+  "updated_at": "2026-10-08T18:08:15.957287+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -2333,15 +2333,15 @@
     }
   ],
   "lesson": {
-    "topic": "openEO: veriyi indirmeden analiz etmek",
-    "category": "API / Bulut İşleme",
-    "what": "openEO, Earth Observation verilerini standart bir API üzerinden sunucu tarafında işlemek için geliştirilmiş açık bir arayüzdür. Kullanıcı veri küpünü, mekânsal-zamansal filtreleri ve işlemleri tanımlar; hesaplama verinin bulunduğu altyapıda yapılır.",
-    "why": "STAC/OData ile openEO aynı iş değildir. STAC ve OData ağırlıklı olarak veri keşfi/katalog erişimi sağlarken openEO analiz sürecini de tanımlayabilir. Bu ayrımı bilmek CDSE ekosistemini gerçekten anlamanın temelidir.",
-    "access": "Python istemcisiyle bir backend’e bağlanıp koleksiyonları listeleyebilir, AOI/tarih seçebilir, bant işlemleri ve zamansal indirgeme yapabilir ve sonuç işi oluşturabilirsin.",
-    "you": "GEE deneyimini Copernicus’un kendi ekosistemine taşımanın en mantıklı yollarından biri. CV’de yalnız “Sentinel kullandım” yerine bulut tabanlı EO processing workflow gösterebilirsin.",
-    "idea": "Bir Sentinel-2 indeks zaman serisini hem GEE hem openEO ile üret; veri seçimi, kod yapısı, tekrarlanabilirlik ve işlem yaklaşımını teknik olarak karşılaştır.",
-    "concepts": "data cube · process graph · batch job · backend",
-    "url": "https://documentation.dataspace.copernicus.eu/APIs/openEO.html"
+    "topic": "STAC ve OData: katalog API’si ne demek?",
+    "category": "API / Veri Keşfi",
+    "what": "STAC, mekânsal-zamansal varlıkları standart JSON yapılarıyla tanımlayan açık bir katalog yaklaşımıdır. OData ise CDSE kataloğunda ürünleri özelliklerine göre sorgulamak ve erişmek için kullanılan başka bir API yoludur. İkisi de “uydu görüntüsünü analiz eden algoritma” değildir; öncelikle doğru veriyi bulma ve erişim problemini çözer.",
+    "why": "Manuel Browser kullanımı birkaç görüntü için yeterlidir. Yüzlerce tarih, farklı AOI veya tekrarlanan araştırma akışı olduğunda programatik katalog sorgusu araştırmanın tekrarlanabilirliğini ciddi biçimde artırır.",
+    "access": "Python/Colab içinde tarih, geometri, koleksiyon ve ürün özelliklerine göre sorgu kurup sonuç URL/kimliklerini sonraki indirme veya işleme adımına aktarabilirsin.",
+    "you": "Afet öncesi/sonrası veya uzun zaman serisi analizlerinde veri toplama aşamasını otomatikleştirmen için yararlı.",
+    "idea": "Türkiye’de seçilen herhangi bir afet AOI’si için olay tarihinden önce/sonra uygun Sentinel ürünlerini otomatik bulan küçük bir “EO Data Finder” geliştir.",
+    "concepts": "catalogue · collection · item · spatial/temporal query",
+    "url": "https://documentation.dataspace.copernicus.eu/APIs.html"
   },
   "curriculum": [
     {
@@ -2440,6 +2440,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7f5be6606060>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7efebecf2d50>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

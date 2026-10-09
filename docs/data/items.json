@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T06:10:35.254085+00:00",
+  "updated_at": "2026-10-09T12:09:29.394895+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -852,6 +852,16 @@
       "first_seen": "2026-09-24T18:07:57.076717+00:00"
     },
     {
+      "id": "6ea5bdc326bef8a4",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "October 9, 2026 Sentinel-2A Extension Campaign to Continue Until the End of 2027 Operational ESA news Sentinel-2 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-10-9-sentinel-2a-extension-campaign-continue-until-end-2027",
+      "summary": "October 9, 2026 Sentinel-2A Extension Campaign to Continue Until the End of 2027 Operational ESA news Sentinel-2 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-09T12:09:29.394895+00:00"
+    },
+    {
       "id": "0423c9b8f541b0f2",
       "source": "Copernicus Data Space News",
       "kind": "eo",
@@ -1388,16 +1398,6 @@
       "title": "June 30, 2026 Temporary issue with openEO batch jobs (29 June 2026) [Resolved] Service disruption Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-6-30-temporary-issue-openeo-batch-jobs-29-june-2026-resolved",
       "summary": "June 30, 2026 Temporary issue with openEO batch jobs (29 June 2026) [Resolved] Service disruption Read article",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "bb11cf7dc623bc1d",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "June 29, 2026 openEO unavailability on 29 June 2026 between 14h38-15h30 CEST [resolved] Service disruption Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-6-29-openeo-unavailability-29-june-2026-between-14h38-15h30-cest-resolved",
-      "summary": "June 29, 2026 openEO unavailability on 29 June 2026 between 14h38-15h30 CEST [resolved] Service disruption Read article",
       "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
       "first_seen": "2026-09-22T10:33:48.930482+00:00"
     },
@@ -2333,15 +2333,15 @@
     }
   ],
   "lesson": {
-    "topic": "CLMS: Copernicus sadece ham uydu görüntüsü değildir",
-    "category": "Copernicus Land",
-    "what": "Copernicus Land Monitoring Service (CLMS), ham uydu görüntülerinin ötesinde arazi örtüsü/arazi kullanımı, biyofiziksel değişkenler, referans veriler ve yer hareketi gibi temalarda hazır ürün ve servisler sağlar. CORINE Land Cover, Urban Atlas ve European Ground Motion Service bunun farklı tipte örnekleridir.",
-    "why": "Araştırmada her değişkeni Sentinel görüntüsünden kendin üretmek zorunda değilsin. Hazır CLMS katmanlarını bağımsız değişken, referans veri veya karşılaştırma ürünü olarak kullanmak hem analizi zenginleştirebilir hem de Avrupa veri ekosistemine hâkimiyetini gösterir.",
-    "access": "CLMS web sitesi ve Data Viewer üzerinden ürünler keşfedilebilir; ürüne göre indirme ve servis/API seçenekleri değişebilir. Bazı CLMS koleksiyonları CDSE ekosistemi üzerinden de erişilebilir.",
-    "you": "CBS geçmişin nedeniyle CLMS senin için Sentinel görevleri kadar önemli. Arazi/şehir katmanlarını çevresel ve atmosferik analizlerle birleştirmek AÇA odaklı çalışmalar için özellikle anlamlı.",
-    "idea": "Bir Ankara ilçesinde CLMS arazi örtüsü/imperviousness ürünleri ile Sentinel-2’den üretilen kentsel değişim göstergelerini karşılaştır ve uyumsuzluk alanlarını analiz et.",
-    "concepts": "CLC · Urban Atlas · HRL · EGMS",
-    "url": "https://land.copernicus.eu/en/products"
+    "topic": "Eionet ve Reportnet: verinin kurumsal yolculuğu",
+    "category": "EEA / Veri Yönetişimi",
+    "what": "Eionet, Avrupa Çevre Ajansı ile üye ve işbirliği ülkelerindeki kurumları birbirine bağlayan çevre bilgi ağıdır. Reportnet ise çevresel raporlama ve veri akışlarının yürütülmesinde kullanılan altyapıdır. Burada konu yalnız teknik veri formatı değil; veri sorumluluğu, raporlama takvimi, kalite ve kurumsal iş akışıdır.",
+    "why": "AÇA’da çalışmak isteyen bir CBS/EO uzmanı için yalnız uydu analizi bilmek yeterli değildir. Verinin ulusal kurumdan Avrupa düzeyindeki değerlendirmeye nasıl ulaştığını anlamak, Eionet ekosistemini kavramanın temelidir.",
+    "access": "Eionet/Reportnet sayfalarındaki dataflow ve raporlama kaynakları üzerinden hangi çevre temasının hangi veri akışıyla raporlandığını inceleyebilirsin.",
+    "you": "Bakanlık deneyimini teknik CBS becerisiyle birleştirebileceğin alan tam olarak burası. Ulusal veri üretimi ile Avrupa çevre veri yönetişimi arasındaki köprüyü öğrenmek SNE profiline doğrudan katkı sağlar.",
+    "idea": "Bir çevre temasını seçip Türkiye’deki veri üretim zinciri ile ilgili Eionet/Reportnet veri akışını süreç, veri modeli ve CBS birlikte çalışabilirliği açısından eşleştir.",
+    "concepts": "Eionet · dataflow · reporting obligation · data governance",
+    "url": "https://www.eionet.europa.eu/reportnet/dataflows"
   },
   "curriculum": [
     {
@@ -2440,6 +2440,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7fc5cf356390>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7fc954356390>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

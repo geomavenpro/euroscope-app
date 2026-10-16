@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T12:21:12.878225+00:00",
+  "updated_at": "2026-10-16T18:18:20.738183+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -842,6 +842,16 @@
       "first_seen": "2026-09-22T10:33:48.930482+00:00"
     },
     {
+      "id": "d005409de82cfe9c",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "October 16, 2026 New SFEOS STAC catalogue endpoint Service disruption System updates Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-10-16-new-sfeos-stac-catalogue-endpoint",
+      "summary": "October 16, 2026 New SFEOS STAC catalogue endpoint Service disruption System updates Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-16T18:18:20.738183+00:00"
+    },
+    {
       "id": "46e1224b32f67d7d",
       "source": "Copernicus Data Space News",
       "kind": "eo",
@@ -1388,16 +1398,6 @@
       "title": "July 14, 2026 Timestamp behavior alignment for ListObjects requests General System updates Sentinel-1 Sentinel-2 Sentinel-3 Sentinel-5P Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-7-14-timestamp-behavior-alignment-listobjects-requests",
       "summary": "July 14, 2026 Timestamp behavior alignment for ListObjects requests General System updates Sentinel-1 Sentinel-2 Sentinel-3 Sentinel-5P Read article",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
-      "id": "f90d7cab19790584",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "July 8, 2026 Copernicus Sentinel-3B unavailability notice for the IP Manoeuvre #163 planned on 09 July 2026 [DOY 190] Operational ESA news Sentinel-3 Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-7-8-copernicus-sentinel-3b-unavailability-notice-ip-manoeuvre-163-planned-09-july-2026",
-      "summary": "July 8, 2026 Copernicus Sentinel-3B unavailability notice for the IP Manoeuvre #163 planned on 09 July 2026 [DOY 190] Operational ESA news Sentinel-3 Read article",
       "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
       "first_seen": "2026-09-22T10:33:48.930482+00:00"
     },
@@ -2232,16 +2232,6 @@
       "first_seen": "2026-09-22T10:33:48.930482+00:00"
     },
     {
-      "id": "9827c217a3017104",
-      "source": "Eionet",
-      "kind": "eionet",
-      "title": "ETC BE Report 2026/4: The Status of Persistent Organic Pollutants in European Soils and Soil Biodiversity. Findings from a survey",
-      "url": "https://www.eionet.europa.eu/etcs/etc-be/products/etc-be-products/etc-be-report-2026-4-title",
-      "summary": "ETC BE Report 2026/4: The Status of Persistent Organic Pollutants in European Soils and Soil Biodiversity. Findings from a survey",
-      "potential": "ORTA-YÜKSEK — Avrupa çevre veri akışlarını ve veri yönetişimini öğrenmek AÇA profiline doğrudan katkı sağlar.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
       "id": "382d361271043486",
       "source": "Eionet Dataflows",
       "kind": "learn",
@@ -2333,15 +2323,15 @@
     }
   ],
   "lesson": {
-    "topic": "openEO: veriyi indirmeden analiz etmek",
-    "category": "API / Bulut İşleme",
-    "what": "openEO, Earth Observation verilerini standart bir API üzerinden sunucu tarafında işlemek için geliştirilmiş açık bir arayüzdür. Kullanıcı veri küpünü, mekânsal-zamansal filtreleri ve işlemleri tanımlar; hesaplama verinin bulunduğu altyapıda yapılır.",
-    "why": "STAC/OData ile openEO aynı iş değildir. STAC ve OData ağırlıklı olarak veri keşfi/katalog erişimi sağlarken openEO analiz sürecini de tanımlayabilir. Bu ayrımı bilmek CDSE ekosistemini gerçekten anlamanın temelidir.",
-    "access": "Python istemcisiyle bir backend’e bağlanıp koleksiyonları listeleyebilir, AOI/tarih seçebilir, bant işlemleri ve zamansal indirgeme yapabilir ve sonuç işi oluşturabilirsin.",
-    "you": "GEE deneyimini Copernicus’un kendi ekosistemine taşımanın en mantıklı yollarından biri. CV’de yalnız “Sentinel kullandım” yerine bulut tabanlı EO processing workflow gösterebilirsin.",
-    "idea": "Bir Sentinel-2 indeks zaman serisini hem GEE hem openEO ile üret; veri seçimi, kod yapısı, tekrarlanabilirlik ve işlem yaklaşımını teknik olarak karşılaştır.",
-    "concepts": "data cube · process graph · batch job · backend",
-    "url": "https://documentation.dataspace.copernicus.eu/APIs/openEO.html"
+    "topic": "STAC ve OData: katalog API’si ne demek?",
+    "category": "API / Veri Keşfi",
+    "what": "STAC, mekânsal-zamansal varlıkları standart JSON yapılarıyla tanımlayan açık bir katalog yaklaşımıdır. OData ise CDSE kataloğunda ürünleri özelliklerine göre sorgulamak ve erişmek için kullanılan başka bir API yoludur. İkisi de “uydu görüntüsünü analiz eden algoritma” değildir; öncelikle doğru veriyi bulma ve erişim problemini çözer.",
+    "why": "Manuel Browser kullanımı birkaç görüntü için yeterlidir. Yüzlerce tarih, farklı AOI veya tekrarlanan araştırma akışı olduğunda programatik katalog sorgusu araştırmanın tekrarlanabilirliğini ciddi biçimde artırır.",
+    "access": "Python/Colab içinde tarih, geometri, koleksiyon ve ürün özelliklerine göre sorgu kurup sonuç URL/kimliklerini sonraki indirme veya işleme adımına aktarabilirsin.",
+    "you": "Afet öncesi/sonrası veya uzun zaman serisi analizlerinde veri toplama aşamasını otomatikleştirmen için yararlı.",
+    "idea": "Türkiye’de seçilen herhangi bir afet AOI’si için olay tarihinden önce/sonra uygun Sentinel ürünlerini otomatik bulan küçük bir “EO Data Finder” geliştir.",
+    "concepts": "catalogue · collection · item · spatial/temporal query",
+    "url": "https://documentation.dataspace.copernicus.eu/APIs.html"
   },
   "curriculum": [
     {
@@ -2440,6 +2430,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7fb70bb5f710>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7fe736b5a450>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

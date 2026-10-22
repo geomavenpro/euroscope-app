@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T16:26:27.933704+00:00",
+  "updated_at": "2026-10-22T21:05:27.972218+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -2420,6 +2420,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7fc297f56390>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7ff7bac19f10>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

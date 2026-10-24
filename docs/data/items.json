@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T10:05:59.267075+00:00",
+  "updated_at": "2026-10-24T15:13:22.712742+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -1392,6 +1392,706 @@
       "first_seen": "2026-10-22T10:58:28.537908+00:00"
     },
     {
+      "id": "1010a46543bf87d1",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Copernicus Land Monitoring Service (CLMS)",
+      "url": "https://documentation.dataspace.copernicus.eu/Data/CopernicusServices/CLMS.html",
+      "summary": "Copernicus Land Monitoring Service (CLMS)",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "a64c3495f5293aae",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Copernicus Emergency Management Service (CEMS)",
+      "url": "https://documentation.dataspace.copernicus.eu/Data/CopernicusServices/CEMS.html",
+      "summary": "Copernicus Emergency Management Service (CEMS)",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "459da84bac1415df",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Copernicus Atmosphere Monitoring Service (CAMS)",
+      "url": "https://documentation.dataspace.copernicus.eu/Data/CopernicusServices/CAMS.html",
+      "summary": "Copernicus Atmosphere Monitoring Service (CAMS)",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "03b92e0daa395e6b",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Copernicus Contributing Missions",
+      "url": "https://documentation.dataspace.copernicus.eu/Data/Others/CCM.html",
+      "summary": "Copernicus Contributing Missions",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "efa67ab95f0fb8e0",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Soil Moisture and Ocean Salinity (SMOS)",
+      "url": "https://documentation.dataspace.copernicus.eu/Data/ComplementaryData/SMOS.html",
+      "summary": "Soil Moisture and Ocean Salinity (SMOS)",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "72a81d78cfbdbd44",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Global Embeddings Dataset",
+      "url": "https://documentation.dataspace.copernicus.eu/Data/ComplementaryData/Embeddings.html",
+      "summary": "Global Embeddings Dataset",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "93f6fd8813d17607",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-1 SLC Bursts",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/Sentinel-1 SLC Burst.html",
+      "summary": "Sentinel-1 SLC Bursts",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "df6657339f708653",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "STAC product catalogue",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/STAC.html",
+      "summary": "STAC product catalogue",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "ddcaa8bea1122640",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "TCP stack configuration",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/TCP.html",
+      "summary": "TCP stack configuration",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "4ec86a7815e71fa5",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Traceability API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/Traceability.html",
+      "summary": "Traceability API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "9322f1d471514887",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "openEO Processes",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/openEO/Processes.html",
+      "summary": "openEO Processes",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "2220874c6c6f8f6e",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "openEO federation",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/openEO/federation/openeo_federation.html",
+      "summary": "openEO federation",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "6abfb5cbf75defd1",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Federation API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/openEO/federation/backends/api.html",
+      "summary": "Federation API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "d8c1afaa19a6e160",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "REST API Reference",
+      "url": "https://api.openeo.org/",
+      "summary": "REST API Reference",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "ee0d30e2c58d18c0",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel Hub",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub.html",
+      "summary": "Sentinel Hub",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "b0b2bbb2b6d660a3",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-1 GRD",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/S1GRD.html",
+      "summary": "Sentinel-1 GRD",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "8a116459aff0b418",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-2 L1C",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/S2L1C.html",
+      "summary": "Sentinel-2 L1C",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "1129b11f533aaccf",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-2 L2A",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/S2L2A.html",
+      "summary": "Sentinel-2 L2A",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "1c72ee33761191d5",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-3 OLCI L1B",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/S3OLCI.html",
+      "summary": "Sentinel-3 OLCI L1B",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "a03fd80f2290e146",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-3 OLCI L2",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/S3OLCIL2.html",
+      "summary": "Sentinel-3 OLCI L2",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "d153673f49bd9553",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-3 SLSTR L1B",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/S3SLSTR.html",
+      "summary": "Sentinel-3 SLSTR L1B",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "6bce569cd85af60d",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-3 SLSTR L2",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/S3SLSTRL2.html",
+      "summary": "Sentinel-3 SLSTR L2",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "dc84daf2b3e47fc6",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-3 SYN L2",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/S3SYNL2.html",
+      "summary": "Sentinel-3 SYN L2",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "5a572278db536514",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-5P L2",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/S5PL2.html",
+      "summary": "Sentinel-5P L2",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "cc86b6e27728f3c7",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Sentinel-2 CC Europe 20m Daily V1",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/auxiliary-data/cloud-mask/clms_wsi_cloud-classification_europe_utm_20m_daily_v1.html",
+      "summary": "Sentinel-2 CC Europe 20m Daily V1",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "005e3b4eac5f0fa9",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Snow Water Equivalent",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/snow/snow-water-equivalent.html",
+      "summary": "Snow Water Equivalent",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "e7d4be05fd4135d4",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Soil Moisture",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/soil-moisture.html",
+      "summary": "Soil Moisture",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "d3356fba70e48f1b",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Soil Water Index",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/soil-moisture/soil-water-index.html",
+      "summary": "Soil Water Index",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "a14bc664763040ad",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Surface Soil Moisture",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/soil-moisture/surface-soil-moisture.html",
+      "summary": "Surface Soil Moisture",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "1ad63b298b66c61c",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Lake Surface Water Temperature",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/temperature-and-reflectance/lake-surface-water-temperature.html",
+      "summary": "Lake Surface Water Temperature",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "582ba1510f6db849",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Lake Surface Water Temperature 2002-2012 (raster 1 km), global, 10-daily, Offline â version 1",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/temperature-and-reflectance/lake-surface-water-temperature/lswt-offline_global_1km_10daily_v1.html",
+      "summary": "Lake Surface Water Temperature 2002-2012 (raster 1 km), global, 10-daily, Offline â version 1",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "405566025b1b3063",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Lake Surface Water Temperature 2016-present (raster 1 km), global, 10-daily, Near Real Time â version 1",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/temperature-and-reflectance/lake-surface-water-temperature/lswt-nrt_global_1km_10daily_v1.html",
+      "summary": "Lake Surface Water Temperature 2016-present (raster 1 km), global, 10-daily, Near Real Time â version 1",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "0a993accfb59b0d2",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Dry/Gross Dry Matter Productivity",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/vegetation/dry-gross-dry-matter-productivity.html",
+      "summary": "Dry/Gross Dry Matter Productivity",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "e6d87d9767d55f50",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Net/Gross Primary Production",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/vegetation/net-gross-primary-production.html",
+      "summary": "Net/Gross Primary Production",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "153be5a2ad782c1b",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Vegetation Indices",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/vegetation/vegetation-indices.html",
+      "summary": "Vegetation Indices",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "14ae93bedee393ed",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Vegetation Phenology and Productivity Parameters",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/vegetation/vegetation-phenology-and-productivity-parameters.html",
+      "summary": "Vegetation Phenology and Productivity Parameters",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "9de18adc2ab21317",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Vegetation Properties",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/vegetation/vegetation-properties.html",
+      "summary": "Vegetation Properties",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "300d1864c39b33e8",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Fraction of Green Vegetation Cover 2014-present (raster 300 m), global, 10-daily â version 2",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/vegetation/vegetation-properties/fcover_global_300m_10daily_v2.html",
+      "summary": "Fraction of Green Vegetation Cover 2014-present (raster 300 m), global, 10-daily â version 2",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "91b1a2cfd934166f",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Water Bodies",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies.html",
+      "summary": "Water Bodies",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "96ffea7e0e47a790",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Lake Water Quality",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies/lake-water-quality.html",
+      "summary": "Lake Water Quality",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "e8506b1b3b68158a",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Water and Ice Cover",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies/water-and-ice-cover.html",
+      "summary": "Water and Ice Cover",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "0415d53f86958471",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Water Bodies",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies/water-bodies.html",
+      "summary": "Water Bodies",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "2ac466e5bb2c6462",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Water Bodies (raster 1km), global, 10-daily â version 2",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies/water-bodies/wb_global_1km_10daily_v2.html",
+      "summary": "Water Bodies (raster 1km), global, 10-daily â version 2",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "6b1ba3f70121ea16",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Water Bodies 2014-2020 (raster 300 m), global, 10-daily â version 1",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies/water-bodies/wb_global_300m_10daily_v1.html",
+      "summary": "Water Bodies 2014-2020 (raster 300 m), global, 10-daily â version 1",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "8a2617b782ea9ad1",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Water Bodies 2020-present (raster 100 m), global, monthly â version 1",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies/water-bodies/wb_global_100m_monthly_v1.html",
+      "summary": "Water Bodies 2020-present (raster 100 m), global, monthly â version 1",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "fb8e3dd8653cb2ba",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Water Bodies 2020-present (raster 300 m), global, monthly â version 2",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies/water-bodies/wb_global_300m_monthly_v2.html",
+      "summary": "Water Bodies 2020-present (raster 300 m), global, monthly â version 2",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "2f5ec1fd8d526002",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Water Extent",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/water-bodies/water-extent.html",
+      "summary": "Water Extent",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "f82999972b653a4f",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Land Cover and Land Use Mapping",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/land-cover-and-land-use-mapping.html",
+      "summary": "Land Cover and Land Use Mapping",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "25020076acb9e3ce",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Bare Soil After",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/land-cover-and-land-use-mapping/croplands/cropping-patterns/bare-soil-after.html",
+      "summary": "Bare Soil After",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "8f2bb6fc01f4418f",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Bare Soil Before",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/land-cover-and-land-use-mapping/croplands/cropping-patterns/bare-soil-before.html",
+      "summary": "Bare Soil Before",
+      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "49027fddc974d1b1",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Global Dynamic Land Cover",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/land-cover-and-land-use-mapping/global-dynamic-land-cover.html",
+      "summary": "Global Dynamic Land Cover",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "c60f409d1fdaaac5",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Land Cover (raster 100 m), global, yearly â version 3",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/land-cover-and-land-use-mapping/global-dynamic-land-cover/lc_global_100m_yearly_v3.html",
+      "summary": "Land Cover (raster 100 m), global, yearly â version 3",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "8da7dc62ff5c472d",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Land Cover Map at 10m - Annual V1",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/land-cover-and-land-use-mapping/global-dynamic-land-cover/lcm_global_10m_yearly_v1.html",
+      "summary": "Land Cover Map at 10m - Annual V1",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "fe451b7c74905a91",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Land Cover and Use in Priority Areas",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/land-cover-and-use-in-priority-areas.html",
+      "summary": "Land Cover and Use in Priority Areas",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "fd1749ddf3a3a12b",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "API Overview",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Overview.html",
+      "summary": "API Overview",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "830e6b759d85dc60",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Asynchronous Processing API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/AsyncProcess.html",
+      "summary": "Asynchronous Processing API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "d35178694021353b",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Examples for Asynchronous Processing API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/AsyncProcess/Examples.html",
+      "summary": "Examples for Asynchronous Processing API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "841c9b216bd6cadc",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Examples for Catalog API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Catalog/Examples.html",
+      "summary": "Examples for Catalog API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "21a0a0cfed68f422",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Batch Processing API V2",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/BatchV2.html",
+      "summary": "Batch Processing API V2",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "a0b8e21537e03545",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Statistical API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Statistical.html",
+      "summary": "Statistical API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "be4ad8a51ae768c0",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Examples for Statistical API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Statistical/Examples.html",
+      "summary": "Examples for Statistical API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "a591ff7782bafcf3",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Batch Statistical API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/BatchStatistical.html",
+      "summary": "Batch Statistical API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "578083b0c46c0115",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Bring Your Own COG API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Byoc.html",
+      "summary": "Bring Your Own COG API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "87a0720bbb0f875c",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "BYOC API examples",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Byoc/Examples.html",
+      "summary": "BYOC API examples",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "55be0d422409e6ef",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Zarr Import API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Zarr.html",
+      "summary": "Zarr Import API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "9a87a326de01179a",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Zarr Import API examples",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Zarr/Examples.html",
+      "summary": "Zarr Import API examples",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "86bf933a659cb311",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "Synchronous OpenEO API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/OpenEO.html",
+      "summary": "Synchronous OpenEO API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "eeb36fce65c77020",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "API Reference",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/ApiReference.html",
+      "summary": "API Reference",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "ce0415c2a1e02453",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "On-Demand Production API",
+      "url": "https://documentation.dataspace.copernicus.eu/APIs/On-Demand Production API.html",
+      "summary": "On-Demand Production API",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
+      "id": "75b3673124cd0efb",
+      "source": "Copernicus Data Space APIs",
+      "kind": "learn",
+      "title": "openEO Web Editor",
+      "url": "https://documentation.dataspace.copernicus.eu/Applications/WebEditor.html",
+      "summary": "openEO Web Editor",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-24T15:13:22.712742+00:00"
+    },
+    {
       "id": "db6d86ff5fc9bb2a",
       "source": "Eionet",
       "kind": "eionet",
@@ -1720,7 +2420,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7f2b8b4e7830>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))",
-    "Copernicus Data Space APIs: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7fef58f07b90>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

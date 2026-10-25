@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T20:03:53.469734+00:00",
+  "updated_at": "2026-10-25T10:31:18.945831+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -2313,15 +2313,15 @@
     }
   ],
   "lesson": {
-    "topic": "STAC ve OData: katalog API’si ne demek?",
-    "category": "API / Veri Keşfi",
-    "what": "STAC, mekânsal-zamansal varlıkları standart JSON yapılarıyla tanımlayan açık bir katalog yaklaşımıdır. OData ise CDSE kataloğunda ürünleri özelliklerine göre sorgulamak ve erişmek için kullanılan başka bir API yoludur. İkisi de “uydu görüntüsünü analiz eden algoritma” değildir; öncelikle doğru veriyi bulma ve erişim problemini çözer.",
-    "why": "Manuel Browser kullanımı birkaç görüntü için yeterlidir. Yüzlerce tarih, farklı AOI veya tekrarlanan araştırma akışı olduğunda programatik katalog sorgusu araştırmanın tekrarlanabilirliğini ciddi biçimde artırır.",
-    "access": "Python/Colab içinde tarih, geometri, koleksiyon ve ürün özelliklerine göre sorgu kurup sonuç URL/kimliklerini sonraki indirme veya işleme adımına aktarabilirsin.",
-    "you": "Afet öncesi/sonrası veya uzun zaman serisi analizlerinde veri toplama aşamasını otomatikleştirmen için yararlı.",
-    "idea": "Türkiye’de seçilen herhangi bir afet AOI’si için olay tarihinden önce/sonra uygun Sentinel ürünlerini otomatik bulan küçük bir “EO Data Finder” geliştir.",
-    "concepts": "catalogue · collection · item · spatial/temporal query",
-    "url": "https://documentation.dataspace.copernicus.eu/APIs.html"
+    "topic": "Eionet ve Reportnet: verinin kurumsal yolculuğu",
+    "category": "EEA / Veri Yönetişimi",
+    "what": "Eionet, Avrupa Çevre Ajansı ile üye ve işbirliği ülkelerindeki kurumları birbirine bağlayan çevre bilgi ağıdır. Reportnet ise çevresel raporlama ve veri akışlarının yürütülmesinde kullanılan altyapıdır. Burada konu yalnız teknik veri formatı değil; veri sorumluluğu, raporlama takvimi, kalite ve kurumsal iş akışıdır.",
+    "why": "AÇA’da çalışmak isteyen bir CBS/EO uzmanı için yalnız uydu analizi bilmek yeterli değildir. Verinin ulusal kurumdan Avrupa düzeyindeki değerlendirmeye nasıl ulaştığını anlamak, Eionet ekosistemini kavramanın temelidir.",
+    "access": "Eionet/Reportnet sayfalarındaki dataflow ve raporlama kaynakları üzerinden hangi çevre temasının hangi veri akışıyla raporlandığını inceleyebilirsin.",
+    "you": "Bakanlık deneyimini teknik CBS becerisiyle birleştirebileceğin alan tam olarak burası. Ulusal veri üretimi ile Avrupa çevre veri yönetişimi arasındaki köprüyü öğrenmek SNE profiline doğrudan katkı sağlar.",
+    "idea": "Bir çevre temasını seçip Türkiye’deki veri üretim zinciri ile ilgili Eionet/Reportnet veri akışını süreç, veri modeli ve CBS birlikte çalışabilirliği açısından eşleştir.",
+    "concepts": "Eionet · dataflow · reporting obligation · data governance",
+    "url": "https://www.eionet.europa.eu/reportnet/dataflows"
   },
   "curriculum": [
     {
@@ -2420,6 +2420,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7f43ebd56390>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7821204c4f80>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

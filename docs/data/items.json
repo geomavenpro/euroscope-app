@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T20:15:54.121834+00:00",
+  "updated_at": "2026-10-26T12:03:53.304644+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -2313,18 +2313,15 @@
     }
   ],
   "lesson": {
-    "topic": "Sentinel-1: radar gözünden Dünya",
-    "category": "Sentinel / SAR",
-    "what": "Sentinel-1, C-band sentetik açıklıklı radar (SAR) kullanan Copernicus görevidir. Optik bir kamera gibi yansıyan güneş ışığını ölçmek yerine kendi mikrodalga sinyalini gönderip yüzeyden dönen sinyali kaydeder. Bu nedenle gece-gündüz çalışabilir ve bulutluluk optik sistemlere göre çok daha az sorun yaratır.",
-    "why": "Sentinel-1 yalnızca bir “radar görüntüsü” kaynağı değildir. GRD ürünleri taşkın, kıyı ve arazi değişimi gibi uygulamalarda; SLC ürünleri ise faz bilgisini koruduğu için interferometri ve yüzey deformasyonu çalışmalarında kritik rol oynar.",
-    "access": "Copernicus Data Space Browser ile görsel keşif yapabilir; STAC/OData ile ürün arayabilir; Python/openEO gibi araçlarla iş akışını otomatikleştirebilirsin. InSAR için ürün tipini ve yörünge geometrisini özellikle doğru seçmek gerekir.",
-    "you": "PS-InSAR deneyiminle doğrudan bağlantılı. Yeni bir bölgeyi sıfırdan işlemek yerine Copernicus EGMS sonuçlarıyla kendi InSAR sonuçlarını karşılaştırarak yöntem doğrulaması ve ölçek karşılaştırması yapabilirsin.",
-    "idea": "Bir maden/heyelan alanında kendi PS-InSAR hız alanın ile EGMS hızlarını; mekânsal kapsama, LOS hızları, anomali konumları ve veri yoğunluğu açısından karşılaştır.",
-    "details": "Sentinel-1 verisini okurken dört şeyi birlikte düşün: ürün seviyesi, çekim modu, polarizasyon ve yörünge. GRD genlik bilgisini pratik biçimde sunar; SLC ise kompleks veri ve faz bilgisini korur. IW modu kara uygulamalarında en sık karşılaşacağın moddur. VV/VH gibi polarizasyonlar yüzey pürüzlülüğü, yapı ve nem koşullarına farklı duyarlılık gösterir. InSAR tarafında iki görüntünün faz farkından doğrudan dikey hareket ölçülmez; ölçüm sensörün bakış doğrultusundaki LOS bileşenidir. Bu nedenle ascending/descending geometri ve referans noktası yorumda önemlidir.",
-    "workflow": "1) Araştırma sorusunu belirle. 2) Uygun SLC/GRD ürününü seç. 3) Aynı yörünge/geometriyi koru. 4) Kalite ve ön işlem adımlarını uygula. 5) Sonucu EGMS gibi bağımsız ürünlerle karşılaştır.",
-    "limits": "Radarın buluttan etkilenmemesi her yüzeyde kusursuz sonuç verdiği anlamına gelmez. Bitki örtüsü, kar, hızlı yüzey değişimi ve zamansal dekorrelasyon interferometrik tutarlılığı düşürebilir.",
-    "concepts": "SAR · SLC/GRD · LOS · InSAR",
-    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-1"
+    "topic": "Sentinel-3: kıyı ve çevre izlemede farklı ölçek",
+    "category": "Sentinel / Okyanus-Kara",
+    "what": "Sentinel-3; okyanus rengi, kara/deniz yüzey sıcaklığı ve yüzey özelliklerini izleyen çok sensörlü bir görevdir. Sentinel-2 kadar yüksek mekânsal çözünürlük hedeflemez; bunun yerine geniş alanı sık tekrarlarla gözlemek çevresel zaman serileri için avantaj sağlar.",
+    "why": "Bir sensörün “daha yüksek çözünürlüklü” olması her zaman daha iyi olduğu anlamına gelmez. Kıyı su kalitesi gibi konularda Sentinel-2 mekânsal ayrıntı sağlarken Sentinel-3 daha sık ve geniş ölçekli çevresel gözlem sağlayabilir.",
+    "access": "CDSE üzerinden Sentinel-3 koleksiyonları keşfedilebilir ve indirilebilir. Ürün seçerken sensör ve ürün tipini araştırma sorusuna göre ayırmak gerekir.",
+    "you": "İzmir Körfezi çalışmanda Sentinel-2 tabanlı göstergelerin yanına Sentinel-3 deniz rengi ürünlerini eklemek, tek sensörlü analizden çok-sensörlü bir çalışmaya geçiş sağlar.",
+    "idea": "İzmir Körfezi için Sentinel-2 ve Sentinel-3 tabanlı klorofil göstergelerinin mekânsal ve zamansal uyumunu istasyon verileriyle değerlendir.",
+    "concepts": "OLCI · SLSTR · ocean colour · temporal resolution",
+    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-3"
   },
   "curriculum": [
     {
@@ -2423,6 +2420,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x770549ceb500>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7ec46b7d50a0>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

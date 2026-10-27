@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T22:10:41.947127+00:00",
+  "updated_at": "2026-10-27T11:24:23.443000+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -2313,15 +2313,15 @@
     }
   ],
   "lesson": {
-    "topic": "Sentinel-5P + TROPOMI: atmosferi haritalamak",
-    "category": "Atmosfer",
-    "what": "Sentinel-5P üzerindeki TROPOMI sensörü NO₂, SO₂, CO, CH₄, ozon, formaldehit ve aerosol gibi atmosfer bileşenlerini küresel ölçekte izler. Bu ürünler doğrudan yer seviyesi hava kalitesi istasyonu ölçümü değildir; atmosferik kolon bilgisini temsil eden ürünlerin fiziksel anlamı analizden önce anlaşılmalıdır.",
-    "why": "Uydu atmosfer ürünlerinde kalite bayrakları ve qa_value gibi değişkenler kritik önemdedir. Haritayı doğrudan ortalamak yerine düşük kaliteli gözlemleri elemek, bulut ve ölçüm geometrisi etkilerini dikkate almak gerekir.",
-    "access": "CDSE üzerinde Sentinel-5P koleksiyonlarına erişilebilir; bazı Level-2 koleksiyonları openEO ile sunucu tarafında işlenebilir. Böylece büyük zaman serilerini tek tek dosya indirmeden analiz etmek mümkündür.",
-    "you": "CBS + iklim/çevre profilin için yeni bir araştırma hattı açar. Arazi kullanımı, ulaşım veya sanayi katmanlarını atmosfer gözlemleriyle ilişkilendirerek EO ile politika/şehir çalışmalarını birleştirebilirsin.",
-    "idea": "Ankara’da 2019–2026 NO₂ mevsimselliğini CLMS arazi örtüsü ve ana ulaşım koridorlarıyla birlikte incele; uydu ürününün sınırlılıklarını ayrıca tartış.",
-    "concepts": "TROPOMI · L2 · qa_value · tropospheric column",
-    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-5p"
+    "topic": "STAC ve OData: katalog API’si ne demek?",
+    "category": "API / Veri Keşfi",
+    "what": "STAC, mekânsal-zamansal varlıkları standart JSON yapılarıyla tanımlayan açık bir katalog yaklaşımıdır. OData ise CDSE kataloğunda ürünleri özelliklerine göre sorgulamak ve erişmek için kullanılan başka bir API yoludur. İkisi de “uydu görüntüsünü analiz eden algoritma” değildir; öncelikle doğru veriyi bulma ve erişim problemini çözer.",
+    "why": "Manuel Browser kullanımı birkaç görüntü için yeterlidir. Yüzlerce tarih, farklı AOI veya tekrarlanan araştırma akışı olduğunda programatik katalog sorgusu araştırmanın tekrarlanabilirliğini ciddi biçimde artırır.",
+    "access": "Python/Colab içinde tarih, geometri, koleksiyon ve ürün özelliklerine göre sorgu kurup sonuç URL/kimliklerini sonraki indirme veya işleme adımına aktarabilirsin.",
+    "you": "Afet öncesi/sonrası veya uzun zaman serisi analizlerinde veri toplama aşamasını otomatikleştirmen için yararlı.",
+    "idea": "Türkiye’de seçilen herhangi bir afet AOI’si için olay tarihinden önce/sonra uygun Sentinel ürünlerini otomatik bulan küçük bir “EO Data Finder” geliştir.",
+    "concepts": "catalogue · collection · item · spatial/temporal query",
+    "url": "https://documentation.dataspace.copernicus.eu/APIs.html"
   },
   "curriculum": [
     {
@@ -2420,6 +2420,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7b2b8229b860>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7db758663860>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

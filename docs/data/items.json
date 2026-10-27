@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T11:24:23.443000+00:00",
+  "updated_at": "2026-10-27T17:13:13.012468+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -112,22 +112,22 @@
       "first_seen": "2026-09-22T10:33:48.930482+00:00"
     },
     {
-      "id": "f81bf8ebdd097220",
-      "source": "EEA Careers",
-      "kind": "career",
-      "title": "Expert - Legal, Procurement and Data Protection - Official (AD5-AD12)",
-      "url": "https://www.eea.europa.eu/en/about/careers/vacancies/vacancy-notice-eea-ad-2026-7.pdf/@@download/file",
-      "summary": "Expert - Legal, Procurement and Data Protection - Official (AD5-AD12) EEA/AD/2026/7 Closed: 7 July 2026 This vacancy is restricted to officials of the institutions of the European Union or Union bodies.",
-      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
-    },
-    {
       "id": "a1214c166d8b2149",
       "source": "EEA Careers",
       "kind": "career",
       "title": "Expert - Chemicals, environment and health - Contract Agent (FGIV)",
       "url": "https://www.eea.europa.eu/en/about/careers/vacancies/vacancy-notice-eea-ca-2026-6.pdf/@@download/file",
       "summary": "Expert - Chemicals, environment and health - Contract Agent (FGIV) EEA/CA/2026/6 Closed: 3 June 2026",
+      "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
+      "first_seen": "2026-09-22T10:33:48.930482+00:00"
+    },
+    {
+      "id": "f81bf8ebdd097220",
+      "source": "EEA Careers",
+      "kind": "career",
+      "title": "Expert - Legal, Procurement and Data Protection - Official (AD5-AD12)",
+      "url": "https://www.eea.europa.eu/en/about/careers/vacancies/vacancy-notice-eea-ad-2026-7.pdf/@@download/file",
+      "summary": "Expert - Legal, Procurement and Data Protection - Official (AD5-AD12) EEA/AD/2026/7 Closed: 7 July 2026 This vacancy is restricted to officials of the institutions of the European Union or Union bodies.",
       "potential": "YÜKSEK — EEA/AÇA kariyer fırsatı olabilir. CBS, Earth Observation, çevre verisi ve uzmanlık şartlarını kontrol et.",
       "first_seen": "2026-09-22T10:33:48.930482+00:00"
     },
@@ -832,6 +832,16 @@
       "first_seen": "2026-10-22T10:58:28.537908+00:00"
     },
     {
+      "id": "fde58ad5ebd51964",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "October 27, 2026 Copernicus Sentinel-1D Data Unavailability on 26 October 2026 Operational ESA news Sentinel-1 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-10-27-copernicus-sentinel-1d-data-unavailability-26-october-2026",
+      "summary": "October 27, 2026 Copernicus Sentinel-1D Data Unavailability on 26 October 2026 Operational ESA news Sentinel-1 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-27T17:13:13.012468+00:00"
+    },
+    {
       "id": "2e8bd0a933a8e21f",
       "source": "Copernicus Data Space News",
       "kind": "eo",
@@ -1379,16 +1389,6 @@
       "url": "https://dataspace.copernicus.eu/news/2026-7-31-copernicus-browser-now-also-supports-external-wms-and-wmts-layers",
       "summary": "July 31, 2026 Copernicus Browser now also supports external WMS and WMTS layers New feature Read article",
       "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
-      "first_seen": "2026-10-22T10:58:28.537908+00:00"
-    },
-    {
-      "id": "576ebf6b9c19f879",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "July 30, 2026 Copernicus Sentinel-3B unavailability notice for the OLCI S09 calibration planned on 05 August 2026 [DOY 217] Operational ESA news Sentinel-3 Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-7-30-copernicus-sentinel-3b-unavailability-notice-olci-s09-calibration-planned-05-august",
-      "summary": "July 30, 2026 Copernicus Sentinel-3B unavailability notice for the OLCI S09 calibration planned on 05 August 2026 [DOY 217] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
       "first_seen": "2026-10-22T10:58:28.537908+00:00"
     },
     {
@@ -2313,15 +2313,15 @@
     }
   ],
   "lesson": {
-    "topic": "STAC ve OData: katalog API’si ne demek?",
-    "category": "API / Veri Keşfi",
-    "what": "STAC, mekânsal-zamansal varlıkları standart JSON yapılarıyla tanımlayan açık bir katalog yaklaşımıdır. OData ise CDSE kataloğunda ürünleri özelliklerine göre sorgulamak ve erişmek için kullanılan başka bir API yoludur. İkisi de “uydu görüntüsünü analiz eden algoritma” değildir; öncelikle doğru veriyi bulma ve erişim problemini çözer.",
-    "why": "Manuel Browser kullanımı birkaç görüntü için yeterlidir. Yüzlerce tarih, farklı AOI veya tekrarlanan araştırma akışı olduğunda programatik katalog sorgusu araştırmanın tekrarlanabilirliğini ciddi biçimde artırır.",
-    "access": "Python/Colab içinde tarih, geometri, koleksiyon ve ürün özelliklerine göre sorgu kurup sonuç URL/kimliklerini sonraki indirme veya işleme adımına aktarabilirsin.",
-    "you": "Afet öncesi/sonrası veya uzun zaman serisi analizlerinde veri toplama aşamasını otomatikleştirmen için yararlı.",
-    "idea": "Türkiye’de seçilen herhangi bir afet AOI’si için olay tarihinden önce/sonra uygun Sentinel ürünlerini otomatik bulan küçük bir “EO Data Finder” geliştir.",
-    "concepts": "catalogue · collection · item · spatial/temporal query",
-    "url": "https://documentation.dataspace.copernicus.eu/APIs.html"
+    "topic": "CLMS: Copernicus sadece ham uydu görüntüsü değildir",
+    "category": "Copernicus Land",
+    "what": "Copernicus Land Monitoring Service (CLMS), ham uydu görüntülerinin ötesinde arazi örtüsü/arazi kullanımı, biyofiziksel değişkenler, referans veriler ve yer hareketi gibi temalarda hazır ürün ve servisler sağlar. CORINE Land Cover, Urban Atlas ve European Ground Motion Service bunun farklı tipte örnekleridir.",
+    "why": "Araştırmada her değişkeni Sentinel görüntüsünden kendin üretmek zorunda değilsin. Hazır CLMS katmanlarını bağımsız değişken, referans veri veya karşılaştırma ürünü olarak kullanmak hem analizi zenginleştirebilir hem de Avrupa veri ekosistemine hâkimiyetini gösterir.",
+    "access": "CLMS web sitesi ve Data Viewer üzerinden ürünler keşfedilebilir; ürüne göre indirme ve servis/API seçenekleri değişebilir. Bazı CLMS koleksiyonları CDSE ekosistemi üzerinden de erişilebilir.",
+    "you": "CBS geçmişin nedeniyle CLMS senin için Sentinel görevleri kadar önemli. Arazi/şehir katmanlarını çevresel ve atmosferik analizlerle birleştirmek AÇA odaklı çalışmalar için özellikle anlamlı.",
+    "idea": "Bir Ankara ilçesinde CLMS arazi örtüsü/imperviousness ürünleri ile Sentinel-2’den üretilen kentsel değişim göstergelerini karşılaştır ve uyumsuzluk alanlarını analiz et.",
+    "concepts": "CLC · Urban Atlas · HRL · EGMS",
+    "url": "https://land.copernicus.eu/en/products"
   },
   "curriculum": [
     {
@@ -2420,6 +2420,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7db758663860>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7e3cd72db500>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

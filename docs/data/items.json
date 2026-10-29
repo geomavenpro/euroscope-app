@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T22:05:37.767143+00:00",
+  "updated_at": "2026-10-29T12:05:52.695733+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -832,6 +832,36 @@
       "first_seen": "2026-10-22T10:58:28.537908+00:00"
     },
     {
+      "id": "20974e905f25f806",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "October 29, 2026 Copernicus Sentinel-3B unavailability notice for Lunar Calibration planned on 29/10/2026 [DOY 302] Operational ESA news Sentinel-3 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-10-29-copernicus-sentinel-3b-unavailability-notice-lunar-calibration-planned-29102026-doy",
+      "summary": "October 29, 2026 Copernicus Sentinel-3B unavailability notice for Lunar Calibration planned on 29/10/2026 [DOY 302] Operational ESA news Sentinel-3 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-29T12:05:52.695733+00:00"
+    },
+    {
+      "id": "ed0f66925b6a71e1",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "October 29, 2026 Copernicus Sentinel-3A unavailability notice for OOP #164 planned on 29/10/2026 [DOY 302] Operational ESA news Sentinel-3 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-10-29-copernicus-sentinel-3a-unavailability-notice-oop-164-planned-29102026-doy-302",
+      "summary": "October 29, 2026 Copernicus Sentinel-3A unavailability notice for OOP #164 planned on 29/10/2026 [DOY 302] Operational ESA news Sentinel-3 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-29T12:05:52.695733+00:00"
+    },
+    {
+      "id": "ae9321895d8fe3d8",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "October 28, 2026 ‘Seize the beauty of our Planet’ contest for the best satellite image of the Earth General Sentinel-1 Sentinel-2 Sentinel-3 Sentinel-5P Sentinel-6A Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-10-28-seize-beauty-our-planet-contest-best-satellite-image-earth",
+      "summary": "October 28, 2026 ‘Seize the beauty of our Planet’ contest for the best satellite image of the Earth General Sentinel-1 Sentinel-2 Sentinel-3 Sentinel-5P Sentinel-6A Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-29T12:05:52.695733+00:00"
+    },
+    {
       "id": "fde58ad5ebd51964",
       "source": "Copernicus Data Space News",
       "kind": "eo",
@@ -1359,36 +1389,6 @@
       "url": "https://dataspace.copernicus.eu/news/2026-8-5-sentinel-5p-planned-maintenance-activities-18082026",
       "summary": "August 5, 2026 Sentinel-5p planned maintenance activities on 18/08/2026 Operational ESA news Sentinel-5P Read article",
       "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-10-22T10:58:28.537908+00:00"
-    },
-    {
-      "id": "bf52562492a2d071",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "August 5, 2026 Copernicus Sentinel-3B unavailability notice IP Manoeuvre IP #164 planned on 06 August 2026 [DOY 218] Operational ESA news Sentinel-3 Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-8-5-copernicus-sentinel-3b-unavailability-notice-ip-manoeuvre-ip-164-planned-06-august",
-      "summary": "August 5, 2026 Copernicus Sentinel-3B unavailability notice IP Manoeuvre IP #164 planned on 06 August 2026 [DOY 218] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-10-22T10:58:28.537908+00:00"
-    },
-    {
-      "id": "ed6adffe35d8d6f1",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "August 5, 2026 Copernicus Sentinel-3A unavailability notice IP Manoeuvre IP #159 planned on 06 August 2026 [DOY 218] Operational ESA news Sentinel-3 Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-8-5-copernicus-sentinel-3a-unavailability-notice-ip-manoeuvre-ip-159-planned-06-august",
-      "summary": "August 5, 2026 Copernicus Sentinel-3A unavailability notice IP Manoeuvre IP #159 planned on 06 August 2026 [DOY 218] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-10-22T10:58:28.537908+00:00"
-    },
-    {
-      "id": "816947c197333aa8",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "July 31, 2026 Copernicus Browser now also supports external WMS and WMTS layers New feature Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-7-31-copernicus-browser-now-also-supports-external-wms-and-wmts-layers",
-      "summary": "July 31, 2026 Copernicus Browser now also supports external WMS and WMTS layers New feature Read article",
-      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
       "first_seen": "2026-10-22T10:58:28.537908+00:00"
     },
     {
@@ -2313,18 +2313,15 @@
     }
   ],
   "lesson": {
-    "topic": "Sentinel-2: 13 bant neden önemli?",
-    "category": "Sentinel / Optik",
-    "what": "Sentinel-2, kara ve kıyı alanlarını 13 spektral bantla gözleyen optik Copernicus görevidir. Bantların mekânsal çözünürlükleri 10, 20 ve 60 metredir. Görünür, yakın kızılötesi ve red-edge bantlarının birlikte bulunması bitki, su, yangın ve arazi örtüsü analizlerinde onu çok kullanışlı yapar.",
-    "why": "NDVI, NBR veya NDCI gibi indeksler yalnızca formül değildir; hangi bantların hangi fiziksel özelliğe duyarlı olduğunu anlamak gerekir. Level-2A yüzey yansıtımı atmosfer etkileri düzeltilmiş analizler için çoğu kara uygulamasında daha uygun başlangıç ürünüdür.",
-    "access": "CDSE Browser, STAC/OData ve Sentinel Hub servislerinden erişilebilir. GEE üzerinde de Sentinel-2 koleksiyonları bulunur; fakat EuroScope sana CDSE tarafındaki erişim ve işleme yollarını da öğretecek.",
-    "you": "Yangın sonrası NBR/NDVI ve kıyı su kalitesi çalışmalarınla doğrudan ilişkili. Aynı analizi CDSE/openEO tarafında tekrar etmek, tek bir platforma bağımlı olmayan bir EO iş akışı kurmanı sağlar.",
-    "idea": "Aynı Sentinel-2 zaman serisini GEE ve CDSE/openEO ile üret; veri seçimi, bulut maskeleme, tekrarlanabilirlik ve çıktı tutarlılığını karşılaştır.",
-    "details": "Sentinel-2 MSI sensörü 13 bant taşır. 10 m bantlar görünür ve NIR ayrıntısını; 20 m bantlar red-edge ve SWIR bilgisini; 60 m bantlar ise özellikle atmosferik düzeltmeye yardımcı olan daha kaba çözünürlüklü kanalları içerir. L1C ürün TOA yansıtımıdır; L2A ise atmosferik düzeltme sonrası BOA yüzey yansıtımını hedefler. NDVI bitki canlılığına, NBR yangın etkisine, NDWI türevleri su/nem özelliklerine duyarlıdır; fakat indeks değeri tek başına fiziksel gerçeğin tamamı değildir.",
-    "workflow": "1) L2A koleksiyonunu seç. 2) Bulut/gölge kalite bilgisini kullan. 3) AOI ve tarihi filtrele. 4) İndeksi hesapla. 5) Mevsimsellik ve arazi sınıfını dikkate al. 6) Mümkünse saha/kurumsal veriyle doğrula.",
-    "limits": "Bulut, gölge, kıyı pikselleri, sığ su tabanı ve atmosferik etkiler indeksleri yanıltabilir. Farklı tarihler karşılaştırılırken mevsim ve görüntü geometrisi göz ardı edilmemeli.",
-    "concepts": "L1C · L2A · red-edge · surface reflectance",
-    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-2"
+    "topic": "Sentinel-5P + TROPOMI: atmosferi haritalamak",
+    "category": "Atmosfer",
+    "what": "Sentinel-5P üzerindeki TROPOMI sensörü NO₂, SO₂, CO, CH₄, ozon, formaldehit ve aerosol gibi atmosfer bileşenlerini küresel ölçekte izler. Bu ürünler doğrudan yer seviyesi hava kalitesi istasyonu ölçümü değildir; atmosferik kolon bilgisini temsil eden ürünlerin fiziksel anlamı analizden önce anlaşılmalıdır.",
+    "why": "Uydu atmosfer ürünlerinde kalite bayrakları ve qa_value gibi değişkenler kritik önemdedir. Haritayı doğrudan ortalamak yerine düşük kaliteli gözlemleri elemek, bulut ve ölçüm geometrisi etkilerini dikkate almak gerekir.",
+    "access": "CDSE üzerinde Sentinel-5P koleksiyonlarına erişilebilir; bazı Level-2 koleksiyonları openEO ile sunucu tarafında işlenebilir. Böylece büyük zaman serilerini tek tek dosya indirmeden analiz etmek mümkündür.",
+    "you": "CBS + iklim/çevre profilin için yeni bir araştırma hattı açar. Arazi kullanımı, ulaşım veya sanayi katmanlarını atmosfer gözlemleriyle ilişkilendirerek EO ile politika/şehir çalışmalarını birleştirebilirsin.",
+    "idea": "Ankara’da 2019–2026 NO₂ mevsimselliğini CLMS arazi örtüsü ve ana ulaşım koridorlarıyla birlikte incele; uydu ürününün sınırlılıklarını ayrıca tartış.",
+    "concepts": "TROPOMI · L2 · qa_value · tropospheric column",
+    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-5p"
   },
   "curriculum": [
     {
@@ -2423,6 +2420,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7ca90d7363c0>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x74a4e5a6f500>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

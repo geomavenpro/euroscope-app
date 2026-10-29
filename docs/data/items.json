@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T12:05:52.695733+00:00",
+  "updated_at": "2026-10-29T22:18:46.461710+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -2202,6 +2202,16 @@
       "first_seen": "2026-09-22T10:33:48.930482+00:00"
     },
     {
+      "id": "2874d576aadb9eaf",
+      "source": "Eionet",
+      "kind": "eionet",
+      "title": "ETC DI Report 2026/07 Geospatial datasets in support of the LULUCF regulation",
+      "url": "https://www.eionet.europa.eu/etcs/etc-di/products/etc-di-report-2026-07-geospatial-datasets-in-support-of-the-lulucf-regulation",
+      "summary": "ETC DI Report 2026/07 Geospatial datasets in support of the LULUCF regulation",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-10-29T22:18:46.461710+00:00"
+    },
+    {
       "id": "aff2c65113e8b743",
       "source": "Eionet",
       "kind": "eionet",
@@ -2210,16 +2220,6 @@
       "summary": "ETC ST Report 2025/6: Horizon Scanning 2025 Results of the EEA – Eionet participatory horizon scan to identify emerging issues relevant to sustainable consumption & production",
       "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
       "first_seen": "2026-09-24T12:08:19.165797+00:00"
-    },
-    {
-      "id": "db525095dcaf2deb",
-      "source": "Eionet",
-      "kind": "eionet",
-      "title": "ETC DI Report 2026/06 Summary report on potential methodological approach and resource needs for a regular EU ecosystem extent data product",
-      "url": "https://www.eionet.europa.eu/etcs/etc-di/products/etc-di-products/etc-di-report-2026-06",
-      "summary": "ETC DI Report 2026/06 Summary report on potential methodological approach and resource needs for a regular EU ecosystem extent data product",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-09-22T10:33:48.930482+00:00"
     },
     {
       "id": "382d361271043486",
@@ -2313,15 +2313,15 @@
     }
   ],
   "lesson": {
-    "topic": "Sentinel-5P + TROPOMI: atmosferi haritalamak",
-    "category": "Atmosfer",
-    "what": "Sentinel-5P üzerindeki TROPOMI sensörü NO₂, SO₂, CO, CH₄, ozon, formaldehit ve aerosol gibi atmosfer bileşenlerini küresel ölçekte izler. Bu ürünler doğrudan yer seviyesi hava kalitesi istasyonu ölçümü değildir; atmosferik kolon bilgisini temsil eden ürünlerin fiziksel anlamı analizden önce anlaşılmalıdır.",
-    "why": "Uydu atmosfer ürünlerinde kalite bayrakları ve qa_value gibi değişkenler kritik önemdedir. Haritayı doğrudan ortalamak yerine düşük kaliteli gözlemleri elemek, bulut ve ölçüm geometrisi etkilerini dikkate almak gerekir.",
-    "access": "CDSE üzerinde Sentinel-5P koleksiyonlarına erişilebilir; bazı Level-2 koleksiyonları openEO ile sunucu tarafında işlenebilir. Böylece büyük zaman serilerini tek tek dosya indirmeden analiz etmek mümkündür.",
-    "you": "CBS + iklim/çevre profilin için yeni bir araştırma hattı açar. Arazi kullanımı, ulaşım veya sanayi katmanlarını atmosfer gözlemleriyle ilişkilendirerek EO ile politika/şehir çalışmalarını birleştirebilirsin.",
-    "idea": "Ankara’da 2019–2026 NO₂ mevsimselliğini CLMS arazi örtüsü ve ana ulaşım koridorlarıyla birlikte incele; uydu ürününün sınırlılıklarını ayrıca tartış.",
-    "concepts": "TROPOMI · L2 · qa_value · tropospheric column",
-    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-5p"
+    "topic": "openEO: veriyi indirmeden analiz etmek",
+    "category": "API / Bulut İşleme",
+    "what": "openEO, Earth Observation verilerini standart bir API üzerinden sunucu tarafında işlemek için geliştirilmiş açık bir arayüzdür. Kullanıcı veri küpünü, mekânsal-zamansal filtreleri ve işlemleri tanımlar; hesaplama verinin bulunduğu altyapıda yapılır.",
+    "why": "STAC/OData ile openEO aynı iş değildir. STAC ve OData ağırlıklı olarak veri keşfi/katalog erişimi sağlarken openEO analiz sürecini de tanımlayabilir. Bu ayrımı bilmek CDSE ekosistemini gerçekten anlamanın temelidir.",
+    "access": "Python istemcisiyle bir backend’e bağlanıp koleksiyonları listeleyebilir, AOI/tarih seçebilir, bant işlemleri ve zamansal indirgeme yapabilir ve sonuç işi oluşturabilirsin.",
+    "you": "GEE deneyimini Copernicus’un kendi ekosistemine taşımanın en mantıklı yollarından biri. CV’de yalnız “Sentinel kullandım” yerine bulut tabanlı EO processing workflow gösterebilirsin.",
+    "idea": "Bir Sentinel-2 indeks zaman serisini hem GEE hem openEO ile üret; veri seçimi, kod yapısı, tekrarlanabilirlik ve işlem yaklaşımını teknik olarak karşılaştır.",
+    "concepts": "data cube · process graph · batch job · backend",
+    "url": "https://documentation.dataspace.copernicus.eu/APIs/openEO.html"
   },
   "curriculum": [
     {
@@ -2420,6 +2420,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x74a4e5a6f500>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7076e5f87e00>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

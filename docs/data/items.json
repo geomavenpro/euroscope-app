@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T13:26:44.583193+00:00",
+  "updated_at": "2026-11-03T22:46:37.570766+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -832,6 +832,36 @@
       "first_seen": "2026-10-22T10:58:28.537908+00:00"
     },
     {
+      "id": "191d75a1f90cb158",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "November 3, 2026 Copernicus Sentinel-1 SAR dataset acquired without onboard FDBAQ compression Operational ESA news Sentinel-1 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-11-3-copernicus-sentinel-1-sar-dataset-acquired-without-onboard-fdbaq-compression",
+      "summary": "November 3, 2026 Copernicus Sentinel-1 SAR dataset acquired without onboard FDBAQ compression Operational ESA news Sentinel-1 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-11-03T22:46:37.570766+00:00"
+    },
+    {
+      "id": "960f979e8818dae9",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "November 3, 2026 Temporary Geolocation Issue Affecting Sentinel-2B Products Operational ESA news Sentinel-2 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-11-3-temporary-geolocation-issue-affecting-sentinel-2b-products",
+      "summary": "November 3, 2026 Temporary Geolocation Issue Affecting Sentinel-2B Products Operational ESA news Sentinel-2 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-11-03T22:46:37.570766+00:00"
+    },
+    {
+      "id": "94feba0bdb89a9d3",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "November 3, 2026 Delay in publication of Sentinel-1, Sentinel-2 and Sentinel-3 data on 01-11-2026 Operational ESA news Sentinel-1 Sentinel-2 Sentinel-3 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-11-3-delay-publication-sentinel-1-sentinel-2-and-sentinel-3-data-01-11-2026",
+      "summary": "November 3, 2026 Delay in publication of Sentinel-1, Sentinel-2 and Sentinel-3 data on 01-11-2026 Operational ESA news Sentinel-1 Sentinel-2 Sentinel-3 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-11-03T22:46:37.570766+00:00"
+    },
+    {
       "id": "ad821117c4f8e7a6",
       "source": "Copernicus Data Space News",
       "kind": "eo",
@@ -1358,36 +1388,6 @@
       "title": "August 26, 2026 Copernicus Sentinel-3A unavailability notice for the OOP Manoeuvre #160 planned on 26 August 2026 [DOY 238] Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-8-26-copernicus-sentinel-3a-unavailability-notice-oop-manoeuvre-160-planned-26-august",
       "summary": "August 26, 2026 Copernicus Sentinel-3A unavailability notice for the OOP Manoeuvre #160 planned on 26 August 2026 [DOY 238] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-10-22T10:58:28.537908+00:00"
-    },
-    {
-      "id": "ab4ab616f0889475",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "August 25, 2026 Copernicus DEM 30m View Service Update General Copernicus Digital Elevation Model Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-8-25-copernicus-dem-30m-view-service-update",
-      "summary": "August 25, 2026 Copernicus DEM 30m View Service Update General Copernicus Digital Elevation Model Read article",
-      "potential": "ORTA — Somut veri, yöntem veya uygulama örneği içeriyorsa teknik nota ya da küçük uygulamaya dönüştürülebilir.",
-      "first_seen": "2026-10-22T10:58:28.537908+00:00"
-    },
-    {
-      "id": "5b976ad4cab9ed8f",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "August 24, 2026 Copernicus Sentinel-2B Temporary Data Delay on 15–16 August 2026 Operational ESA news Sentinel-2 Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-8-24-copernicus-sentinel-2b-temporary-data-delay-15-16-august-2026",
-      "summary": "August 24, 2026 Copernicus Sentinel-2B Temporary Data Delay on 15–16 August 2026 Operational ESA news Sentinel-2 Read article",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-10-22T10:58:28.537908+00:00"
-    },
-    {
-      "id": "5e790d9021aafe71",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "August 19, 2026 New openEO Community Example: Understanding SCL Dilation Masks process in openEO General Sentinel-2 Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-8-19-new-openeo-community-example-understanding-scl-dilation-masks-process-openeo",
-      "summary": "August 19, 2026 New openEO Community Example: Understanding SCL Dilation Masks process in openEO General Sentinel-2 Read article",
       "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
       "first_seen": "2026-10-22T10:58:28.537908+00:00"
     },
@@ -2313,15 +2313,15 @@
     }
   ],
   "lesson": {
-    "topic": "Sentinel-3: kıyı ve çevre izlemede farklı ölçek",
-    "category": "Sentinel / Okyanus-Kara",
-    "what": "Sentinel-3; okyanus rengi, kara/deniz yüzey sıcaklığı ve yüzey özelliklerini izleyen çok sensörlü bir görevdir. Sentinel-2 kadar yüksek mekânsal çözünürlük hedeflemez; bunun yerine geniş alanı sık tekrarlarla gözlemek çevresel zaman serileri için avantaj sağlar.",
-    "why": "Bir sensörün “daha yüksek çözünürlüklü” olması her zaman daha iyi olduğu anlamına gelmez. Kıyı su kalitesi gibi konularda Sentinel-2 mekânsal ayrıntı sağlarken Sentinel-3 daha sık ve geniş ölçekli çevresel gözlem sağlayabilir.",
-    "access": "CDSE üzerinden Sentinel-3 koleksiyonları keşfedilebilir ve indirilebilir. Ürün seçerken sensör ve ürün tipini araştırma sorusuna göre ayırmak gerekir.",
-    "you": "İzmir Körfezi çalışmanda Sentinel-2 tabanlı göstergelerin yanına Sentinel-3 deniz rengi ürünlerini eklemek, tek sensörlü analizden çok-sensörlü bir çalışmaya geçiş sağlar.",
-    "idea": "İzmir Körfezi için Sentinel-2 ve Sentinel-3 tabanlı klorofil göstergelerinin mekânsal ve zamansal uyumunu istasyon verileriyle değerlendir.",
-    "concepts": "OLCI · SLSTR · ocean colour · temporal resolution",
-    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-3"
+    "topic": "Sentinel-5P + TROPOMI: atmosferi haritalamak",
+    "category": "Atmosfer",
+    "what": "Sentinel-5P üzerindeki TROPOMI sensörü NO₂, SO₂, CO, CH₄, ozon, formaldehit ve aerosol gibi atmosfer bileşenlerini küresel ölçekte izler. Bu ürünler doğrudan yer seviyesi hava kalitesi istasyonu ölçümü değildir; atmosferik kolon bilgisini temsil eden ürünlerin fiziksel anlamı analizden önce anlaşılmalıdır.",
+    "why": "Uydu atmosfer ürünlerinde kalite bayrakları ve qa_value gibi değişkenler kritik önemdedir. Haritayı doğrudan ortalamak yerine düşük kaliteli gözlemleri elemek, bulut ve ölçüm geometrisi etkilerini dikkate almak gerekir.",
+    "access": "CDSE üzerinde Sentinel-5P koleksiyonlarına erişilebilir; bazı Level-2 koleksiyonları openEO ile sunucu tarafında işlenebilir. Böylece büyük zaman serilerini tek tek dosya indirmeden analiz etmek mümkündür.",
+    "you": "CBS + iklim/çevre profilin için yeni bir araştırma hattı açar. Arazi kullanımı, ulaşım veya sanayi katmanlarını atmosfer gözlemleriyle ilişkilendirerek EO ile politika/şehir çalışmalarını birleştirebilirsin.",
+    "idea": "Ankara’da 2019–2026 NO₂ mevsimselliğini CLMS arazi örtüsü ve ana ulaşım koridorlarıyla birlikte incele; uydu ürününün sınırlılıklarını ayrıca tartış.",
+    "concepts": "TROPOMI · L2 · qa_value · tropospheric column",
+    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-5p"
   },
   "curriculum": [
     {
@@ -2420,6 +2420,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x717d6049b710>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x79fc1b20c5c0>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

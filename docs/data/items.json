@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T21:33:13.450544+00:00",
+  "updated_at": "2026-11-09T14:53:58.570733+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -832,6 +832,46 @@
       "first_seen": "2026-10-22T10:58:28.537908+00:00"
     },
     {
+      "id": "9ae464fd07bd14c9",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "November 9, 2026 Copernicus Sentinel-3A unavailability notice for the OLCI S09 Calibration planned on 11 November 2026 [DOY 315] Operational ESA news Sentinel-3 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-11-9-copernicus-sentinel-3a-unavailability-notice-olci-s09-calibration-planned-11",
+      "summary": "November 9, 2026 Copernicus Sentinel-3A unavailability notice for the OLCI S09 Calibration planned on 11 November 2026 [DOY 315] Operational ESA news Sentinel-3 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-11-09T14:53:58.570733+00:00"
+    },
+    {
+      "id": "7edc86c88316080c",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "November 9, 2026 Copernicus Sentinel-5P Unavailability on 08 and 09 November 2026 Operational ESA news Sentinel-5P Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-11-9-copernicus-sentinel-5p-unavailability-08-and-09-november-2026",
+      "summary": "November 9, 2026 Copernicus Sentinel-5P Unavailability on 08 and 09 November 2026 Operational ESA news Sentinel-5P Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-11-09T14:53:58.570733+00:00"
+    },
+    {
+      "id": "e8d68cdafbf3567b",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "November 9, 2026 Upgrade of Copernicus Browser and Sentinel Hub services from 10/11/2026 till 13/11/2026 General Service disruption System updates Batch processing API, Asynchronous Processing API, Batch Statistical API, new EO products, OGC Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-11-9-upgrade-copernicus-browser-and-sentinel-hub-services",
+      "summary": "November 9, 2026 Upgrade of Copernicus Browser and Sentinel Hub services from 10/11/2026 till 13/11/2026 General Service disruption System updates Batch processing API, Asynchronous Processing API, Batch Statistical API, new EO products, OGC Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-11-09T14:53:58.570733+00:00"
+    },
+    {
+      "id": "380fda8e26452fba",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "November 9, 2026 New product release: Copernicus Land Monitoring Service Protected Areas 2021 New data Copernicus Land Monitoring Service Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-11-9-new-product-release-copernicus-land-monitoring-service-protected-areas-2021",
+      "summary": "November 9, 2026 New product release: Copernicus Land Monitoring Service Protected Areas 2021 New data Copernicus Land Monitoring Service Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-11-09T14:53:58.570733+00:00"
+    },
+    {
       "id": "191d75a1f90cb158",
       "source": "Copernicus Data Space News",
       "kind": "eo",
@@ -852,14 +892,14 @@
       "first_seen": "2026-11-03T22:46:37.570766+00:00"
     },
     {
-      "id": "94feba0bdb89a9d3",
+      "id": "939079d114ecb9cf",
       "source": "Copernicus Data Space News",
       "kind": "eo",
-      "title": "November 3, 2026 Delay in publication of Sentinel-1, Sentinel-2 and Sentinel-3 data on 01-11-2026 Operational ESA news Sentinel-1 Sentinel-2 Sentinel-3 Read article",
+      "title": "November 3, 2026 Delay in publication of Sentinel-1, Sentinel-2 and Sentinel-3 data on 01-11-2026 and 02-11-2026 Operational ESA news Sentinel-1 Sentinel-2 Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-11-3-delay-publication-sentinel-1-sentinel-2-and-sentinel-3-data-01-11-2026",
-      "summary": "November 3, 2026 Delay in publication of Sentinel-1, Sentinel-2 and Sentinel-3 data on 01-11-2026 Operational ESA news Sentinel-1 Sentinel-2 Sentinel-3 Read article",
+      "summary": "November 3, 2026 Delay in publication of Sentinel-1, Sentinel-2 and Sentinel-3 data on 01-11-2026 and 02-11-2026 Operational ESA news Sentinel-1 Sentinel-2 Sentinel-3 Read article",
       "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-11-03T22:46:37.570766+00:00"
+      "first_seen": "2026-11-09T14:53:58.570733+00:00"
     },
     {
       "id": "ad821117c4f8e7a6",
@@ -1348,46 +1388,6 @@
       "title": "August 30, 2026 Copernicus Sentinel-3B unavailability notice for the Lunar Calibration planned on 28 August 2026 [DOY 240] Operational ESA news Sentinel-3 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-8-30-copernicus-sentinel-3b-unavailability-notice-lunar-calibration-planned-28-august",
       "summary": "August 30, 2026 Copernicus Sentinel-3B unavailability notice for the Lunar Calibration planned on 28 August 2026 [DOY 240] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-10-22T10:58:28.537908+00:00"
-    },
-    {
-      "id": "7e1f0ea4bf4736e6",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "August 27, 2026 Copernicus Sentinel-3B unavailability notice for the Ground Segment Anomaly occurred on 18/08/2026 [DOY 230] Operational ESA news Sentinel-3 Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-8-27-copernicus-sentinel-3b-unavailability-notice-ground-segment-anomaly-occurred",
-      "summary": "August 27, 2026 Copernicus Sentinel-3B unavailability notice for the Ground Segment Anomaly occurred on 18/08/2026 [DOY 230] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-10-22T10:58:28.537908+00:00"
-    },
-    {
-      "id": "609fdd768764d1d2",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "August 26, 2026 Copernicus Sentinel-3A unavailability notice for the Ground Segment Anomaly occurred on 18/08/2026 [DOY 230] Operational ESA news Sentinel-3 Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-8-26-copernicus-sentinel-3a-unavailability-notice-ground-segment-anomaly-occurred",
-      "summary": "August 26, 2026 Copernicus Sentinel-3A unavailability notice for the Ground Segment Anomaly occurred on 18/08/2026 [DOY 230] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-10-22T10:58:28.537908+00:00"
-    },
-    {
-      "id": "528164010ae320ee",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "August 26, 2026 Copernicus Sentinel-3B unavailability notice for the OOP Manoeuvre #165 planned on 26 August 2026 [DOY 238] Operational ESA news Sentinel-3 Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-8-26-copernicus-sentinel-3b-unavailability-notice-oop-manoeuvre-165-planned-26-august",
-      "summary": "August 26, 2026 Copernicus Sentinel-3B unavailability notice for the OOP Manoeuvre #165 planned on 26 August 2026 [DOY 238] Operational ESA news Sentinel-3 Read article",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-10-22T10:58:28.537908+00:00"
-    },
-    {
-      "id": "1938fd5423ec4f7c",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "August 26, 2026 Copernicus Sentinel-3A unavailability notice for the OOP Manoeuvre #160 planned on 26 August 2026 [DOY 238] Operational ESA news Sentinel-3 Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-8-26-copernicus-sentinel-3a-unavailability-notice-oop-manoeuvre-160-planned-26-august",
-      "summary": "August 26, 2026 Copernicus Sentinel-3A unavailability notice for the OOP Manoeuvre #160 planned on 26 August 2026 [DOY 238] Operational ESA news Sentinel-3 Read article",
       "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
       "first_seen": "2026-10-22T10:58:28.537908+00:00"
     },
@@ -2313,15 +2313,15 @@
     }
   ],
   "lesson": {
-    "topic": "Sentinel-3: kıyı ve çevre izlemede farklı ölçek",
-    "category": "Sentinel / Okyanus-Kara",
-    "what": "Sentinel-3; okyanus rengi, kara/deniz yüzey sıcaklığı ve yüzey özelliklerini izleyen çok sensörlü bir görevdir. Sentinel-2 kadar yüksek mekânsal çözünürlük hedeflemez; bunun yerine geniş alanı sık tekrarlarla gözlemek çevresel zaman serileri için avantaj sağlar.",
-    "why": "Bir sensörün “daha yüksek çözünürlüklü” olması her zaman daha iyi olduğu anlamına gelmez. Kıyı su kalitesi gibi konularda Sentinel-2 mekânsal ayrıntı sağlarken Sentinel-3 daha sık ve geniş ölçekli çevresel gözlem sağlayabilir.",
-    "access": "CDSE üzerinden Sentinel-3 koleksiyonları keşfedilebilir ve indirilebilir. Ürün seçerken sensör ve ürün tipini araştırma sorusuna göre ayırmak gerekir.",
-    "you": "İzmir Körfezi çalışmanda Sentinel-2 tabanlı göstergelerin yanına Sentinel-3 deniz rengi ürünlerini eklemek, tek sensörlü analizden çok-sensörlü bir çalışmaya geçiş sağlar.",
-    "idea": "İzmir Körfezi için Sentinel-2 ve Sentinel-3 tabanlı klorofil göstergelerinin mekânsal ve zamansal uyumunu istasyon verileriyle değerlendir.",
-    "concepts": "OLCI · SLSTR · ocean colour · temporal resolution",
-    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-3"
+    "topic": "openEO: veriyi indirmeden analiz etmek",
+    "category": "API / Bulut İşleme",
+    "what": "openEO, Earth Observation verilerini standart bir API üzerinden sunucu tarafında işlemek için geliştirilmiş açık bir arayüzdür. Kullanıcı veri küpünü, mekânsal-zamansal filtreleri ve işlemleri tanımlar; hesaplama verinin bulunduğu altyapıda yapılır.",
+    "why": "STAC/OData ile openEO aynı iş değildir. STAC ve OData ağırlıklı olarak veri keşfi/katalog erişimi sağlarken openEO analiz sürecini de tanımlayabilir. Bu ayrımı bilmek CDSE ekosistemini gerçekten anlamanın temelidir.",
+    "access": "Python istemcisiyle bir backend’e bağlanıp koleksiyonları listeleyebilir, AOI/tarih seçebilir, bant işlemleri ve zamansal indirgeme yapabilir ve sonuç işi oluşturabilirsin.",
+    "you": "GEE deneyimini Copernicus’un kendi ekosistemine taşımanın en mantıklı yollarından biri. CV’de yalnız “Sentinel kullandım” yerine bulut tabanlı EO processing workflow gösterebilirsin.",
+    "idea": "Bir Sentinel-2 indeks zaman serisini hem GEE hem openEO ile üret; veri seçimi, kod yapısı, tekrarlanabilirlik ve işlem yaklaşımını teknik olarak karşılaştır.",
+    "concepts": "data cube · process graph · batch job · backend",
+    "url": "https://documentation.dataspace.copernicus.eu/APIs/openEO.html"
   },
   "curriculum": [
     {
@@ -2420,6 +2420,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7980c04247d0>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7f55408c8ad0>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

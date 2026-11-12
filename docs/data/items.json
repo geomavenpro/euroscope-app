@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T23:55:48.390557+00:00",
+  "updated_at": "2026-11-12T14:27:53.292958+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -822,6 +822,26 @@
       "first_seen": "2026-10-22T10:58:28.537908+00:00"
     },
     {
+      "id": "b11be92c3598a75e",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "November 12, 2026 Copernicus Sentinel-5 Precursor (S5P) products improvement - operational switch Data disruption General New feature Operational ESA news Sentinel-5P Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-11-12-copernicus-sentinel-5-precursor-s5p-products-improvement-operational-switch",
+      "summary": "November 12, 2026 Copernicus Sentinel-5 Precursor (S5P) products improvement - operational switch Data disruption General New feature Operational ESA news Sentinel-5P Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-11-12T14:27:53.292958+00:00"
+    },
+    {
+      "id": "bac5b36e04da0055",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "November 12, 2026 Sentinel High Level Operations Plan updated to version 4.0 Operational ESA news Sentinel-1 Sentinel-2 Sentinel-3 Sentinel-5P Sentinel-6A Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-11-12-sentinel-high-level-operations-plan-updated-version-40",
+      "summary": "November 12, 2026 Sentinel High Level Operations Plan updated to version 4.0 Operational ESA news Sentinel-1 Sentinel-2 Sentinel-3 Sentinel-5P Sentinel-6A Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-11-12T14:27:53.292958+00:00"
+    },
+    {
       "id": "9ae464fd07bd14c9",
       "source": "Copernicus Data Space News",
       "kind": "eo",
@@ -1358,26 +1378,6 @@
       "title": "September 4, 2026 Deployment of Copernicus Sentinel-2 Processing Baseline 05.13 on 21 September 2026 Operational ESA news Sentinel-2 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-9-4-deployment-copernicus-sentinel-2-processing-baseline-0513-21-september-2026",
       "summary": "September 4, 2026 Deployment of Copernicus Sentinel-2 Processing Baseline 05.13 on 21 September 2026 Operational ESA news Sentinel-2 Read article",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-10-22T10:58:28.537908+00:00"
-    },
-    {
-      "id": "e60ec7202279149b",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "September 2, 2026 Copernicus Sentinel-2C Tandem Data Reprocessing Campaign Completed Operational ESA news Sentinel-2 Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-9-2-copernicus-sentinel-2c-tandem-data-reprocessing-campaign-completed",
-      "summary": "September 2, 2026 Copernicus Sentinel-2C Tandem Data Reprocessing Campaign Completed Operational ESA news Sentinel-2 Read article",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-10-22T10:58:28.537908+00:00"
-    },
-    {
-      "id": "bd220b2e6c264988",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "August 30, 2026 Copernicus Sentinel-3B unavailability notice for the Lunar Calibration planned on 28 August 2026 [DOY 240] Operational ESA news Sentinel-3 Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-8-30-copernicus-sentinel-3b-unavailability-notice-lunar-calibration-planned-28-august",
-      "summary": "August 30, 2026 Copernicus Sentinel-3B unavailability notice for the Lunar Calibration planned on 28 August 2026 [DOY 240] Operational ESA news Sentinel-3 Read article",
       "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
       "first_seen": "2026-10-22T10:58:28.537908+00:00"
     },
@@ -2293,15 +2293,15 @@
     }
   ],
   "lesson": {
-    "topic": "Sentinel-5P + TROPOMI: atmosferi haritalamak",
-    "category": "Atmosfer",
-    "what": "Sentinel-5P üzerindeki TROPOMI sensörü NO₂, SO₂, CO, CH₄, ozon, formaldehit ve aerosol gibi atmosfer bileşenlerini küresel ölçekte izler. Bu ürünler doğrudan yer seviyesi hava kalitesi istasyonu ölçümü değildir; atmosferik kolon bilgisini temsil eden ürünlerin fiziksel anlamı analizden önce anlaşılmalıdır.",
-    "why": "Uydu atmosfer ürünlerinde kalite bayrakları ve qa_value gibi değişkenler kritik önemdedir. Haritayı doğrudan ortalamak yerine düşük kaliteli gözlemleri elemek, bulut ve ölçüm geometrisi etkilerini dikkate almak gerekir.",
-    "access": "CDSE üzerinde Sentinel-5P koleksiyonlarına erişilebilir; bazı Level-2 koleksiyonları openEO ile sunucu tarafında işlenebilir. Böylece büyük zaman serilerini tek tek dosya indirmeden analiz etmek mümkündür.",
-    "you": "CBS + iklim/çevre profilin için yeni bir araştırma hattı açar. Arazi kullanımı, ulaşım veya sanayi katmanlarını atmosfer gözlemleriyle ilişkilendirerek EO ile politika/şehir çalışmalarını birleştirebilirsin.",
-    "idea": "Ankara’da 2019–2026 NO₂ mevsimselliğini CLMS arazi örtüsü ve ana ulaşım koridorlarıyla birlikte incele; uydu ürününün sınırlılıklarını ayrıca tartış.",
-    "concepts": "TROPOMI · L2 · qa_value · tropospheric column",
-    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-5p"
+    "topic": "STAC ve OData: katalog API’si ne demek?",
+    "category": "API / Veri Keşfi",
+    "what": "STAC, mekânsal-zamansal varlıkları standart JSON yapılarıyla tanımlayan açık bir katalog yaklaşımıdır. OData ise CDSE kataloğunda ürünleri özelliklerine göre sorgulamak ve erişmek için kullanılan başka bir API yoludur. İkisi de “uydu görüntüsünü analiz eden algoritma” değildir; öncelikle doğru veriyi bulma ve erişim problemini çözer.",
+    "why": "Manuel Browser kullanımı birkaç görüntü için yeterlidir. Yüzlerce tarih, farklı AOI veya tekrarlanan araştırma akışı olduğunda programatik katalog sorgusu araştırmanın tekrarlanabilirliğini ciddi biçimde artırır.",
+    "access": "Python/Colab içinde tarih, geometri, koleksiyon ve ürün özelliklerine göre sorgu kurup sonuç URL/kimliklerini sonraki indirme veya işleme adımına aktarabilirsin.",
+    "you": "Afet öncesi/sonrası veya uzun zaman serisi analizlerinde veri toplama aşamasını otomatikleştirmen için yararlı.",
+    "idea": "Türkiye’de seçilen herhangi bir afet AOI’si için olay tarihinden önce/sonra uygun Sentinel ürünlerini otomatik bulan küçük bir “EO Data Finder” geliştir.",
+    "concepts": "catalogue · collection · item · spatial/temporal query",
+    "url": "https://documentation.dataspace.copernicus.eu/APIs.html"
   },
   "curriculum": [
     {
@@ -2400,6 +2400,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x70378c6a4980>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x78b018a9cec0>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T23:46:39.667546+00:00",
+  "updated_at": "2026-11-19T15:01:55.454285+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -812,6 +812,16 @@
       "first_seen": "2026-10-22T10:58:28.537908+00:00"
     },
     {
+      "id": "ccaa42cb5bb789f5",
+      "source": "Copernicus Data Space News",
+      "kind": "eo",
+      "title": "November 19, 2026 Copernicus Sentinel-3B unavailability notice for the IP #169 Manoeuvre planned on 19 November 2026 [DOY 323] Operational ESA news Sentinel-3 Read article",
+      "url": "https://dataspace.copernicus.eu/news/2026-11-19-copernicus-sentinel-3b-unavailability-notice-ip-169-manoeuvre-planned-19-november",
+      "summary": "November 19, 2026 Copernicus Sentinel-3B unavailability notice for the IP #169 Manoeuvre planned on 19 November 2026 [DOY 323] Operational ESA news Sentinel-3 Read article",
+      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
+      "first_seen": "2026-11-19T15:01:55.454285+00:00"
+    },
+    {
       "id": "e7531c593eda0d2c",
       "source": "Copernicus Data Space News",
       "kind": "eo",
@@ -1358,16 +1368,6 @@
       "title": "September 15, 2026 Activation of Copernicus Sentinel-2 Processing Baseline 05.13 on 21 September 2026 Operational ESA news Sentinel-2 Read article",
       "url": "https://dataspace.copernicus.eu/news/2026-9-15-activation-copernicus-sentinel-2-processing-baseline-0513-21-september-2026",
       "summary": "September 15, 2026 Activation of Copernicus Sentinel-2 Processing Baseline 05.13 on 21 September 2026 Operational ESA news Sentinel-2 Read article",
-      "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
-      "first_seen": "2026-10-22T10:58:28.537908+00:00"
-    },
-    {
-      "id": "314128023c7e07f9",
-      "source": "Copernicus Data Space News",
-      "kind": "eo",
-      "title": "September 11, 2026 Copernicus Sentinel-3A unavailability notice for the CAM Manoeuvre #162 planned on 11 September 2026 [DOY 254] Operational ESA news Sentinel-3 Read article",
-      "url": "https://dataspace.copernicus.eu/news/2026-9-11-copernicus-sentinel-3a-unavailability-notice-cam-manoeuvre-162-planned-11-september",
-      "summary": "September 11, 2026 Copernicus Sentinel-3A unavailability notice for the CAM Manoeuvre #162 planned on 11 September 2026 [DOY 254] Operational ESA news Sentinel-3 Read article",
       "potential": "YÜKSEK — Teknik öğrenme, Türkiye uygulaması ve CV/makale çıktısına dönüşme potansiyeli var.",
       "first_seen": "2026-10-22T10:58:28.537908+00:00"
     },
@@ -2293,18 +2293,15 @@
     }
   ],
   "lesson": {
-    "topic": "Sentinel-1: radar gözünden Dünya",
-    "category": "Sentinel / SAR",
-    "what": "Sentinel-1, C-band sentetik açıklıklı radar (SAR) kullanan Copernicus görevidir. Optik bir kamera gibi yansıyan güneş ışığını ölçmek yerine kendi mikrodalga sinyalini gönderip yüzeyden dönen sinyali kaydeder. Bu nedenle gece-gündüz çalışabilir ve bulutluluk optik sistemlere göre çok daha az sorun yaratır.",
-    "why": "Sentinel-1 yalnızca bir “radar görüntüsü” kaynağı değildir. GRD ürünleri taşkın, kıyı ve arazi değişimi gibi uygulamalarda; SLC ürünleri ise faz bilgisini koruduğu için interferometri ve yüzey deformasyonu çalışmalarında kritik rol oynar.",
-    "access": "Copernicus Data Space Browser ile görsel keşif yapabilir; STAC/OData ile ürün arayabilir; Python/openEO gibi araçlarla iş akışını otomatikleştirebilirsin. InSAR için ürün tipini ve yörünge geometrisini özellikle doğru seçmek gerekir.",
-    "you": "PS-InSAR deneyiminle doğrudan bağlantılı. Yeni bir bölgeyi sıfırdan işlemek yerine Copernicus EGMS sonuçlarıyla kendi InSAR sonuçlarını karşılaştırarak yöntem doğrulaması ve ölçek karşılaştırması yapabilirsin.",
-    "idea": "Bir maden/heyelan alanında kendi PS-InSAR hız alanın ile EGMS hızlarını; mekânsal kapsama, LOS hızları, anomali konumları ve veri yoğunluğu açısından karşılaştır.",
-    "details": "Sentinel-1 verisini okurken dört şeyi birlikte düşün: ürün seviyesi, çekim modu, polarizasyon ve yörünge. GRD genlik bilgisini pratik biçimde sunar; SLC ise kompleks veri ve faz bilgisini korur. IW modu kara uygulamalarında en sık karşılaşacağın moddur. VV/VH gibi polarizasyonlar yüzey pürüzlülüğü, yapı ve nem koşullarına farklı duyarlılık gösterir. InSAR tarafında iki görüntünün faz farkından doğrudan dikey hareket ölçülmez; ölçüm sensörün bakış doğrultusundaki LOS bileşenidir. Bu nedenle ascending/descending geometri ve referans noktası yorumda önemlidir.",
-    "workflow": "1) Araştırma sorusunu belirle. 2) Uygun SLC/GRD ürününü seç. 3) Aynı yörünge/geometriyi koru. 4) Kalite ve ön işlem adımlarını uygula. 5) Sonucu EGMS gibi bağımsız ürünlerle karşılaştır.",
-    "limits": "Radarın buluttan etkilenmemesi her yüzeyde kusursuz sonuç verdiği anlamına gelmez. Bitki örtüsü, kar, hızlı yüzey değişimi ve zamansal dekorrelasyon interferometrik tutarlılığı düşürebilir.",
-    "concepts": "SAR · SLC/GRD · LOS · InSAR",
-    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-1"
+    "topic": "Sentinel-3: kıyı ve çevre izlemede farklı ölçek",
+    "category": "Sentinel / Okyanus-Kara",
+    "what": "Sentinel-3; okyanus rengi, kara/deniz yüzey sıcaklığı ve yüzey özelliklerini izleyen çok sensörlü bir görevdir. Sentinel-2 kadar yüksek mekânsal çözünürlük hedeflemez; bunun yerine geniş alanı sık tekrarlarla gözlemek çevresel zaman serileri için avantaj sağlar.",
+    "why": "Bir sensörün “daha yüksek çözünürlüklü” olması her zaman daha iyi olduğu anlamına gelmez. Kıyı su kalitesi gibi konularda Sentinel-2 mekânsal ayrıntı sağlarken Sentinel-3 daha sık ve geniş ölçekli çevresel gözlem sağlayabilir.",
+    "access": "CDSE üzerinden Sentinel-3 koleksiyonları keşfedilebilir ve indirilebilir. Ürün seçerken sensör ve ürün tipini araştırma sorusuna göre ayırmak gerekir.",
+    "you": "İzmir Körfezi çalışmanda Sentinel-2 tabanlı göstergelerin yanına Sentinel-3 deniz rengi ürünlerini eklemek, tek sensörlü analizden çok-sensörlü bir çalışmaya geçiş sağlar.",
+    "idea": "İzmir Körfezi için Sentinel-2 ve Sentinel-3 tabanlı klorofil göstergelerinin mekânsal ve zamansal uyumunu istasyon verileriyle değerlendir.",
+    "concepts": "OLCI · SLSTR · ocean colour · temporal resolution",
+    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-3"
   },
   "curriculum": [
     {
@@ -2403,6 +2400,6 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7f9e37f3a390>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7f1e9cbc2a50>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T16:50:19.810159+00:00",
+  "updated_at": "2026-11-25T01:49:00.844286+00:00",
   "items": [
     {
       "id": "a59501af9cabcc31",
@@ -1833,15 +1833,15 @@
     }
   ],
   "lesson": {
-    "topic": "Sentinel-3: kıyı ve çevre izlemede farklı ölçek",
-    "category": "Sentinel / Okyanus-Kara",
-    "what": "Sentinel-3; okyanus rengi, kara/deniz yüzey sıcaklığı ve yüzey özelliklerini izleyen çok sensörlü bir görevdir. Sentinel-2 kadar yüksek mekânsal çözünürlük hedeflemez; bunun yerine geniş alanı sık tekrarlarla gözlemek çevresel zaman serileri için avantaj sağlar.",
-    "why": "Bir sensörün “daha yüksek çözünürlüklü” olması her zaman daha iyi olduğu anlamına gelmez. Kıyı su kalitesi gibi konularda Sentinel-2 mekânsal ayrıntı sağlarken Sentinel-3 daha sık ve geniş ölçekli çevresel gözlem sağlayabilir.",
-    "access": "CDSE üzerinden Sentinel-3 koleksiyonları keşfedilebilir ve indirilebilir. Ürün seçerken sensör ve ürün tipini araştırma sorusuna göre ayırmak gerekir.",
-    "you": "İzmir Körfezi çalışmanda Sentinel-2 tabanlı göstergelerin yanına Sentinel-3 deniz rengi ürünlerini eklemek, tek sensörlü analizden çok-sensörlü bir çalışmaya geçiş sağlar.",
-    "idea": "İzmir Körfezi için Sentinel-2 ve Sentinel-3 tabanlı klorofil göstergelerinin mekânsal ve zamansal uyumunu istasyon verileriyle değerlendir.",
-    "concepts": "OLCI · SLSTR · ocean colour · temporal resolution",
-    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-3"
+    "topic": "Sentinel-5P + TROPOMI: atmosferi haritalamak",
+    "category": "Atmosfer",
+    "what": "Sentinel-5P üzerindeki TROPOMI sensörü NO₂, SO₂, CO, CH₄, ozon, formaldehit ve aerosol gibi atmosfer bileşenlerini küresel ölçekte izler. Bu ürünler doğrudan yer seviyesi hava kalitesi istasyonu ölçümü değildir; atmosferik kolon bilgisini temsil eden ürünlerin fiziksel anlamı analizden önce anlaşılmalıdır.",
+    "why": "Uydu atmosfer ürünlerinde kalite bayrakları ve qa_value gibi değişkenler kritik önemdedir. Haritayı doğrudan ortalamak yerine düşük kaliteli gözlemleri elemek, bulut ve ölçüm geometrisi etkilerini dikkate almak gerekir.",
+    "access": "CDSE üzerinde Sentinel-5P koleksiyonlarına erişilebilir; bazı Level-2 koleksiyonları openEO ile sunucu tarafında işlenebilir. Böylece büyük zaman serilerini tek tek dosya indirmeden analiz etmek mümkündür.",
+    "you": "CBS + iklim/çevre profilin için yeni bir araştırma hattı açar. Arazi kullanımı, ulaşım veya sanayi katmanlarını atmosfer gözlemleriyle ilişkilendirerek EO ile politika/şehir çalışmalarını birleştirebilirsin.",
+    "idea": "Ankara’da 2019–2026 NO₂ mevsimselliğini CLMS arazi örtüsü ve ana ulaşım koridorlarıyla birlikte incele; uydu ürününün sınırlılıklarını ayrıca tartış.",
+    "concepts": "TROPOMI · L2 · qa_value · tropospheric column",
+    "url": "https://dataspace.copernicus.eu/explore-data/data-collections/sentinel-data/sentinel-5p"
   },
   "curriculum": [
     {
@@ -1940,10 +1940,10 @@
     }
   ],
   "errors": [
-    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x7009ea1e3ad0>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))",
-    "Copernicus Land News: HTTPSConnectionPool(host='land.copernicus.eu', port=443): Max retries exceeded with url: /en/news (Caused by ConnectTimeoutError(<HTTPSConnection(host='land.copernicus.eu', port=443) at 0x7009e9fe7ad0>, 'Connection to land.copernicus.eu timed out. (connect timeout=35)'))",
-    "Copernicus Land Products: HTTPSConnectionPool(host='land.copernicus.eu', port=443): Max retries exceeded with url: /en/products (Caused by ConnectTimeoutError(<HTTPSConnection(host='land.copernicus.eu', port=443) at 0x7009e9bd9d30>, 'Connection to land.copernicus.eu timed out. (connect timeout=35)'))",
-    "Eionet: HTTPSConnectionPool(host='www.eionet.europa.eu', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.eionet.europa.eu', port=443) at 0x7009e9c4ca40>, 'Connection to www.eionet.europa.eu timed out. (connect timeout=35)'))",
-    "Eionet Dataflows: HTTPSConnectionPool(host='www.eionet.europa.eu', port=443): Max retries exceeded with url: /reportnet/dataflows (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.eionet.europa.eu', port=443) at 0x7009e9c4d3d0>, 'Connection to www.eionet.europa.eu timed out. (connect timeout=35)'))"
+    "AÇA Türkiye: HTTPSConnectionPool(host='aca.csb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='aca.csb.gov.tr', port=443) at 0x77e4a46025d0>, 'Connection to aca.csb.gov.tr timed out. (connect timeout=35)'))",
+    "Copernicus Land News: HTTPSConnectionPool(host='land.copernicus.eu', port=443): Max retries exceeded with url: /en/news (Caused by ConnectTimeoutError(<HTTPSConnection(host='land.copernicus.eu', port=443) at 0x77e4a385f8c0>, 'Connection to land.copernicus.eu timed out. (connect timeout=35)'))",
+    "Copernicus Land Products: HTTPSConnectionPool(host='land.copernicus.eu', port=443): Max retries exceeded with url: /en/products (Caused by ConnectTimeoutError(<HTTPSConnection(host='land.copernicus.eu', port=443) at 0x77e4a38d0260>, 'Connection to land.copernicus.eu timed out. (connect timeout=35)'))",
+    "Eionet: HTTPSConnectionPool(host='www.eionet.europa.eu', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.eionet.europa.eu', port=443) at 0x77e4a379ba10>, 'Connection to www.eionet.europa.eu timed out. (connect timeout=35)'))",
+    "Eionet Dataflows: HTTPSConnectionPool(host='www.eionet.europa.eu', port=443): Max retries exceeded with url: /reportnet/dataflows (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.eionet.europa.eu', port=443) at 0x77e4a379b110>, 'Connection to www.eionet.europa.eu timed out. (connect timeout=35)'))"
   ]
 }
